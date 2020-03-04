@@ -149,15 +149,15 @@ hydejack:
 collections:
   featured_categories:
     permalink:         /category/:name/
-    output:            true
+    output:            false
 
   featured_tags:
     permalink:         /tag/:name/
-    output:            true
+    output:            false
 
   projects:
     permalink:         /projects/:path/
-    output:            true
+    output:            false
 
 
 # File inclusion/exclusion
