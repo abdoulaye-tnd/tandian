@@ -9,42 +9,11 @@ menu: true
 order: 1
 ---
 
-**Hydejack** is the complete package for professionals on the web.
-It features a blog suitable for both prose and technical documentation,
-a showcase for your projects, and a resume that is well-integrated with the design.
+Here you can find a list of books that I have read and the notes that I have taken during the process. They are meant to be concise and to highlight the in my opinion most important aspects of the book. But, they may not reflect my own opinion.
 
-> Your presence on the web --- A [blog], a [portfolio] and a [resume].
-{:.lead}
 
-## Download
-There are two versions of **Hydejack**: The *free version* includes basic blogging functionality,
-as did previous versions of the theme.
-The *PRO version* includes additional features for professionals:
-A [portfolio], a [resume] layout and a [welcome] page to feature your favorite projects and posts.
 
-This table details what is and isn't included in each respective version.
 
-|                                     | Free                                   | PRO                                          |
-|:------------------------------------|:--------------------------------------:|:--------------------------------------------:|
-| Blog                                | &#x2714;                               | &#x2714;                                     |
-| [Features][feat]                    | &#x2714;                               | &#x2714;                                     |
-| [Portfolio] Layout                  |                                        | &#x2714;                                     |
-| [Resume] Layout                     |                                        | &#x2714;                                     |
-| [Welcome] Layout                    |                                        | &#x2714;                                     |
-| [Newsletter Box][news]              |                                        | &#x2714;                                     |
-| [Custom Forms][forms]               |                                        | &#x2714;                                     |
-| No Hydejack Branding                |                                        | &#x2714;                                     |
-| License                             | [GPL-3.0][license]                     | [PRO]                                        |
-| Source                              | [GitHub][src]                          | Included                                     |
-| Support[^1]                         | No                                     | No                                           |
-| Price                               | Free                                   | $29                                          |
-|                                     | [**Download**][kit]                    | [**Buy Now - $29**][buy] [^2]                |
-{:.stretch-table}
-
-[^1]: You MAY open an issue on GitHub, but no response and/or fix is guaranteed.
-      You understand that using Jekyll requires technical know-how, and is NOT comparable to Wordpress in terms of usability.
-      Please use the free version to confirm that Hydejack works for you.
-      For more, see the [PRO] license.
 
 ## Features
 Both versions include these features:
@@ -82,32 +51,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ~~~
 
-### LaTeX Math Blocks
-Write formulas in familiar LaTeX syntax. Powered by [KaTeX].
 
-$$
-\begin{aligned}
-  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
-            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
-            &= (x_1, \ldots, x_n)
-               \left(\begin{array}{ccc}
-                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
-                 \vdots          & \ddots & \vdots         \\
-                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
-               \end{array}\right)
-               \left(\begin{array}{c}
-                 y_1    \\
-                 \vdots \\
-                 y_n
-               \end{array}\right)
-\end{aligned}
-$$
-
-### Newsletter Subscription Box*
-The *PRO version* has built-in support for [Tinyletter] subscription boxes.
-
-If you are using a different newsletter service, like MailChimp,
-you can build a custom newsletter subscription box using [custom forms][forms].
 
 ## Versions
 ### Free Version
@@ -115,20 +59,8 @@ The *free version* features the design and tech of **Hydejack**, but only suppor
 
 [**Download**][kit]
 
-### PRO Version
-The *PRO version* aims to be the complete package for professionals on the web.
-It includes layouts for your [portfolio],
-your [resume] (with support for [JSON Resume](https://jsonresume.org/)),
-a [welcome] page to introduce yourself to visitors,
-built-in support for [Tinyletter], and from element styles so you can build arbitrary contact forms.
 
-[**Buy Now - $29**][buy] [^2]
 
-[^2]: Transactions secured by [Stripe](https://stripe.com). Downloads handled by [Simple Goods](https://simplegoods.co/).  
-
-[blog]: https://qwtel.com/hydejack/blog/
-[portfolio]: https://qwtel.com/hydejack/variations/
-[resume]: https://qwtel.com/hydejack/resume/
 [download]: https://qwtel.com/download/
 [welcome]: https://qwtel.com/hydejack/
 [forms]: https://qwtel.com/hydejack/forms-by-example/
