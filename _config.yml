@@ -81,13 +81,13 @@ accent_color:          '#4fb1ba'
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://qwtel.com/hydejack/docs/configuration/>
-google_fonts:          Fira+Sans:700|Helvetica+Cap:400,400i,900,900i
+google_fonts:          Fira+Sans:700|PT+Serif:400,400i,900,900i
 
 # The text font. Expects a string that is a valid CSS font-family value.
 font:                  Fira Sans, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
-font_heading:          Helvetica, Arial, sans-serif
+font_heading:          "PT Serif",Helvetica, Arial, sans-serif
 
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
