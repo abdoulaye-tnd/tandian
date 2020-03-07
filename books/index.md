@@ -33,7 +33,7 @@ order: 5
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded}
 
-[Abdoulaye]: Abdoulaye.md
+[Abdoulaye]: telunhomme.md
 [upgrade]: upgrade.md
 [config]: config.md
 [basics]: basics.md
