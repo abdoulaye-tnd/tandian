@@ -2,19 +2,23 @@
 layout: post
 title: Tel un homme pense
 description: >
-  Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
-author: author2
-canonical_url: http://hyde.getpoole.com/2012/02/06/whats-jekyll/
+  This is a normal paragraph following a header.
+  GitHub is a code hosting platform for version control and collaboration.
+  It lets you and others work together on projects from anywhere.
+tags: [hydejack]
 ---
 
-## Thought and character
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-There are two versions of : The *free version* includes basic blogging functionality,
-as did previous versions of the theme.
+[Link to another page](another-page).
 
-> As a man thinketh in his heart so is he.
-> As a man thinketh in his heart so is he.
+There should be whitespace between paragraphs.
 
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
