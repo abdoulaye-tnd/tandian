@@ -81,10 +81,11 @@ accent_color:          '#4fb1ba'
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://qwtel.com/hydejack/docs/configuration/>
-font:         "'Roboto Slab', Helvetica, Arial, sans-serif"
-font_heading: "'Montserrat', Helvetica, Arial, sans-serif"
-google_fonts: "Roboto+Slab:700|Montserrat:400,400i,700,700i"
 
+
+font:         "'Righteous', Helvetica, Arial, sans-serif"
+font_heading: "'Roboto Slab', Helvetica, Arial, sans-serif"
+google_fonts: "Roboto+Slab:700|Righteous:400,400i,700,700i"
 
 
 # 3rd Party Integrations
