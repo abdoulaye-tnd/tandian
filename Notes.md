@@ -13,4 +13,4 @@ Both versions include these features:
 * [As a man thinketh by James Allen]
 
 
-[As a man thinketh by James Allen]: notes/Tel_un_homme_pense
+[As a man thinketh by James Allen]: ../notes/Tel_un_homme_pense
