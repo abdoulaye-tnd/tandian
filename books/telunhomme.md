@@ -7,25 +7,25 @@ description: >
 
 ---
 
-There are multiple ways of installing Hydejack.
-The easiest and cleanest way is [via the Starter Kit](#via-starter-kit).
-Alternatively, you can use the [Ruby gem](#via-gem).
-If you don't mind a cluttered source directory, you can use [the zip file](#via-zip).
-Finally, If you know what you are doing, you can [fork the git repository](#via-git).
 
-Buyers of the PRO version should [follow these steps](#pro-version).
+## Thought and character
 
+> As a man thinketh in his heart so is he
 
+- thinking noble and god-like shapes the character over time in this direction
+- any level of nobility can be attained simply by the right thoughts
+- we are our own masters of thought and therefore shapers of our destiny
 
-## Via Starter Kit
-Using the Starter Kit has the advantage of not cluttering your blog repository.
-Additionally, it allows you to publish your site on GitHub Pages with a single `push`.
+## Effect of thought on circumstances
 
-If you have a GitHub account, fork the [hydejack-starter-kit](https://github.com/qwtel/hydejack-starter-kit) repository.
-Otherwise [download the source files](https://github.com/qwtel/hydejack-starter-kit/archive/master.zip)
-and unzip them somewhere on your machine.
+- thoughts have to be cultivated and critically examined
+> every man is where he is by the law of his being
 
-**NOTE**: In addition to the docs here, you can follow the quick start guide in the starter kit.
-{:.message}
+- circumstances grow out of one’s own thoughts
+- the soul will always attracts which it harbors
 
-> Salut
+> good thoughts bear good fruit, bad thoughts bad fruit
+
+> Good thoughts and actions can never produce bad results
+
+- suffering is the result of one’s mental disharmony
