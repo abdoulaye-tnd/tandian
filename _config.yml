@@ -82,10 +82,10 @@ accent_color:          '#4fb1ba'
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://qwtel.com/hydejack/docs/configuration/>
 
-font:         "'Righteous', Helvetica, Arial, sans-serif"
-font_heading: "'Fredoka One', Helvetica, Arial, sans-serif"
+font:         "'Righteous', Arial, sans-serif"
+font_heading: "'Fredoka One', Arial, sans-serif"
 
-google_fonts: "Fredoka+One:700|Righteous:400,400i,700,700i"
+google_fonts: "Patua+One:800|Righteous:500,500i,800,800i"
 
 
 
