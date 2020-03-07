@@ -10,7 +10,7 @@ order: 5
 ## Analyse et Résumé
 {:.hr}
 
-- [Tel un homme pense]{:.heading.flip-title} 
+* [Tel un homme pense]{:.heading.flip-title} 
 {:.related-posts.faded}
 
 
