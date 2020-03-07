@@ -87,7 +87,7 @@ google_fonts:          Fira+Sans:700|Helvetica+Cap:400,400i,900,900i
 font:                  Fira Sans, Helvetica, Arial, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
-font_heading:          'Concourse Cap',Helvetica, Arial, sans-serif
+font_heading:          Helvetica, Arial, sans-serif
 
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
