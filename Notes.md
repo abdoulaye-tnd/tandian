@@ -14,4 +14,4 @@ Vous trouverez ici une liste de livres et d'articles que j'ai lus et les notes a
 
 
 [As a man thinketh by James Allen]: ../notes/Tel_un_homme_pense
-[Tobirama]: ../notes/ab
+[Tobirama]: ../_posts//2017/11/22/example-content/
