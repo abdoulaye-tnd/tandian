@@ -14,6 +14,7 @@ Both versions include these features:
 - Habit by William James
 - How to stop worrying and start living by Dale Carnegie
 - For more, see the [docs] license.
+- [docs] license.
 - Influencing human behavior by Harry Overstreet
 - The Law of Success in Sixteen Lessons by Napoleon Hill
 - The Magic of Thinking Big by David Schwartz
