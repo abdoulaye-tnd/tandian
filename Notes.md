@@ -13,4 +13,4 @@ Both versions include these features:
 * [As a man thinketh by James Allen]
 
 
-[As a man thinketh by James Allen]: books/Tel un homme pense
+[As a man thinketh by James Allen]: ../books/Tel un homme pense
