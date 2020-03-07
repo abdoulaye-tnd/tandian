@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Tel un homme pense
-description: >Below you can find my notes of James Allens’s book: As a man thinketh.
+description: > 
+    Below you can find my notes of James Allens’s book: As a man thinketh.
 menu: false
 order: 2
 ---
