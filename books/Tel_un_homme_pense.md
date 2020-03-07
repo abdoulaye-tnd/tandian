@@ -12,7 +12,6 @@ There are two versions of **Hydejack**: The *free version* includes basic bloggi
 as did previous versions of the theme.
 
 > As a man thinketh in his heart so is he.
-{:.lead}
+
 
 > As a man thinketh in his heart so is he.
-{:.lead}
