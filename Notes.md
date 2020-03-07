@@ -20,12 +20,3 @@ Both versions include these features:
 - Think and grow rich by Napoleon Hill
 * [As a man thinketh by James Allen]({{ site.baseurl }}/pages/test)
 
-
-
-
-[**Download**][kit]
-
-
-
-[download]: https://qwtel.com/download/
-
