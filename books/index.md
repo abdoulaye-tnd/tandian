@@ -2,25 +2,15 @@
 layout: page
 title: Documentation
 description: >
-  Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
+  Vous trouverez ici une liste de livres et d’articles que j’ai lus et les notes associés que j’ai prises. Ils sont censés être concis et mettre en évidence les élements les plus importants, selon moi, du livre. Mais, ils peuvent ne pas refléter ma propre opinion et pensée.
 menu: true
 order: 5
 ---
 
-Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
-Should you discover a mistake in the docs (or a bug in general) feel free to [open an issue](https://github.com/qwtel/hydejack/issues) on GitHub.
-
-**NOTE**: While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
-{:.message}
-
-Buyers of the PRO version can jump straight to [installation for pro buyers](install.md#pro-version),
-or [upgrades for pro buyers](upgrade.md#pro-version).
-
-## Getting started
+## Analyse et Résumé
 {:.hr}
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
+* [Abdoulaye]{:.heading.flip-title} --- How to install and run Hydejack.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
