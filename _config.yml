@@ -83,7 +83,7 @@ accent_color:          '#4fb1ba'
 # See: <https://qwtel.com/hydejack/docs/configuration/>
 
 font:         "'Righteous', Arial, sans-serif"
-font_heading: "'Fredoka One', Arial, sans-serif"
+font_heading: "'Patua One', Arial, sans-serif"
 
 google_fonts: "Patua+One:800|Righteous:500,500i,800,800i"
 
