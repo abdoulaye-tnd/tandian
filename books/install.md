@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Install
+title: Abdoulaye
 description: >
   There are multiple ways of installing Hydejack and this document lays them out for you.
   The easiest way is with the Hydejack Starter Kit.
