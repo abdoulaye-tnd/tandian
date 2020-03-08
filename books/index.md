@@ -10,9 +10,10 @@ order: 5
 ## Analyse et Résumé
 {:.hr}
 
-* [Tel un homme pense]{:.heading.flip-title} 
+* [Tel un homme pense]{:.heading.flip-title} --- James Allen
+* [Pere riche Pere pauvre]{:.heading.flip-title} --- Robert Kiyosaki
 {:.related-posts.faded}
 
 
 [Tel un homme pense]: telunhomme.md
-
+[Pere riche Pere pauvre]: pereriche.md
