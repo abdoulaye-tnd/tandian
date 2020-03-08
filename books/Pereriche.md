@@ -246,5 +246,26 @@ Cela requiert une grande dose de courage pour ne pas laisser les rumeurs, les pa
 > Une de mes amies, a vu récemment son appartement se faire cambrioler. Les voleurs emportèrent sa télévision et son lecteur de DVD et laissèrent sur place tous ses livres. Et nous avons tous ce choix. Je le répète 90% des gens achète des téléviseurs et environ seulement 10% achète des livres sur les affaires ou des DVD concernant les investissements. 
 
 
+### Choisissez vos amis prudemment: Le pouvoir de l'association 
+
+- Il est essentiel d'apprendre de différentes personnes que nous rencontrons. 
+
+- Les gens qui ont de l'argent parlent d'argent. Le sujet les intéresse. 
+
+### Maîtrisez une formule et apprenez-en une nouvelle: Le pouvoir d'apprendre rapidement
+
+- Vous devenez ce que vous étudiez.
+- Soyez prudent quant à ce que vous apprenez, car votre esprit est si puissant que vous devenez ce que vous avez dans la tête. 
+
+- Si vous étudiez la cuisine, vous aurez tendance à cuisiner.
+- Si vous ne voulez pas être cuisinier, il faut alors étudier dans un autre domaine. 
+
+- Quand il s'agit d'argent; le grand public retient généralement une formule de base apprise à l'école : Travaillez pour de l'argent
+
+- Si vous en avez assez de ce que vous faites, ou si vous ne touchez pas suffisamment d'argent, il s'agit simplement que vous changiez la formule au moyen de laquelle vous gagnez votre argent 
+
+### Payez-vous en priorité : Le pouvoir de l'autodiscipline
+
+- Si vous ne pouvez pas vous maîtriser vous-même, n'essayez pas de devenir riche. Cela n'a aucun sens d'investir, de faire de l'argent et de le gaspiller bêtement. 
 
 
