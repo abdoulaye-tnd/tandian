@@ -16,4 +16,4 @@ order: 5
 
 
 [Tel un homme pense]: telunhomme.md
-[Pere riche Pere pauvre]: pereriche.md
+[Pere riche Pere pauvre]: Pereriche.md
