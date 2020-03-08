@@ -2,7 +2,7 @@
 layout: page
 title: Tel un homme pense
 description: >
-  Below you can find my notes of James Allens’s book: As a man thinketh.
+  Vous trouverez ici mes notes du livre de James Allens: Tel un homme pense.
 
 
 ---
@@ -15,8 +15,7 @@ vient des graines secrètes de sa pensée et n'aurait pu avoir lieu sans elles. 
 aux actes dits spontanés, ou non prémédités, qu'à ceux qu'on exécute délibérément.
 
 - Un caractère noble et fort n’est pas le résultat de la chance, il est plutôt la conséquence naturelle d’un effort constant de cultiver les bonnes pensées.
-- any level of nobility can be attained simply by the right thoughts
-- we are our own masters of thought and therefore shapers of our destiny
+
 
 ## L’effet des pensées sur les circonstances
 
