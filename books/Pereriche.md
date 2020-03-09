@@ -8,7 +8,7 @@ description: >
 ---
 
 
-# LES RICHES NE TRAVAILLENT PAS POUR L'ARGENT
+## LES RICHES NE TRAVAILLENT PAS POUR L'ARGENT
 
 - La plupart des gens s'en tiennent aux paroles et au rêve d'être riches mais ne passent jamais à l'action
 > Si vous etes incapables de prendre des décisions rapides, jamais vous n'apprendrez à gagner de l'argent
@@ -31,7 +31,7 @@ description: >
 
 - Voir ce que les autres ne voient pas; Plus vous oublierez rapidement votre besoin de toucher un salaire, plus votre vie adulte en sera faicilitée
 
-# POURQUOI ENSEIGNER L'ABC du DOMAINE FINANCIER 
+## POURQUOI ENSEIGNER L'ABC du DOMAINE FINANCIER 
 
 > Ce qui compte dans la ve ce n'est pas combien d'argent vous faites, mais combien d'argent vous parvenez à conserver 
 
@@ -41,7 +41,7 @@ description: >
 
 > Régle n1 : Il faut connaitre la différence entre un actif et un passif, et acheter des actifs
 
-- Si vous voulez devenir, voilà tout ce qu'il vous faut savoir. 
+- Si vous voulez devenir riche, voilà tout ce qu'il vous faut savoir. 
 
 > Si c'est aussi simple que ça, pourquoi tous ne sont pas riches ? 
 > Parce que les gens ne connaissent pas la différence entre un actif et un passif. 
@@ -66,7 +66,7 @@ description: >
 
 > Si vous vous retrouverez vous-même dans un trou... cessez de creuser 
 
-- Bien trop souvent la plupart des gens imitent la foule. Ils font certaiines chosesparce que tout le monde le fait. Ils se conforment aux façons de vivre des autres au lieu de se questionner. 
+- Bien trop souvent la plupart des gens imitent la foule. Ils font certaines choses parce que tout le monde le fait. Ils se conforment aux façons de vivre des autres au lieu de se questionner. 
 
 - Vous travaillez pour une entreprise 
 - Vous travaillez pour le gourvenement --- Du mois de janvier au mois de mai 
@@ -76,31 +76,31 @@ description: >
 - Occupez vous de vos affaires, Axez vos efforts à acquérir des actifs. 
 
 
-# OCCUPEZ-VOUS DE VOS PROPRES AFFAIRES 
+## OCCUPEZ-VOUS DE VOS PROPRES AFFAIRES 
 
 > Commencez donc à vous occuper de vos propres affaires. Conservez votre emploi de jour et mettez-vous à acheter de véritables actifs. 
 > N'achetz pas des éléments de passif ou des effets personnels qui n'ont pas de réelle valeur dès qe vous les ramenez chez vous. 
 
 ### Actifs proposés par Robert Kiyosaki :
-> Des entreprises qui ne requièrent pas ma présence
-> Les Actions et obligations 
-> Les biens immobiliers qui génèrent des revenus 
-> Les reconnaissances de dette 
-> Tout ce qui prend de la valeur et trouve facilement un débouché. 
+> -Des entreprises qui ne requièrent pas ma présence
+- Les Actions et obligations 
+- Les biens immobiliers qui génèrent des revenus 
+- Les reconnaissances de dette 
+- Tout ce qui prend de la valeur et trouve facilement un débouché. 
 
-- Occupez vous de vos propres affaires : Edifiez votre coone de l'actif et Veuillez à ce qu'elle reste solide 
+- Occupez vous de vos propres affaires : Edifiez votre colone de l'actif et veuillez à ce qu'elle reste solide 
 - Quand un dollar y entre, ne l'en laissez jamais sortir. Il devient votre votre employé et travaille 24/7. 
 - Conservez votre emploi de jour, Soyez un employé qui travaille dur, mais continuez d'ériger, de construire cette colonne de l'actif. 
 
-# L'HISTORIQUE DES TAXES ET LE POUVOIR DES ENTREPRISES 
+## L'HISTORIQUE DES TAXES ET LE POUVOIR DES ENTREPRISES 
 
-> Chaque fois que des gens essaient d'infliger au riche une forme de pénalité, ces derniers réagissent. Ils ont le pouvoir la détermination nécessaires pour changer des choses, minimiser le fardeau. 
+> Chaque fois que des gens essaient d'infliger au riche une forme de pénalité, ces derniers réagissent. Ils ont le pouvoir et la détermination nécessaires pour changer des choses, minimiser le fardeau. 
 
 - Les propiétaires d'entreprises : 1. Ont des gains 2. Dépensent 3. Paient des taxes 
 - Les employés travaillant pour des entreprises : 1. Ont des gains 2. Paient des taxes 3. Dépensent 
 
 
-# LES RICHES ENGENDRENT L'ARGENT 
+## LES RICHES ENGENDRENT L'ARGENT 
 
 - La peur excessive et le manque de confiance en soi sont les pires détracteurs du génie personnel. 
 - Il arrive fréquemment dans la réalité que ce ne soit pas les êtres rusés qui prennent de l'avance mais les audacieux. 
@@ -109,12 +109,12 @@ description: >
 - La majorité des individus ne connaissent qu'une seule solution travailler dur, économiser et emprunter. 
 
 - Les pauvres et la classe moyenne travaillent pour gagner de l'argent. les riches produisent de l'argent 
-- Plus vous pensez que l'argent est réek et plus dur vous travaillerez pour le gagner. SI vous parvenez à comprendre que l'argent n'est pas réel, alors vous vous enrichirez plus vite. 
-- Notre esprit est l'actif le plus puissant et le plus puissant et le plus unique que nous possédons tous. 
+- Plus vous pensez que l'argent est réel et plus dur vous travaillerez pour le gagner. SI vous parvenez à comprendre que l'argent n'est pas réel, alors vous vous enrichirez plus vite. 
+- Notre esprit est l'actif le plus puissant et le plus unique que nous possédons tous. 
 - Un esprit bien entrainé peut produire d'énormes richesses. 
 - Un esprit qui n'est pas entrainé peut produire une extrême pauvreté. 
 
-# TRAVAILLEZ POUR APPRENDRE, NE TRAVAILLEZ PAS POUR L'ARGENT 
+## TRAVAILLEZ POUR APPRENDRE, NE TRAVAILLEZ PAS POUR L'ARGENT 
 
 - Le monde est remplie de gens intelligents, talentueux; instruits et très doués. Nous les croisons tous les jours. Ils sont partout autour de nous. 
 > Il y a quelques jours, mon auto ne fonctionnait pas bien. J'entrai dans un garage et le jeune mécanicien régla le problème en quelques minutes seulement. Il comprit ce qui n'allait pas en écoutant simplement le bruit du moteur. J'étais confondu
@@ -128,10 +128,10 @@ description: >
 
 - Les travailleurs prennent-ils leur avenir en considération ou bien se contentent-ils d'attendre leur prochaine paye, sans jamais se questionner sur la direction qu'ils empruntent ? 
 
-> "Lesquels d'entre vous peuvent préparer un meilleur hamburger que McDonald's ? " Presque tous les étudiants lévent la maison, Je leur demande ensuite " Par conséquent, si la plupart d'entre vous peuvent préparer un meilleur hamburger, comment se fait-il que McDonald's fasse plus d'argent que vous ? " 
+> "Lesquels d'entre vous peuvent préparer un meilleur hamburger que McDonald's ? " Presque tous les étudiants lévent la main, Je leur demande ensuite " Par conséquent, si la plupart d'entre vous peuvent préparer un meilleur hamburger, comment se fait-il que McDonald's fasse plus d'argent que vous ? " 
 > La raison est évidente: McDonald's excelle dans les systèmes commerciaux. La raison pour laquelle tant de gens talentueux sont pauvres est qu'ils se concentrent à fabriquer un meilleur hamburger et connaissent peu de choses ou rien du tout en ce qui a trait aux systèmes commerciaux
 
-- Beaucoup de gens se concentrent ç perfectionner leur habilité à préparer un meilleur hamburger au lieu d'améliorer leurs aptitudes à vendre le hamburger et à tenir parole en ce qui a trait à ce produit
+- Beaucoup de gens se concentrent à perfectionner leur habilité à préparer un meilleur hamburger au lieu d'améliorer leurs aptitudes à vendre le hamburger et à tenir parole en ce qui a trait à ce produit
 
 - Les plus importantes compétences spécialisées sont la vente et le marketting. C'est la capacité de vendre -- par conséquent d'entrer en contact avec un autre être humaiain
 - C'est la compétence fondamentale de la réussite professionnelle. 
@@ -144,11 +144,11 @@ description: >
 
 - Le don d'argent est le secret de la plupart des grandes familles riches. 
 
-> Mon pere pauvre disait toujours " Quand j'aurai un surplus d'argent, je le donnerai" le problème c'est qu'il n'y avait jamais de surplus.Il ne se concentrer pas sur la plus importante loi de l'argent. 
+> Mon pere pauvre disait toujours " Quand j'aurai un surplus d'argent, je le donnerai" le problème c'est qu'il n'y avait jamais de surplus.Il ne se concentrait pas sur la plus importante loi de l'argent. 
 
 - La loi de l'argent : "Donnez et vous recevrez" au lieu de cela beaucoup croit en "Recevez et vous donnerez ensuite"
 
-# COMMENT SURMONTER LES OBSTACLES 
+## COMMENT SURMONTER LES OBSTACLES 
 
 ### Cinq Raisons pour lesquels les gens qui connaissent l'A B C du domaine financier ne dévélopperont peut-être pas de riches colonnes de l'actif qui pourrait générer d'importantes sommes. 
 1. La peur 
@@ -213,11 +213,12 @@ Cela requiert une grande dose de courage pour ne pas laisser les rumeurs, les pa
 
 - Quand vous savez que vous êtes ignorant sur un sujet précis. Instruisez-vous. 
 
-# Lancez-vous 
+## Lancez-vous 
 > Il y'a de l'or partout. La plupart des gens ne sont pas entrainés à le voir. 
+
 - Voici les 10 étapes pour développer son génie financier. 
 
-### Trouvez une raison plus grande que nature : Le pouvoir de l'esprit
+### 1. Trouvez une raison plus grande que nature : Le pouvoir de l'esprit
 
 > Si vous demandez à la plupart des gens s'ils aimeraient être riches ou financièrement indépendants, ils répondent oui. Mais c'est là que la réalité intervient. La route leur semble trop longue et il y a beaucoup trop de collines à monter. Il est plus facile de ne travaillquer que pour l'argent. 
 
@@ -236,23 +237,23 @@ Cela requiert une grande dose de courage pour ne pas laisser les rumeurs, les pa
 
 - Quels sont les vôtres ? Si elle ne sont pas suffisamment solides , la dure réalité de la route peut s'avérerer plus forte que vos raisons. 
 
-### Faites des choix quotidiens : Le pouvoir du choix 
+### 2. Faites des choix quotidiens : Le pouvoir du choix 
 > Le choix est la principale raison pourquoi les gens veulent vivre dans un paus libre. Nous voulons le pouvoir de choisir. 
 
 - Chaque dollar qui passe dans nos mains nous accorde le pouvoir de choisir notre avenir: être riche, pauvre ou dans la classe moyenne. 
-- Nos habitudes de dépenses reflètent qui nous sommes. Les gens pauvres ont simplement de pitoyables habitudes de dépenses. 
+- Nos habitudes de dépenses reflètent qui nous sommes. beaucoup de gens pauvres ont simplement de pitoyables habitudes de dépenses. 
 - La plupart des gens choisissent de ne pas être riches car cela représente bien trop de tracas pour eux. Ils inventent donc des phrases comme : " l'argent ne m'intéresse pas" " je ne serai jamais riche" "quand j'aurais de l'argent, je penserai alors à mon avenir" 
 
 > Une de mes amies, a vu récemment son appartement se faire cambrioler. Les voleurs emportèrent sa télévision et son lecteur de DVD et laissèrent sur place tous ses livres. Et nous avons tous ce choix. Je le répète 90% des gens achète des téléviseurs et environ seulement 10% achète des livres sur les affaires ou des DVD concernant les investissements. 
 
 
-### Choisissez vos amis prudemment: Le pouvoir de l'association 
+### 3. Choisissez vos amis prudemment: Le pouvoir de l'association 
 
 - Il est essentiel d'apprendre de différentes personnes que nous rencontrons. 
 
 - Les gens qui ont de l'argent parlent d'argent. Le sujet les intéresse. 
 
-### Maîtrisez une formule et apprenez-en une nouvelle: Le pouvoir d'apprendre rapidement
+### 4. Maîtrisez une formule et apprenez-en une nouvelle: Le pouvoir d'apprendre rapidement
 
 - Vous devenez ce que vous étudiez.
 - Soyez prudent quant à ce que vous apprenez, car votre esprit est si puissant que vous devenez ce que vous avez dans la tête. 
@@ -264,8 +265,108 @@ Cela requiert une grande dose de courage pour ne pas laisser les rumeurs, les pa
 
 - Si vous en avez assez de ce que vous faites, ou si vous ne touchez pas suffisamment d'argent, il s'agit simplement que vous changiez la formule au moyen de laquelle vous gagnez votre argent 
 
-### Payez-vous en priorité : Le pouvoir de l'autodiscipline
+### 5. Payez-vous en priorité : Le pouvoir de l'autodiscipline
 
 - Si vous ne pouvez pas vous maîtriser vous-même, n'essayez pas de devenir riche. Cela n'a aucun sens d'investir, de faire de l'argent et de le gaspiller bêtement. 
+- Payez vous en priorité
+- La plupart des gens permettent au reste du monde de marcher sur les peids. 
+> Si par malchance il m'arrive de manquer d'argent, je continue de me payer en priorité, malgré les réclamations des créanciers et du gouvernement? J'aime quand ils durcissent le ton. Pourquoi ? Car leur attitude me rend un grand service :
+Ils me poussent à sortir de chez moi afin de générer plus d'argent. 
+- Les gens pauvres ont de mauvaises habitudes. Une de ces habitudes fréquence chez eux est appelé innoncement : "Puiser dans ses économies". Les gens fortunés savent que les économies ne servent qu'à gagner plus d'argent, et non pas à payer les factures. 
+
+### 6. Rémunérez bien vos courtiers : Un bon conseil représente une grande force 
+- Plusieurs sont disposés à vous former
+- Soyez juste et la plupart d'entre eux le seront avec vous.
+- Si votre unique objectif est de réduire leur commission, quel intérêt auraient-ils à demeurer avec vous ? simple question de logique. 
+
+### 7. "Donner à l'indienne" : Le pouvoir d'acquérir quelque chose gratuitement 
+
+- Ne ouez  qu'avec de l'argent que vous pouvez vous permettre de perdre. 
+> Sur 10 investissement que je fais, je gagne le gros lot à deux ou trois reprises; pour cinq ou six, je ne gagne ni ne perds tandis que dans deux ou trois autres cas, je perds du capital. 
+
+### 8. Se payer du luxe grâce à ses actifs : Le pouvoir de se concentrer 
+
+- Maîtriser le pouvoir de l'autodiscipline. 
+- Ayez l'aptitude à administrer de l'argent pour en faire davantage : 
+
+> Si on donne 10 000 euros à 100 personnes au début d'une année, je peux vous prédire qu'au terme de cette année : 
+- 80 personnes n'auront plus rien de la somme de départ. ( plusieurs auront contracté davantage de dettes) 
+- 16 auront augmenté cette somme de 5% à 10%
+- 4 auront transformé les 10 000 en 20 000
+
+> De nos jours, on pense trop souvent à emprunter de l'argent pour obtenir ce que l'on convoite au lieu de se creuser les méninges pour générer de l'argent. La première démarche est plus facile à court terme, mais elle réserve des surprises désagréables à long terme.
+
+- Rappelez vous ceci : une route facile devient souvent difficile, et une route difficile devient souvent facile.
+
+### 9. Choisir des héros : Le pouvoir du mythe 
+
+- Les hérons nous donnent l'impression que leurs exploits sont faciles à accomplir
+- Cette perception nous convainc de vouloir être exactement comme eux 
+- "S'ils peuvent le faire, je le veux aussi" 
+> Quand l s'agit d'investir, beaucoup de gens disent que c'est un secteur difficile. Au lieu de cela, trouvez-vous des héros qui vous donneront l'impression que c'est facile. 
+
+### 10. Enseignez et vous recevrez : Le pouvoir de donner
+
+-  "Si tu veux quelque chose, tu dois d'abord donner"
+
+> Si je pouvais te léguer une seule idée, ce serait celle-ci : chaque fois que tu te sentiras " à court " ou "dans le besoin" de quelque chose, donne d'abord ce que tu voudrais et cela te reviendra au centuple.
+
+- Cela est vrai pour l'argent, l'amour, l'amitié et un sourire. 
+
+> Je sais que c'est souvent la dernière chose qu'une personne voudrait faire, mais dans mon cas cela a toujours marché. 
+
+- Le principe de réciprocité est vrai 
+
+- Je veux de l'argent ? je donne donc de l'argent 
+
+- Je veux conclure des ventes, j'aide donc quelqu'un d'autre à vendre. 
+
+> Bien souvent, le seul fait de réfléchir à ce que je voudrais et d'imaginer ensuite comment je pourrais le donner à quelqu'un d'autre libèrent en moi un torrent de générosité. Quand je sens que des gens me sourient, je me mets simplement à sourire et à dire bonjour. 
+Comme par magie, il y a tout à coup de plus en plus de gens souriants autour de moi.
+
+- Plus vous enseignez avec sincerité à ceux qui veulent apprendre, plus vous apprenez vous-même.
+
+## Voulez-vous en savoir davantage  -- Choses à faire ? 
+
+### Arretez de faire ce que vous faites 
+- Arrêtez-vous un instant et évaluez ce qui marche et ce qui ne marche pas. 
+- La définition de la folie pure et simple est de faire la même chose et s'attendre à un résultat différent.
+- Arretez de faire ce qui ne marche pas et cherchez quelque chose de nouveau à faire 
+
+### Cherchez de nouvelles idées
+- Suivez des cours
+- Lisez
+
+### Trouvez des gens qui ont déjà accompli ce que vous voulez faire 
+
+- Demandez-leur des conseils, des trucs et astuces du métier.
+
+### L'action surpasse toujours l'inaction 
+
+- Vous devez passer à l'action avant que vous ne puissiez en recevoir les récompenses financières. 
+- Agissez maintenant ! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
