@@ -85,3 +85,23 @@ pensées, plus grande sera sa réussite, plus heureuses et durables seront ses r
 - Rêvez des rêves nobles, et au fur et à mesure que vous rêverez, vous deviendrez votre rêve. 
 > Vos circonstances de vie sont peut-être désagréables, mais elles ne perdureront pas si vous
 percevez un idéal et que vous vous efforcez de l’atteindre.
+
+> Le malavisé, l’ignorant, l’indolent, ne voyant que les effets apparents des choses, et non les
+choses elles-mêmes, évoque la chance, le hasard. Voyant qu’un homme est devenu riche, il
+commente : « comme il a de la chance ! » S’agissant d’un autre homme, devenu intellectuellement
+brillant, il s’exclame : « Comme il est favorisé ! » 
+
+## La sérénité
+
+> Un homme devient calme dans la mesure où il se reconnaît comme un être régi par la pensée, car
+une telle connaissance implique de reconnaître que les autres aussi sont le résultat de leur pensée
+
+- L’homme calme, ayant appris à se dominer, sait s’adapter aux autres. Eux, en retour, révèrent sa
+force spirituelle ; ils sentent qu’ils peuvent apprendre de lui et compter sur lui.
+- Plus quelqu’un devient paisible, plus cette personne développe son succès, son influence et sa capacité à faire le
+bien
+
+> Combien connaissons-nous de gens qui dégradent leur vie, ruinent toute douceur et toute beauté
+par des tempéraments explosifs, détruisent l’équilibre de leur caractère et se font du mauvais sang
+! C’est par un manque de maîtrise de soi que la majorité des gens détruisent leur vie et gâchent
+leur bonheur. 
