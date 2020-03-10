@@ -12,8 +12,11 @@ order: 5
 
 * [Tel un homme pense]{:.heading.flip-title} --- James Allen
 * [Pere riche Pere pauvre]{:.heading.flip-title} --- Robert Kiyosaki
+* [L'Art de diriger]{:.heading.flip-title} --- George Patton
+
 {:.related-posts.faded}
 
 
 [Tel un homme pense]: telunhomme.md
 [Pere riche Pere pauvre]: Pereriche.md
+[L'Art de diriger]: artdediriger.md
