@@ -272,7 +272,7 @@ Cela requiert une grande dose de courage pour ne pas laisser les rumeurs, les pa
 - La plupart des gens permettent au reste du monde de marcher sur les peids. 
 > Si par malchance il m'arrive de manquer d'argent, je continue de me payer en priorité, malgré les réclamations des créanciers et du gouvernement? J'aime quand ils durcissent le ton. Pourquoi ? Car leur attitude me rend un grand service :
 Ils me poussent à sortir de chez moi afin de générer plus d'argent. 
-- Les gens pauvres ont de mauvaises habitudes. Une de ces habitudes fréquence chez eux est appelé innoncement : "Puiser dans ses économies". Les gens fortunés savent que les économies ne servent qu'à gagner plus d'argent, et non pas à payer les factures. 
+- Les gens pauvres ont de mauvaises habitudes. Une de ces habitudes fréquente chez eux est appelé innoncement : "Puiser dans ses économies". Les gens fortunés savent que les économies ne servent qu'à gagner plus d'argent, et non pas à payer les factures. 
 
 ### 6. Rémunérez bien vos courtiers : Un bon conseil représente une grande force 
 - Plusieurs sont disposés à vous former
@@ -300,9 +300,9 @@ Ils me poussent à sortir de chez moi afin de générer plus d'argent.
 
 ### 9. Choisir des héros : Le pouvoir du mythe 
 
-- Les hérons nous donnent l'impression que leurs exploits sont faciles à accomplir
+- Les héros nous donnent l'impression que leurs exploits sont faciles à accomplir
 - Cette perception nous convainc de vouloir être exactement comme eux 
-- "S'ils peuvent le faire, je le veux aussi" 
+- "S'ils peuvent le faire, je le peux aussi" 
 > Quand l s'agit d'investir, beaucoup de gens disent que c'est un secteur difficile. Au lieu de cela, trouvez-vous des héros qui vous donneront l'impression que c'est facile. 
 
 ### 10. Enseignez et vous recevrez : Le pouvoir de donner
