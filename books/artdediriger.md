@@ -193,3 +193,9 @@ D'une cetaine façon c'est vrai. Mais c'est une tendance qui va loin, car beauco
 - Continuez de bouger et l'ennemi ne peut pas vous toucher. 
 - Une attitude de gagnant est une attitude mouvement et de progrès. 
 - Vous ne pouvez pas être trainé dans la bout si vous bougez 
+- Ne restez pas au même niveau 
+- Une fleur grandit ou meurt 
+- dites : Je vais devenir meilleur tous les jours 
+- L'action est toujours préférable à l'inaction 
+- Quand vous n'etes pas entrain d'avancer c'est facile de douter , de penser négativement , d'être déprimé ou encore de perdre confiance. 
+
