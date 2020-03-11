@@ -77,3 +77,4 @@ description: >
 <img src="../assets/img/p3.png" width="100%" />
 
 - Vous ne passez pas par le même processus. 
+- L'information peut être transferé par PB seulement si elle atteint le niveau de P0 car elle a maintenant ce que vous voulez et a été là vous en êtes.
