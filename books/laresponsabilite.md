@@ -49,8 +49,31 @@ description: >
 
 - Une des manières avec lesquels on vous fait croire que vous êtes un effet remonte à "qui est-ce que vous écoutez ?"
 
+#### Voici comment les infos arrivent à la plupart des gens 
+
 <img src="../assets/img/p1.png" width="100%" />
 
+- La P0 à ce que vous voulez ( ça peut être de l'argent , le bien être etc. ) 
+- Il partage l'information avec plusieurs personnes dont la personne P1
+- P1 partage cette avec information avec une autre personne P2 
+- P2 Partage l'information avec P3 
+- Ainsi de suite jusqu'à vous 
+- Avez vous déjà jouer au jeu du téléphone arabe ? 
+- La dernière personne ne reçoit pas la bonne information, l'histoire n'est plus la même 
+- Chacun ajoute ses propres filtres, ajoute des choses et change l'histoire
+- Vous n'avez pas toute la vérité
+> Il arrive même parfois que la P2 MENTE à la P3 
+
+#### La solution 
 <img src="../assets/img/p2.png" width="100%" />
 
+- P0 à ce que vous voulez. Elle est honnête; intègre 
+- Elle partage avec tout le monde directement l'information
+- Cette personne aura-t-il le temps de partager avec tout le monde ? Par l'utilisation des medias, à travers les vidéos, les livres, les audios cela peut arriver
+- Si ces personnes obtiennent les bonnes informations qu'est ce qui va arriver à ces personnes ? 
+- Elles deviennent la personne P0 
+- Et devinnez ce qu'elles font maintenant ?
+- **Elles peuvent directement partager ces informations avec d'autres personnes**
 <img src="../assets/img/p3.png" width="100%" />
+
+- Vous ne passez pas par le même processus. 
