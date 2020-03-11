@@ -51,7 +51,7 @@ description: >
 
 #### Voici comment les infos arrivent à la plupart des gens 
 
-![Full-width image]("../assets/img/p2.png"){:.lead}
+![Full-width image](https://github.com/abdoulaye-tnd/tandian/blob/master/assets/img/p1.png){:.lead}
 
 <img src="../assets/img/p1.png" width="100%" />
 
