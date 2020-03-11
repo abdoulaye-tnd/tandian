@@ -51,9 +51,8 @@ description: >
 
 #### Voici comment les infos arrivent à la plupart des gens 
 
-![Full-width image](https://github.com/abdoulaye-tnd/tandian/blob/master/assets/img/p1.png){:.lead}
+![Full-width image]({{ site.baseurl }}/assets/img/p1.png){:.lead}
 
-<img src="{{ site.baseurl }}/pages/test/assets/img/p1.png" width="100%" />
 
 - La P0 à ce que vous voulez ( ça peut être de l'argent , le bien être etc. ) 
 - Il partage l'information avec plusieurs personnes dont la personne P1
@@ -67,9 +66,8 @@ description: >
 > Il arrive même parfois que la P2 MENTE à la P3 
 
 #### La solution 
-![Full-width image]("../assets/img/p2.png"){:.lead}
 
-<img src="{{ site.baseurl }}/pages/test/assets/img/p3.png" width="100%" />
+![Full-width image]({{ site.baseurl }}/assets/img/p2.png){:.lead}
 
 - P0 à ce que vous voulez. Elle est honnête; intègre 
 - Elle partage avec tout le monde directement l'information
