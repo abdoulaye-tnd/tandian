@@ -70,9 +70,9 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
 - Ayez la force de caractère. 
 - Ayez un objectif et ayez une obsession magnifique pour l'atteindre
 - On accuse pas les professeurs, les produids, les dirigeants, les circonstances, le gouvernement. 
-- On prend la responsabilité 
+  On prend la responsabilité 
 - Lorsque l'on prend la responsabilité, on se sent plus comme une victime 
-- Nous sommes en position de force , d'agir et de prendre des décisions 
+  On en position de force , d'agir et de prendre des décisions 
 
 ### L'énergie 
 
@@ -89,8 +89,7 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
 - Un dirigéant prend des décisions 
 - Il ne faut pas que commander, il faut diriger 
 - Dirigez vous avant de diriger les autres. 
-- Un dirigéant fait ce qu'il a à faire
-- Il réçoit un ordre et l'execute
+- Un dirigéant fait ce qu'il a à faire. Il réçoit un ordre et l'execute
 
 > Les personnes qui réussissent sont toujours trop occupé à faire ce dont les autres sont encore entrain parler 
 
