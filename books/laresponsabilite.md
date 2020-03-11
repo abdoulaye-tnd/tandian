@@ -53,7 +53,7 @@ description: >
 
 ![Full-width image](https://github.com/abdoulaye-tnd/tandian/blob/master/assets/img/p1.png){:.lead}
 
-<img src="../assets/img/p1.png" width="100%" />
+<img src="{{ site.baseurl }}/pages/test/assets/img/p1.png" width="100%" />
 
 - La P0 à ce que vous voulez ( ça peut être de l'argent , le bien être etc. ) 
 - Il partage l'information avec plusieurs personnes dont la personne P1
@@ -68,6 +68,8 @@ description: >
 
 #### La solution 
 ![Full-width image]("../assets/img/p2.png"){:.lead}
+
+<img src="{{ site.baseurl }}/pages/test/assets/img/p3.png" width="100%" />
 
 - P0 à ce que vous voulez. Elle est honnête; intègre 
 - Elle partage avec tout le monde directement l'information
