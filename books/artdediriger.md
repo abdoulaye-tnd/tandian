@@ -10,7 +10,7 @@ description: >
 
 ## Pourquoi apprendre l'art de diriger ?
 
-- La personne que vous devez le plus diriger c'est vous-même. 
+> La personne que vous devez le plus diriger c'est vous-même. 
 
 - C'est de votre responsabilité personnelle de réussir, d'avoir du succés. 
 
@@ -47,9 +47,8 @@ description: >
 
 ### Un commandant va commander 
 
-- Vous pêtes en position de commandant , vous avez le commande. 
+- Vous êtes en position de commandant , vous avez le commande. 
 - Un commandant prend la responsaibilité 
-- Un commandant commande 
 - Il n'accuse pas les autres et circonstances extérieures
 
 ### Un commandant est tactiquement agressif 
@@ -69,14 +68,7 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
 - Demandez vous si vous avez la force de caractère 
 - Regardez en arrière et analyser les moments où vous avez manquer de force de caractère
 - Ayez la force de caractère. 
-
-### La constance du but 
-
-- Qu'est ce que la constance du but ? 
 - Ayez un objectif et ayez une obsession magnifique pour l'atteindre
-
-### Accepter la responsabilité 
-
 - On accuse pas les professeurs, les produids, les dirigeants, les circonstances, le gouvernement. 
 - On prend la responsabilité 
 - Lorsque l'on prend la responsabilité, on se sent plus comme une victime 
@@ -99,12 +91,15 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
 - Dirigez vous avant de diriger les autres. 
 - Un dirigéant fait ce qu'il a à faire
 - Il réçoit un ordre et l'execute
-- Les personnes qui réussissent sont toujours trop occupé à faire ce dont les autres sont encore entrain parler 
+
+> Les personnes qui réussissent sont toujours trop occupé à faire ce dont les autres sont encore entrain parler 
+
 - Soyez cette personne qui fait les choses 
 - Si vous devez faire quelque chose, faites le maintenant 
 
 ### Devenez un dirigéant 
-- Un bon dirigéant est reconnu grâce à sa capacité à ce que le travail soit fait 
+> Un bon dirigéant est reconnu grâce à sa capacité à ce que le travail soit fait 
+
 - Vous devez vous l'apprendre avant de l'apprendre aux autres. 
 - Un bon dirigéant se base sur les résultats
 - Il ne confond pas activité et accomplissement 
@@ -129,7 +124,8 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
 
 ### Ayez l'air du rôle 
 
-- Les généraux ne doivent pas montrer de doute ou de fatigue particulierement si ces émotions sont négatifs. 
+> Les généraux ne doivent pas montrer de doute ou de fatigue . Ils ne voit pas montrer leurs emotions particulierement si ces émotions sont négatifs. 
+
 - Vous devez avoir l'air comme le rôle 
 - Parlez comme le rôle 
 - Carnegie à dit "Si vous voulez être enthusiaste, faite semblant et vous allez l'être" 
@@ -152,8 +148,25 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
  
 - Un dirigéant SAIT
 - Il essaye le moins possible de donner ses opinions 
-- Il trouve les faits, les détails 
-
+- Il trouve les faits, les détails, et travaille avec
+- Collecter des données pour vous améliorer. ( Les données sont tout autout de vous )
+- Ne vous basez pas sur les opinions de quelqu'un 
+- 90% de ce que les gens considérent comme des faits sont en fait des opinions
+- Posez des questions pour obtenir les faits 
+- Utiliser les 6 serviteurs, dans l'ordre, qui sont : 
+> - Quoi : Qu'est ce qui s'est passé ?  -- Objectif 
+  - Quand : Quand est-ce que ça s'est passé ?  -- Objectif 
+  - Où : Ou est-ce que ça s'est passé ?  -- Objectif 
+  - Qui : Qui était là ?  -- Objectif
+  - Comment : Comment ça s'est passé ? -- Subjectif 
+  - Pourquoi : Pourquoi ça s'est passé ? -- Purement subjectif, une opinion 
+  
+- Utiliser des termes tels que : "Précisement", "Exactement" 
+  Qu'est ce qui s'est passé exactement ? 
+  
+- Prenez vos décisions à partir des faits 
+- Avec des faits vous prenez des meilleurs décisions
+ 
 ### Le kilométre supplémentaire 
 
 - Faites plus que ce qu'on vous demande de faire 
@@ -167,19 +180,21 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
 
 ### L'engagement 
 
-- Pour commander une armée, un commandant ne doit penser qu'à ça.
-- Focaliser sur vos objectifs, sur les affaires, sur le travail que vous avez à faire. 
+> Pour commander une armée, un commandant ne doit penser qu'à ça.
+
+- Focaliser sur vos objectifs, sur les affaires ou sur le travail que vous avez à faire. 
 - Vous devez avoir une obsession magnifique 
 - Vous ne serez pas équilibré pendant une courte période 
-- Si c'est votre but, votre objectif vous pensez à ça régulièrement 
+- Si c'est votre but (votre objectif) vous y pensez régulièrement 
 - Regarder les personnes qui ont reussi comment ils agissaient quand ils étaient entrain de reussir. 
 Ils ne pensaient que à ça, ils n'étaient pas équilirés
 - Le succés est une attitude 
 
 ### Travaillez sur le complexe de superiorité 
 
-- Attaquez toujours, n'abandonnez jamais 
-- La plupart d'entre nous ont été élever à rester humble, pour être modeste, pour ne pas se vanter.
+> Attaquez toujours, n'abandonnez jamais 
+
+- La plupart d'entre nous ont été élevés à rester humble, pour être modeste, pour ne pas se vanter.
 D'une cetaine façon c'est vrai. Mais c'est une tendance qui va loin, car beaucoup viennent à en penser que les autres sont meilleurs, ont plus de talent, plus de determination, de courage ou même de chance. 
 - Cela provoque un complexe d'infériorité 
 - Le fait de penser que vous n'êtes pas assez bon ne va vous donner aucun résultat. C'est une évidence. 
@@ -191,11 +206,106 @@ D'une cetaine façon c'est vrai. Mais c'est une tendance qui va loin, car beauco
 ### Allez de l'avant 
 
 - Continuez de bouger et l'ennemi ne peut pas vous toucher. 
-- Une attitude de gagnant est une attitude mouvement et de progrès. 
+- Une attitude de gagnant est une attitude de mouvement et de progrès. 
 - Vous ne pouvez pas être trainé dans la bout si vous bougez 
 - Ne restez pas au même niveau 
 - Une fleur grandit ou meurt 
 - dites : Je vais devenir meilleur tous les jours 
 - L'action est toujours préférable à l'inaction 
-- Quand vous n'etes pas entrain d'avancer c'est facile de douter , de penser négativement , d'être déprimé ou encore de perdre confiance. 
 
+> Quand vous n'etes pas entrain d'avancer c'est facile de douter , de penser négativement , d'être déprimé ou encore de perdre confiance. 
+
+### Lisez des livres 
+
+- Lire et relire les campagnes de grand capitaines (des gens dont vous vous inspirez) 
+- Quand vous lisez, pensez à ce que vous venez de lire 
+- Il n'y a pas de nouvelles batailles. C'est pourquoi il faut lire encore et encore les biographies, autobiographie etc. 
+- L'information qu'il y a dans les livres est ce sur quoi vous devez focaliser. 
+- Vous devez être un étudiant continue
+- Ce n'est pas quelque chose à faire une fois
+- Assurez vous que votre façon de penser est correcte
+- Il faut faire les bonnes choses suffisamment longtemps régulièrement. 
+
+> Les personnes qui réussissent sont toujours prêt à faire ce que les autres ne sont pas prêt à faire
+
+### La fatigue 
+ 
+- Les commandants fatigués sont toujours pessimistes. 
+- Vous devez connaitre vos limites 
+- Sachez quand vous êtes emotionnellement et physiquement fatigué
+- Si vous êtes fatigué, prenez un pas de recul et reposez vous. 
+ 
+### La chance 
+ 
+> Dans la guerre, rien n'est aussi mauvais que ça en a l'air, ni aussi bon que ça en a l'air 
+ 
+- Ne réagissez pas jamais trop aux situations
+- Préparer votre chance
+- La fortune est une femme qui doit être convoité pendant qu'elle est de bonne humeur. 
+- Aucun dirigéant ne laisse la chance venir passivement 
+- Si vous pensez correctement, vous aurez plus d'opportunités qui auront l'air d'être de la chance. 
+- Est-ce que vous avez de la chance ? 
+- Ce que tu crois que tu es ou n'est pas dans les deux cas tu as raison 
+- Vous pourriez décider d'avoir de la chance
+- Si vous dites " tout s'arrange toujours pour moi" vous verrez des résultats 
+
+### Lancez vous 
+- Prenez des décisions cohérentes avec vos valeurs 
+- Prenez des décisions maintenant, il n'y a pas de bon moment pour agir. 
+
+> Un bon plan violemment executé maitenant est meilleur qu'un plan parfait executé la semaine prochaine 
+
+- Aucun plan n'est parfait, aucun business plan n'est suivi à la lettre
+- Investissez dans les êtres humains 
+- L'homme est la seule machine de guerres 
+- La plupart des gens se plaignent et disent "Je n'ai pas les bons outils, je ne connais pas les bonnes personnes" 
+- C'est l'esprit, la détermination de l'homme qui vous fait gagner une guerre ( de réussir ) 
+- Apprendre la valeur de la loyauté 
+- Un employé loyal esst préférable à un employé intelligent 
+- Soyez loyal envers vous-même, envers vos valeurs
+
+> Vous devez d'abord être loyal envers les autres, vos employés , vos amies , vos clients, votre équipe. 
+
+### La cohérence 
+
+> Assurer vous que vos pensées sont cohérents et alignés
+
+- Nos valeurs doivent être unies, cohérentes comme une famille
+- Vous ne devez pas avoir deux pensées, valeurs, contraires 
+
+> - Largent ne fait pas le bonheur
+  - Sans argent tu ne peux rien acheter 
+ 
+- Ces deux valeurs peuvent être potentiellement en opposition, pas aligné. 
+ 
+>- Je veux être mince 
+ - Je deteste faire de l'exercice, j'aime bien manger tard le soir 
+
+- Prenez un cheval qui tire une charette d'un certains poids 
+  Si vous prenez deux chevaux, ils ne tireront pas 2 fois plus de poids. Ils pourront tirer 3/4 fois plus. 
+  
+- Faites en sorte que vos valeurs travaillent ensemble
+- Assuez vous que vos pensées soient alignés, focalisés sur un même objectif. 
+- Le personnel ne peut pas fonctionner si elle n'est pas une famille unie
+
+### L'enseignement 
+
+- Les dirigéants enseignent 
+- Formez vos personnels 
+- Soyez un motivateur 
+- Vous n'avez pas de personnel ? 
+> Formez vous vous-même 
+- La première personne que vous devez diriger, c'est vous-même 
+
+- Vous devez connaitre ces choses assez bien pour les enseigner. Et quelle est la meilleure méthode pour connaitre ces choses ? En les enseignants 
+- Vous devez vous l'enseigner à vous-même d'abord. 
+- Faites les choses 
+- Soyez genereux lorsque vous attribuez une réussite à quelqu'un 
+
+### Vous devenez ce à quoi vous pensez le plus souvent
+
+-- Formez
+ 
+
+
+- Faites en sorte que vos valeurs soient synchronisés 
