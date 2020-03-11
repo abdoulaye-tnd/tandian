@@ -51,6 +51,8 @@ description: >
 
 #### Voici comment les infos arrivent à la plupart des gens 
 
+![Full-width image]("../assets/img/p2.png"){:.lead}
+
 <img src="../assets/img/p1.png" width="100%" />
 
 - La P0 à ce que vous voulez ( ça peut être de l'argent , le bien être etc. ) 
@@ -65,7 +67,7 @@ description: >
 > Il arrive même parfois que la P2 MENTE à la P3 
 
 #### La solution 
-<img src="../assets/img/p2.png" width="100%" />
+![Full-width image]("../assets/img/p2.png"){:.lead}
 
 - P0 à ce que vous voulez. Elle est honnête; intègre 
 - Elle partage avec tout le monde directement l'information
@@ -74,7 +76,7 @@ description: >
 - Elles deviennent la personne P0 
 - Et devinnez ce qu'elles font maintenant ?
 - **Elles peuvent directement partager ces informations avec d'autres personnes**
-<img src="../assets/img/p3.png" width="100%" />
+![Full-width image](../assets/img/p3.png){:.lead}
 
 - Vous ne passez pas par le même processus. 
 - L'information peut être transferé par PB seulement si elle atteint le niveau de P0 car elle a maintenant ce que vous voulez et a été là vous en êtes.
