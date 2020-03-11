@@ -49,3 +49,8 @@ description: >
 
 - Une des manières avec lesquels on vous fait croire que vous êtes un effet remonte à "qui est-ce que vous écoutez ?"
 
+<img src="/assets/img/p1.jpg" width="100%" />
+
+<img src="/assets/img/p2.jpg" width="100%" />
+
+<img src="/assets/img/p3.jpg" width="100%" />
