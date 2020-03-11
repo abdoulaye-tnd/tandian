@@ -76,7 +76,7 @@ description: >
 - Elles deviennent la personne P0 
 - Et devinnez ce qu'elles font maintenant ?
 - **Elles peuvent directement partager ces informations avec d'autres personnes**
-![Full-width image](../assets/img/p3.png){:.lead}
+![Full-width image]({{ site.baseurl }}/assets/img/p3.png){:.lead}
 
 - Vous ne passez pas par le même processus. 
 - L'information peut être transferé par PB seulement si elle atteint le niveau de P0 car elle a maintenant ce que vous voulez et a été là vous en êtes.
