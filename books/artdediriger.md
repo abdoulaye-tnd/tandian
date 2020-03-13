@@ -19,7 +19,7 @@ description: >
 - Si vous regarder votre niveau de bonheur, de temps libre, votre situation par rapport à ce que vous voulez, vous n'etes peut-être pas satisfait.
 
 - Vous n'avez pas réaliser ce que vous voulez, vous regardez l'âge que vous avez et voous vous demandez si vous allez les avoir. 
-- A ce point vous commencez à accuser plein de gens,la famille, l'employeur, le gouvernement, les professeurs etc. 
+- A ce point vous commencez à accuser plein de gens, la famille, l'employeur, le gouvernement, les professeurs etc. 
  Vous commencez à justifier à votre situation.
  
 > Ce n'est pas moi, c'est les autres. Vous regardez en dehors comme si c'etait les autres. comme si vous étiez une marionnnette et que vous étiez controlé
@@ -103,7 +103,7 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
 - Un bon dirigéant se base sur les résultats
 - Il ne confond pas activité et accomplissement 
 - Faites que les choses soient faites 
-- Vous grandisez et aurez plus de confiance en vous. 
+- Vous grandirez et aurez plus de confiance en vous. 
 - Il ne peut pas avoir de demi-leader 
 - Soyez un leader à 100%
 - Prenez la responsabilité et faites les choses à faire. 
@@ -112,18 +112,18 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
 
 > Un commandant qui ne peut pas se décider en moins de 48 heures n'est pas apte à diriger. 
 
-- Les décisions qui impliquent vos valeurs de base doivent être pris instantanément. ça doit être une seconde nature pour vois 
+- Les décisions qui impliquent vos valeurs de base doivent être prises instantanément. ça doit être une seconde nature pour vois 
 - Ayez des valeurs de base dans votre vie afin que lorsqu'une décision importante doit être pris vous n'hesitez pas. 
 
 > ça c'est ce que je fais , ça non 
 
 - Vous ne pouvez pas être à moitié dans vos valeurs. 
-- Vous allez tomber pour n'importe quoi si vous ne vous levez pas pour quelque chose
-- Il faut que vous ayez quelques convictions profondes sur quelque sujet
+- Vous allez tomber pour n'importe quoi si vous ne vous levez pas pour quelque chose.
+- Il faut que vous ayez quelques convictions profondes sur quelques sujets.
 
 ### Ayez l'air du rôle 
 
-> Les généraux ne doivent pas montrer de doute ou de fatigue . Ils ne voit pas montrer leurs emotions particulierement si ces émotions sont négatifs. 
+> Les généraux ne doivent pas montrer de doute ou de fatigue . Ils ne doivent pas montrer leurs emotions particulierement si ces émotions sont négatifs. 
 
 - Vous devez avoir l'air comme le rôle 
 - Parlez comme le rôle 
@@ -148,12 +148,12 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
 - Un dirigéant SAIT
 - Il essaye le moins possible de donner ses opinions 
 - Il trouve les faits, les détails, et travaille avec
-- Collecter des données pour vous améliorer. ( Les données sont tout autout de vous )
+- Collecter des données pour vous améliorer. ( Les données sont tout autour de vous )
 - Ne vous basez pas sur les opinions de quelqu'un 
 - 90% de ce que les gens considérent comme des faits sont en fait des opinions
 - Posez des questions pour obtenir les faits 
 - Utiliser les 6 serviteurs, dans l'ordre, qui sont : 
-> - Quoi : Qu'est ce qui s'est passé ?  -- Objectif 
+  - Quoi : Qu'est ce qui s'est passé ?  -- Objectif 
   - Quand : Quand est-ce que ça s'est passé ?  -- Objectif 
   - Où : Ou est-ce que ça s'est passé ?  -- Objectif 
   - Qui : Qui était là ?  -- Objectif
@@ -239,12 +239,12 @@ D'une cetaine façon c'est vrai. Mais c'est une tendance qui va loin, car beauco
 > Dans la guerre, rien n'est aussi mauvais que ça en a l'air, ni aussi bon que ça en a l'air 
  
 - Ne réagissez pas jamais trop aux situations
-- Préparer votre chance
+- Préparez votre chance
 - La fortune est une femme qui doit être convoité pendant qu'elle est de bonne humeur. 
 - Aucun dirigéant ne laisse la chance venir passivement 
 - Si vous pensez correctement, vous aurez plus d'opportunités qui auront l'air d'être de la chance. 
 - Est-ce que vous avez de la chance ? 
-- Ce que tu crois que tu es ou n'est pas dans les deux cas tu as raison 
+- Ce que tu crois que tu es ou n'es pas dans les deux cas tu as raison 
 - Vous pourriez décider d'avoir de la chance
 - Si vous dites " tout s'arrange toujours pour moi" vous verrez des résultats 
 
@@ -272,10 +272,10 @@ D'une cetaine façon c'est vrai. Mais c'est une tendance qui va loin, car beauco
 - Nos valeurs doivent être unies, cohérentes comme une famille
 - Vous ne devez pas avoir deux pensées, valeurs, contraires 
 
-> - Largent ne fait pas le bonheur
-  - Sans argent tu ne peux rien acheter 
+>- Largent ne fait pas le bonheur
+ - Sans argent tu ne peux rien acheter 
  
-- Ces deux valeurs peuvent être potentiellement en opposition, pas aligné. 
+- Ces deux valeurs peuvent être potentiellement en opposition, pas alignés. 
  
 >- Je veux être mince 
  - Je deteste faire de l'exercice, j'aime bien manger tard le soir 
@@ -284,7 +284,7 @@ D'une cetaine façon c'est vrai. Mais c'est une tendance qui va loin, car beauco
   Si vous prenez deux chevaux, ils ne tireront pas 2 fois plus de poids. Ils pourront tirer 3/4 fois plus. 
   
 - Faites en sorte que vos valeurs travaillent ensemble
-- Assuez vous que vos pensées soient alignés, focalisés sur un même objectif. 
+- Assuez vous que vos pensées soient alignées, focalisées sur un même objectif. 
 - Le personnel ne peut pas fonctionner si elle n'est pas une famille unie
 
 ### L'enseignement 
@@ -301,10 +301,4 @@ D'une cetaine façon c'est vrai. Mais c'est une tendance qui va loin, car beauco
 - Faites les choses 
 - Soyez genereux lorsque vous attribuez une réussite à quelqu'un 
 
-### Vous devenez ce à quoi vous pensez le plus souvent
-
--- Formez
- 
-
-
-- Faites en sorte que vos valeurs soient synchronisés 
+#### Vous devenez ce à quoi vous pensez le plus souvent
