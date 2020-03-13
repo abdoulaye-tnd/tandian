@@ -34,7 +34,7 @@ description: >
 - Le succes ne tient qu'à une décision. 
 > C'est l'instant où vous prenez la responsabilité. Vous éliminez le fait d'être un effet
 
-### Le mysticisme amène l'excusite 
+## Le mysticisme amène l'excusite 
 
 > Les gens qui trouvent des excuses pour tout 
 
@@ -46,11 +46,11 @@ description: >
 - Vous êtes la cause,personne d'autre.
 - Assumez la résponsabilité 
 
-### Héritage d'information 
+## Héritage d'information 
 
 - Une des manières avec lesquels on vous fait croire que vous êtes un effet remonte à "qui est-ce que vous écoutez ?"
 
-#### Voici comment les infos arrivent à la plupart des gens 
+### Voici comment les infos arrivent à la plupart des gens 
 
 ![Full-width image]({{ site.baseurl }}/assets/img/p1.png){:.lead}
 
@@ -66,7 +66,7 @@ description: >
 - Vous n'avez pas toute la vérité
 > Il arrive même parfois que la P2 MENTE à la P3 
 
-#### La solution 
+### La solution 
 
 ![Full-width image]({{ site.baseurl }}/assets/img/p2.png){:.lead}
 
