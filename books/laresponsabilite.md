@@ -10,8 +10,8 @@ description: >
 
 ## Cause ou effet
 
-- A tout moment, vous tes dans l'un ou l'autre des cas 
-- Vous etes soit un effet soit une cause. 
+- A tout moment, vous êtes dans l'un ou l'autre des cas 
+- Vous êtes soit un effet soit une cause. 
 - Etre un effet : 
 > - Etre impuisant 
  - Un bateau a voile sans gouvernail 
@@ -20,7 +20,7 @@ description: >
 - Un contrôle complet est exercé sur vous 
 - Un contrôle qui vous fait croire que vous ne pouvez rien, que vous êtes une victime et que ce n'est pas de votre faute. 
 - Lorsque vous dites à quelqu'un que ce n'est pas de sa faute s'il est dans tel ou tel situation vous le rendez impuissant 
-- Vous devez comprendre que vous avez une grande quantité de pensée d'impuissance qui ont été mis par les gens, la télé, les films de manière hyptonique. 
+- Vous devez comprendre que vous avez une grande quantité de pensée d'impuissance qui ont été mis par les gens, la télévision, les films de manière hyptonique. 
 - L'objectif est de devenir une cause 
 > Etre une cause, c'est prendre le contrôle
 
@@ -29,7 +29,7 @@ description: >
 - Il faut éliminer le fait d'être un effet 
 - Eliminer la maladie du mysticisme 
 
-> Le mysticisme est le fait de croire que les circonstances extérieures vous contrôle. n'importe quel influence. 
+> Le mysticisme est le fait de croire que les circonstances extérieures vous contrôlent, n'importe quel influence. 
 
 - Le succes ne tient qu'à une décision. 
 > C'est l'instant où vous prenez la responsabilité. Vous éliminez le fait d'être un effet
@@ -37,6 +37,7 @@ description: >
 ### Le mysticisme amène l'excusite 
 
 > Les gens qui trouvent des excuses pour tout 
+
 - Ils accusent les gens pour leurs problèmes
 - IL y a toujours une raison pour lesquels ils ne réussissent pas. 
 - Jamais ils ne se font de reproche. 
@@ -73,7 +74,7 @@ description: >
 - Elle partage avec tout le monde directement l'information
 - Cette personne aura-t-il le temps de partager avec tout le monde ? Par l'utilisation des medias, à travers les vidéos, les livres, les audios cela peut arriver
 - Si ces personnes obtiennent les bonnes informations qu'est ce qui va arriver à ces personnes ? 
-- Elles deviennent la personne P0 
+- Elles deviennent la personne P0 (c'est à dire, elle a ce que vous voulez)
 - Et devinnez ce qu'elles font maintenant ?
 - **Elles peuvent directement partager ces informations avec d'autres personnes**
 ![Full-width image]({{ site.baseurl }}/assets/img/p3.png){:.lead}
