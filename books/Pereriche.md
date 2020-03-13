@@ -11,10 +11,10 @@ description: >
 ## LES RICHES NE TRAVAILLENT PAS POUR L'ARGENT
 
 - La plupart des gens s'en tiennent aux paroles et au rêve d'être riches mais ne passent jamais à l'action
-> Si vous etes incapables de prendre des décisions rapides, jamais vous n'apprendrez à gagner de l'argent
+> Si vous êtes incapables de prendre des décisions rapides, jamais vous n'apprendrez à gagner de l'argent
 
 > Si tu apprends les leçons de la vie tu t'en sortiras fort bien 
->  Si tu ne l'apprends pas, tu passeras toute ta vie à blâmer ton travail et vivra ta vie dans l'espérance qu'une chance incroyable vienne résoudre tous tes problèmes d'argent
+> Si tu ne l'apprends pas, tu passeras toute ta vie à blâmer ton travail et vivra ta vie dans l'espérance qu'une chance incroyable vienne résoudre tous tes problèmes d'argent
 
 - Il voulait vraiment gagner, mais la peur de perdre était plus forte que l'excitation que procure la victoire
 
@@ -24,7 +24,7 @@ description: >
 
 - Les pauvres et la classe moyenne travaillent pour l'argent. Les riches font en sorte que l'argent travaille pour eux. 
 
-- Il serait atroce de passer toute votre vie dans la peur sans jamais explorer vos rêves. Travailler dur pour de l'argent en pensant que ce dernier vous permettre d'acheter des choses qui vous rendront heureux est également cruel. 
+- Il serait atroce de passer toute votre vie dans la peur sans jamais explorer vos rêves. Travailler dur pour de l'argent en pensant que ce dernier vous permettre d'acheter des choses qui vous rendront heureux est également cruel.
 - Se reveiller terrifié au milieu de la nuit parce que vous devez payer des factures est aussi une horrible façon de vivre. 
 - Une existence qui dépend entièrement du montant d'argent inscrit sur un chèque de salaire n'est pas vraiment une vie
 - Ne laissez pas l'argent contrôler votre vie
@@ -33,9 +33,9 @@ description: >
 
 ## POURQUOI ENSEIGNER L'ABC du DOMAINE FINANCIER 
 
-> Ce qui compte dans la ve ce n'est pas combien d'argent vous faites, mais combien d'argent vous parvenez à conserver 
+> Ce qui compte dans la vie ce n'est pas combien d'argent vous faites, mais combien d'argent vous parvenez à conserver 
 
-- Beaucoup de gens se concentrent à l'exces sur l'argent plutôt que sur leur éducation 
+- Beaucoup de gens se concentrent à l'excès sur l'argent plutôt que sur leur éducation 
 
 - Si les gens sont disposés à garder l'esprit ouvert et à apprendre, ils s'enrichiront de plus en plus en dépit des périodes difficiles. 
 
@@ -57,11 +57,11 @@ description: >
 > Si votre schéma consiste à dépenser tout ce que vous gagnez, il y a de fortes chances pour qu'un accroissement d'argent entraine automatiquement une augmentation des dépenses
 
 
-- Aujourd'hui, les jeunes veulent devenir des athlètes célèbres, des stars, des PDG, pour la simple raison que c'est là que la renommée, l'argent, le prestige se trouvent. Voila pourquoi il est si difficile de motiver les jeunes à l'école de nos jours.
+- Aujourd'hui, les jeunes veulent devenir des athlètes célèbres, des stars, des PDG, pour la simple raison que c'est là que la renommée, l'argent, le prestige se trouvent. Voilà pourquoi il est si difficile de motiver les jeunes à l'école de nos jours.
 - Ils savent que le réussite n'est plus uniquement liée à la réussite scolaire comme auparavant. 
 
-- Il manque à leur éducation ( les étudiants qui quittent l'écolé), à leur instruction, non pas comment de savoir comment gagner de l'argent, mais comment le gérer
-- Cela s'appelle avoir des dispositions pour la finance : Quoi faire avec l'argent une fois que vous l'avez entre les mains, combien de temps réussissez-vous à le conserver, et jusqu'a quel point cet argent travaille-t-il efficace,ent à votre service ? 
+- Il manque à leur éducation ( les étudiants qui quittent l'école), à leur instruction, non pas comment de savoir comment gagner de l'argent, mais comment le gérer
+- Cela s'appelle avoir des dispositions pour la finance : Quoi faire avec l'argent une fois que vous l'avez entre les mains, combien de temps réussissez-vous à le conserver, et jusqu'a quel point cet argent travaille-t-il efficaceent à votre service ? 
 - La véritable raison des problèmes financiers réside dans les choix de dépenses que les personnes font avec l'argent dont ils disposent. 
 
 > Si vous vous retrouverez vous-même dans un trou... cessez de creuser 
@@ -78,18 +78,19 @@ description: >
 
 ## OCCUPEZ-VOUS DE VOS PROPRES AFFAIRES 
 
-> Commencez donc à vous occuper de vos propres affaires. Conservez votre emploi de jour et mettez-vous à acheter de véritables actifs. 
-> N'achetz pas des éléments de passif ou des effets personnels qui n'ont pas de réelle valeur dès qe vous les ramenez chez vous. 
+> Commencez donc à vous occuper de vos propres affaires. Conservez votre emploi de jour et mettez-vous à acheter de véritables actifs.
 
-### Actifs proposés par Robert Kiyosaki :
-> -Des entreprises qui ne requièrent pas ma présence
+> N'achetez pas des éléments de passif ou des effets personnels qui n'ont pas de réelle valeur dès qe vous les ramenez chez vous. 
+
+### Actifs proposés par Robert Kiyosaki 
+> - Des entreprises qui ne requièrent pas ma présence
 - Les Actions et obligations 
 - Les biens immobiliers qui génèrent des revenus 
 - Les reconnaissances de dette 
 - Tout ce qui prend de la valeur et trouve facilement un débouché. 
 
 - Occupez vous de vos propres affaires : Edifiez votre colone de l'actif et veuillez à ce qu'elle reste solide 
-- Quand un dollar y entre, ne l'en laissez jamais sortir. Il devient votre votre employé et travaille 24/7. 
+- Quand un dollar y entre, ne l'en laissez jamais sortir. Il devient votre employé et travaille 24/7. 
 - Conservez votre emploi de jour, Soyez un employé qui travaille dur, mais continuez d'ériger, de construire cette colonne de l'actif. 
 
 ## L'HISTORIQUE DES TAXES ET LE POUVOIR DES ENTREPRISES 
@@ -109,7 +110,7 @@ description: >
 - La majorité des individus ne connaissent qu'une seule solution travailler dur, économiser et emprunter. 
 
 - Les pauvres et la classe moyenne travaillent pour gagner de l'argent. les riches produisent de l'argent 
-- Plus vous pensez que l'argent est réel et plus dur vous travaillerez pour le gagner. SI vous parvenez à comprendre que l'argent n'est pas réel, alors vous vous enrichirez plus vite. 
+- Plus vous pensez que l'argent est réel et plus dur vous travaillerez pour le gagner. Si vous parvenez à comprendre que l'argent n'est pas réel, alors vous vous enrichirez plus vite. 
 - Notre esprit est l'actif le plus puissant et le plus unique que nous possédons tous. 
 - Un esprit bien entrainé peut produire d'énormes richesses. 
 - Un esprit qui n'est pas entrainé peut produire une extrême pauvreté. 
@@ -129,6 +130,7 @@ description: >
 - Les travailleurs prennent-ils leur avenir en considération ou bien se contentent-ils d'attendre leur prochaine paye, sans jamais se questionner sur la direction qu'ils empruntent ? 
 
 > "Lesquels d'entre vous peuvent préparer un meilleur hamburger que McDonald's ? " Presque tous les étudiants lévent la main, Je leur demande ensuite " Par conséquent, si la plupart d'entre vous peuvent préparer un meilleur hamburger, comment se fait-il que McDonald's fasse plus d'argent que vous ? " 
+
 > La raison est évidente: McDonald's excelle dans les systèmes commerciaux. La raison pour laquelle tant de gens talentueux sont pauvres est qu'ils se concentrent à fabriquer un meilleur hamburger et connaissent peu de choses ou rien du tout en ce qui a trait aux systèmes commerciaux
 
 - Beaucoup de gens se concentrent à perfectionner leur habilité à préparer un meilleur hamburger au lieu d'améliorer leurs aptitudes à vendre le hamburger et à tenir parole en ce qui a trait à ce produit
@@ -198,7 +200,7 @@ Cela requiert une grande dose de courage pour ne pas laisser les rumeurs, les pa
 - Voilà la forme la plus fréquente que revêt la négligence : être négligent tout en restant occupé. 
 
 - Le remède contre la négligence ?  Un peu d'avidité. 
-- Une personne a besoin de se s'asseoir et de se demander : " Que serait ma vie si je n'avais plus jamais à travailler ?" " Que ferais-je si j'avais tout l'argent dont j'ai besoin ?" 
+- Une personne a besoin de s'asseoir et de se demander : " Que serait ma vie si je n'avais plus jamais à travailler ?" " Que ferais-je si j'avais tout l'argent dont j'ai besoin ?" 
 - Notre monde fait des progrès, car nous souhaitons tous une vie meilleure. 
 
 - Cependant une trop grande avitié n'est pas bonne. 
@@ -235,13 +237,13 @@ Cela requiert une grande dose de courage pour ne pas laisser les rumeurs, les pa
 - Je veux pouvoir contrôler ma vie et mon emploi du temps
 - Je veux que l'argent soit à mon service. 
 
-- Quels sont les vôtres ? Si elle ne sont pas suffisamment solides , la dure réalité de la route peut s'avérerer plus forte que vos raisons. 
+- Quels sont les vôtres ? Si elles ne sont pas suffisamment solides, la dure réalité de la route peut s'avérerer plus forte que vos raisons. 
 
 ### 2. Faites des choix quotidiens : Le pouvoir du choix 
-> Le choix est la principale raison pourquoi les gens veulent vivre dans un paus libre. Nous voulons le pouvoir de choisir. 
+> Le choix est la principale raison pourquoi les gens veulent vivre dans un pays libre. Nous voulons le pouvoir de choisir. 
 
-- Chaque dollar qui passe dans nos mains nous accorde le pouvoir de choisir notre avenir: être riche, pauvre ou dans la classe moyenne. 
-- Nos habitudes de dépenses reflètent qui nous sommes. beaucoup de gens pauvres ont simplement de pitoyables habitudes de dépenses. 
+- Chaque dollar qui passe dans nos mains nous accorde le pouvoir de choisir notre avenir : être riche, pauvre ou dans la classe moyenne. 
+- Nos habitudes de dépenses reflètent qui nous sommes. Beaucoup de gens pauvres ont simplement de pitoyables habitudes de dépenses. 
 - La plupart des gens choisissent de ne pas être riches car cela représente bien trop de tracas pour eux. Ils inventent donc des phrases comme : " l'argent ne m'intéresse pas" " je ne serai jamais riche" "quand j'aurais de l'argent, je penserai alors à mon avenir" 
 
 > Une de mes amies, a vu récemment son appartement se faire cambrioler. Les voleurs emportèrent sa télévision et son lecteur de DVD et laissèrent sur place tous ses livres. Et nous avons tous ce choix. Je le répète 90% des gens achète des téléviseurs et environ seulement 10% achète des livres sur les affaires ou des DVD concernant les investissements. 
@@ -281,7 +283,7 @@ Ils me poussent à sortir de chez moi afin de générer plus d'argent.
 
 ### 7. "Donner à l'indienne" : Le pouvoir d'acquérir quelque chose gratuitement 
 
-- Ne ouez  qu'avec de l'argent que vous pouvez vous permettre de perdre. 
+- Ne jouez  qu'avec de l'argent que vous pouvez vous permettre de perdre. 
 > Sur 10 investissement que je fais, je gagne le gros lot à deux ou trois reprises; pour cinq ou six, je ne gagne ni ne perds tandis que dans deux ou trois autres cas, je perds du capital. 
 
 ### 8. Se payer du luxe grâce à ses actifs : Le pouvoir de se concentrer 
@@ -303,7 +305,7 @@ Ils me poussent à sortir de chez moi afin de générer plus d'argent.
 - Les héros nous donnent l'impression que leurs exploits sont faciles à accomplir
 - Cette perception nous convainc de vouloir être exactement comme eux 
 - "S'ils peuvent le faire, je le peux aussi" 
-> Quand l s'agit d'investir, beaucoup de gens disent que c'est un secteur difficile. Au lieu de cela, trouvez-vous des héros qui vous donneront l'impression que c'est facile. 
+> Quand il s'agit d'investir, beaucoup de gens disent que c'est un secteur difficile. Au lieu de cela, trouvez-vous des héros qui vous donneront l'impression que c'est facile. 
 
 ### 10. Enseignez et vous recevrez : Le pouvoir de donner
 
