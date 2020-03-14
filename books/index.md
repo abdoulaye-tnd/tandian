@@ -14,14 +14,16 @@ order: 5
 * [Pere riche Pere pauvre]{:.heading.flip-title} --- Robert Kiyosaki
 * [L'Art de diriger]{:.heading.flip-title} --- George Patton
 * [Prendre la responsabilité]{:.heading.flip-title} -- Napoleon Hill Books & Zig Ziglar
-
-
-{:.related-posts.faded}
+* [Le plus étrange des secrets]{:.heading.flip-title} -- Earl Nightingale
+* [Le jeu du travail]{:.heading.flip-title} -- Charles coonradt{:.related-posts.faded}
 
 
 [Tel un homme pense]: telunhomme.md
 [Pere riche Pere pauvre]: Pereriche.md
 [L'Art de diriger]: artdediriger.md
 [Prendre la responsabilité]: laresponsabilite.md
+[Le plus étrange des secrets]: lpeds.md
+[Le jeu du travail]: lejeudutravail.md
+
 
 
