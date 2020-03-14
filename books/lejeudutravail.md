@@ -196,3 +196,11 @@ L'équipe qui est derrière le sait et prend des actions en conséquence. Les fa
 
 > Je n'ai jamais rencontré un gagnant qui ne connaissait pas le score. Les gens modifient et changent leurs comportements en se basant sur les feedback de l'évolution du score. 
 
+
+## Feedback 
+
+- Augmenter la frequence des feedbacks améliore la qualité et la quantité des performances. 
+- Lorsque le feedback est illustré par des graphiques, l'impact est plus important. 
+- Rappelez vous, En cas d'absence de but clairement définie et une tenue du score très précis, nous sommes forcés de nous concentrer sur l'activité et pouvons facilement en devenir son esclave. 
+- 
+
