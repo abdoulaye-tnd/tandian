@@ -166,5 +166,33 @@ L'équipe qui est derrière le sait et prend des actions en conséquence. Les fa
 - Quelle est la première chose que les émissions de télévisions mentionnent à propos de tout événement sportif ? LE SCORE 
 - La suivie du score doit petre démarrer dés le premier jour. 
 
+### Le management par l'observation
+ - La personne se base sur ce qu'elle voit pour manager son équipe 
+ - Elle revient d'une reunion et voit deux employés rigolaient, s'amuser. Elle va penser que ces deux employés ne travaillent pas assez 
+ - Ce type de management n'est pas très précis et n'est pas trés révélateur de ce qui entrain de se passer 
+ - C'est généralement négatif
+ - Nous ne pouvons pas juger un livre par la couverture, ni un film par la bande d'annonce. 
+ 
+### Le management par le jugement 
+- La personne se base sur ce son jugement pour manager son équipe 
+- Elle revient d'une reunion et voit deux employés rigolaient, s'amuser. elle va penser et se dire que " Les jeunes ne travaillent pas aussi dur que je le faisais lorsque je suis entré dans le monde professionnelle" 
+- Nous n'avons pas assez de données 
+- Nous pouvons généraliser trés facilement
+### Le management par les mesures 
+- Le management par jugement est le 
+- C'est le management qui se base sur les résultats, les chiffres et les nombres. 
+- 1. Il vous dit exactement ce qu'il se passe.
+- 2. Il est dans la plupart du temps exact
+- 3. Il fait en sorte que le travail soit aussi plaisant que possible qu'un jeu car les participants ont un moyen de gagner. Lorsque les objectifs sont clairs, les employés ont un moyen de gagner. 
+- Si c'est si avantageux pourquoi ce n'est pas trés utilisés ? Parce que beaucoup pensent qu'ils ne sont pas entrain de gagner. Par conséquent, ils ne veulent pas connaitre le score. Ce qu'ils ne réalisent pas c'est qu'ils ne peuvent pas gagner à moins qu'ils connaissent le score. Il n'y a pas de moyen de gagner sans score. 
 
+- Il y a trois types d'employés ou joueurs : 
+  - Ceux qui savent qu'ils sont entrain de gagner 
+  - Ceux qui savent qu'ils sont entrain de perdre
+  - Ceux qui ne connaissent pas le score 
+
+- C'est un fait que ceux qui connaissent le score, qu'ils soient entrain de gagner ou de perdre, gagnent plus sur le long terme. Ce sont ceux qui acceptent la responsabiité personnelle pour leurs actions. Ils préferent connaitre le score lorsqu'ils sont entrain de perdre que de ne pas le connaitre. 
+- Ceux qui atteignent l'independance financière connaissent le score. Ils etablissent des objectifs précis et suivent les progrés ( les scores) liés à ces buts. 
+
+> Je n'ai jamais rencontré un gagnant qui ne connaissait pas le score. Les gens modifient et changent leurs comportements en se basant sur les feedback de l'évolution du score. 
 
