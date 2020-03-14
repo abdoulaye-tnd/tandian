@@ -122,9 +122,49 @@ Si le nombre diminue, ça veut dire que vous faites des progrès.
 - Les objectifs précis produits des résultats précis 
 - L'objectif doit répondre à la question "combien" 
 - Les objectifs devraients être dans une unité de mesure qui ne change pas 
+- Lorsque les objectifs sont mesurés dans des choses reels, tout le monde connait le score. 
+- Lorsque les points augmentent dans le cadre des scores dans un match NFL, tout le monde sait ce qui se passe.
+  Qui est devant , qui essaye de rattraper ... 
+  
+- Les objectifs doivent être mesurables en quelque chose que vous pouvez voir. Les pourcentages sont trop vagues. 
+- Les objectifs doivent répondre à la question "Pourquoi" 
+- Vous voulez doubler votre revenue l'année prochaine ? 
+- Comment vous allez depenser l'argent ? , où est-ce qju'il va aller ?
+- A moins que vous sachiez exactement ce que vous allez faire avec l'argent, il n'y aura pas de raison de le faire. 
+- La raison pour laquelle la plupart d'entre nous ne font plus d'argent que nous le faisons est parce que nous ne savons pas ce que allons faire avec une fois que nous l'avons. 
 
+### WIIFM 
 
+- Les objectifs et les benefices vont ensembles. 
+- L'acronyme WIIFM veut dire "What's in for me" (Quelles sont les bénéfices pour moi)
+- Assurez vous qu'il y a quelque WIIFM dans vos objectifs 
+- WIIFM explique le pourquoi aux personnes 
+- La plupart des gens, lorsqu'on leur demande de faire quelque chose d'inhabituel ou qui sort de l'ordinaire, demande le "pourquoi" 
+- Ils ne sont pas interessés par le comment
+- Le "pourquoi" a besoin d'être présent dans vos activités personnelles mais aussi profesessionnelles
+- Une chose intéressante à faire dans la définition d'un objectif est d'établir une récompense lorsqu'il sera atteint 
+- Il y a rien d'excitant à acheter une paire de chaussure pour le travail, un blouson ? Mais cela peut le devenir si vous le faites pour vous récompenser d'un objectif atteint. 
+- Si vous avez une récompense, atteindre vos objectifs va devenir quelque chose que vous désirez, dont vous avez envie, au lieu d'être quelque chose que vous "Devez" faire. ça fait une enorme différence
+- Si vous aimez le football, achetez vous des tickets pour aller voir un match apres avoir atteint un but
+- Si vous vous recompensez pour vos victoires, vous n'allez pas les oublier. 
 
+### Les objectifs doivent être réalistes 
+
+- Suffisamment gros pour vous exciter 
+- Suffisamment petit pour que vous croyez que vous pouvez l'obtenir, l'atteindre. 
+
+## La tenue du score 
+
+> La raison pour laquelle le public lors d'une performance de patinage artistique est si silencieuse, timide est parce qu'il ne savent pas, ne sont pas sûrs, de ce qui est entrain de se passer. Ils savent qui est entrain de patiner mais ils ne connaissent pas le score. Apres la perfomance terminée, les juges montrent leurs notes. 
+
+- C'est un système assez mauvais car les patineurs ne savent pas s'ils sont devants ou dérrieres avant qu'ils ne soient trop tard pour changer quoi ce que soit. 
+
+- Dans le hockey, c'est différent, chaque fan et chaque joueurs connaissent le score à tout moment. 
+L'équipe qui est derrière le sait et prend des actions en conséquence. Les fans le savent et peuvent supporter leur équipe vers la victoire ou la remontée. 
+
+- La tenue du score est le coueur des athlétes. 
+- Quelle est la première chose que les émissions de télévisions mentionnent à propos de tout événement sportif ? LE SCORE 
+- La suivie du score doit petre démarrer dés le premier jour. 
 
 
 
