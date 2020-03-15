@@ -10,17 +10,17 @@ description: >
 
 > Docteur, quel est le principal mal des hommes d'aujourd'hui ? 
 
-> L'être humain ne pense 
+> L'être humain ne pense pas
 
 
 - Ce monde est un véritable âge d'or. 
-- Cette prospérité, nous l'avons rêvée et nouis lui avons dévoué nos forces pendant des centaines d'années. 
+- Cette prospérité, nous l'avons rêvée et nous lui avons dévoué nos forces pendant des centaines d'années. 
 - Nous vivons dans les pays les plus riches, qui offrent à chacun une foison d'opportunités pour atteindre les sommets de la richesse et de la gloire.
 - Et que voyons nous ?  un gâchis !
 
 - Prenons 100 hommes, tous âgés de 25 ans, et mettons-les sur la case de départ de la réussite sociale 
-- Laissons le temps et retrouvons nos 100 à  l'âge de 65 ans. 
-- A 25, tous avaient confiance dans leurs forces et dans leurs capacités, ils désiraient avidement ce succes que tous espèrent. 
+- Laissons le temps et retrouvons nos 100 hommes à  l'âge de 65 ans. 
+- A 25 ans, tous avaient confiance dans leurs forces et dans leurs capacités, ils désiraient avidement ce succes que tous espèrent. 
 - Maintenant, ils ont atteint 65 ans et voici le bilan : 
     - 1 est riche
     - 4 n'ont aucun souci financier 
@@ -31,8 +31,8 @@ description: >
 ## Définition du succès 
 
 - Sur nos cent hommes, 5% ont réussi 
-- Mais qu'est ce que le succès pour que nouis puissions dire qu'untel a réussi et qu'untel n'a pas réussi ? 
-- Le succés est la réalisation progressive d'un idéal qui vaut la peine 
+- Mais qu'est ce que le succès pour que nous puissions dire qu'untel a réussi et qu'untel n'a pas réussi ? 
+- Le succès est la réalisation progressive d'un idéal qui vaut la peine 
 - Lorsqu'un homme travaille dans un but déterminé et sait vers où il avance, sa vie est un succès 
 - Dans notre société, l'opposé du courage n'est pas la poltronnerie, mais la conformité 
 - L'homme n'aspire plus à être lui-même, mais ầ être l'autre. Il le suit sans savoir pourquoi et sans savoir où il va, réconforté dans la douce idée qu'il fait "comme tout le monde"
@@ -42,10 +42,10 @@ description: >
 - Elles se laissent diriger au lieu de se diriger elles-mêmes 
 
 - "Pourquoi travaillez-vous ? Pourquoi vous levez-vous tous les matins" a été posé à un grand homme. 
-  - 19/20 ne répondirent pas à cette question. elles ne savent pas pourquoi elles se lèvent tous les jours à la même heure
-  - Pour celles qui répondent, le refrain est le même " TOut le monde se lève pour aller travailler" 
+  - 19 personnes sur 20 ne répondirent pas à cette question. elles ne savent pas pourquoi elles se lèvent tous les jours à la même heure
+  - Pour celles qui répondent, le refrain est le même " Tout le monde se lève pour aller travailler" 
 - Voici des exemples de gagnants : 
-  - Une femme qui s'occupe de as maison et des enfants parce qu'elle désire devenir une épouse et une mère formidable est une gagnante 
+  - Une femme qui s'occupe de sa maison et des enfants parce qu'elle désire devenir une épouse et une mère formidable est une gagnante 
   - Un vendeur qui aspire à devenir un excellent vendeur et voir l'entreprise qui l'emploie prospérer est un gagnant 
   - Toute personne qui exerce le métier qu'elle désirait précisément exercer est un gagnant
  
@@ -61,19 +61,19 @@ description: >
 - Si vous ne savez pas où vous voulez aller, vous errez et n'arrivez nulle part 
 - Pourquoi les hommes armés d'un but réussissent-ils dans la vie et que ceux vides de tout but échouent ? 
   - La réponse à cette question est si foret et si éclatante qu'elle éclarcit les avenirs les plus sombres et les cieux les plus couverts. 
-- Voici lcette clef du succès et ... de l'échec 
-- **Nous réalisons ce à quoi nous pensons le plus souvent**
+- Voici cette clef du succès et ... de l'échec 
+> **Nous réalisons ce à quoi nous pensons le plus souvent**
 
 > L'homme devient l'objet de la pensée qui accapare son esprit -- Ralph Waldo Emerson 
 
 > La plus grande découverte de ma génération est la capacité des êtres humains à changer leur vie par un simple changement d'esprit -- William James 
 
-> Si vous pensez en termes négatifs, vous obtenez des résultats négatifs 
+> Si vous pensez en termes négatifs, vous obtenez des résultats négatifs. 
   Si vous pensez en termes positifs, vous obtenez des résultats positifs 
 
 - Il devient tout à fait raisonnable d'affirmer que celui qui se fixe un but concret et présentant pour lui un véritable intérêt réalisera nécessairement ce but 
   - Pourquoi ? Parce qu'il y pense constamment, jour et nuit.
-  - Or, nous r"alisons ce à quoi nous pensons le plus souvent. 
+  - Or, nous réalisons ce à quoi nous pensons le plus souvent. 
 - Celui qui ne fixe aucun but ne sait pas problablement où il va. Ne sachant pas où il va,ses pensées ne sont que confusion, inquiètude et crainte. 
   - Lui aussi réalisera ses pensées et sa deviendra une vie de frustration, de crainte etc. 
   - Puisqu'il ne pensait à rien, il devient ce rien 
@@ -81,18 +81,18 @@ description: >
 ## Vous récoltez ce que vous semez 
 
 - Comment ce principe fondamental fonctionne-t-il ? 
-- Disposant de deux graines, l'une de maîs et l'autre de belladone, une fleur etoxique pour l'homme, un fermier décide de les planter toutes les deux. Il soigne régulièrement se graines comme il faut. 
+- Disposant de deux graines, l'une de maîs et l'autre de belladone, une fleur toxique pour l'homme, un fermier décide de les planter toutes les deux. Il soigne régulièrement ses graines comme il faut. 
   - Le résultat ? Vous recoltez ce que vous semez 
 - Certes , l'esprit humain est bien plus fertible, incroyable et mystérieux que la terre mais il s'y apparente dans son fonctionnement 
 
 - Si ce trésor est véritablement tel que décrit ici pourquoi les gens l'ignorent-ils ? 
 - L'esprit est un équipement standard fourni à tout être humain à sa naissance et, comme tout ce qui est gratuit, il est totalement déprecié
-- Le Monde du libre et du gratuit n'a pas encore gagné ses galons pour être apprécié à sa juste valeur. 
+- Le monde du libre et du gratuit n'a pas encore gagné ses galons pour être apprécié à sa juste valeur. 
 - Regardez combien il est difficile voire impossible de le remplacer
-- La maison d'une personne brûle, il a reconstruit. Son cerveau flanche, il n'est plus qu'une épave. 
-- Un homme fait faillite peut retrouver la fortune, même plusieurs fois
+- La maison d'une personne brûle, il l'a reconstruit. Son cerveau flanche, il n'est plus qu'une épave. 
+- Un homme qui fait faillite peut retrouver la fortune, même plusieurs fois
 - Vous perdez vos espoirs, c'est la descente en enfer 
-- L'esprit humain est largement sous-utilis" parce que nous n'avons pas conscience de sa valeur
+- L'esprit humain est largement sous-utilisé parce que nous n'avons pas conscience de sa valeur
 - La familiarité engendre le mépris 
 - En fixant un but dans votre esprit, vous donnez une orientation à votre vie et vous préparez tout votre avenir.
 Ne prenez pas cette décision à la légère. 
@@ -120,22 +120,22 @@ Ne prenez pas cette décision à la légère.
    - Vous voulez être docteur ? Vous devez y consacrer de longues années d'étude difficile. 
 
 ### Le programme 
-- Comprendre et être convaincu que celui qui contrôle ses pensées contrôle s vie. Vous devez être totalement convaincu que : "on ne récolte que ce que l'on sème" 
+- Comprendre et être convaincu que celui qui contrôle ses pensées contrôle sa vie. Vous devez être totalement convaincu que : "on ne récolte que ce que l'on sème" 
 - Efforcez vous d'aborder tous vos problèmes sous un aspect positif 
 - Fixez-vous un objectif et laissez votre merveilleux esprit y penser. 
-- Refusez de croire qu'il puisse avoir des circonstances suffisamment fortes pour s'opposer ç l'accomplissement de votre but 
+- Refusez de croire qu'il puisse y avoir des circonstances suffisamment fortes pour s'opposer à l'accomplissement de votre but 
 - Mettez de côté au moins 10% de votre salaire
 - Récapitulons : 
-  - 1. Nous devenons ce à quoi nous pensons 
-  - 2. Donner libre cours à notre imagination pour permettre à l'esprit de dépasser ses limites 
-  - 3. S'armer de courage pour se concentrer uniquement sur le but fixé chaque jour 
-  - 4. Economiser 10% de notre salaire
+   1. Nous devenons ce à quoi nous pensons 
+   1. Donner libre cours à notre imagination pour permettre à l'esprit de dépasser ses limites 
+   1. S'armer de courage pour se concentrer uniquement sur le but fixé chaque jour 
+   1. Economiser 10% de notre salaire
   - Les idées n'ont pas de valeur que si elles sont concrétisées par des actions 
 ### Détails du programme 
 
 - Tous les individus aspirent à quelque chose et redoute quelque chose 
 - Pour commencer, écrivez la chose que vous convoitez le plus 
-  - Ce peut être de l'argent, Un gain spécifique, une belle maison, l'harmonie au sein de la famille ou tout autre désir 
+  - Ce peut être de l'argent, un gain spécifique, une belle maison, l'harmonie au sein de la famille ou tout autre désir 
 - Nul besoin de montrer le papier à qui que ce soit. 
 - Pensez-y dès que vous vous réveillez et à chaque pause dans la journée, d'une manière gaie, détendue et positive.
 - Faites de même le soir 
