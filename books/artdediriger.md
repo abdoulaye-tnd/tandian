@@ -22,9 +22,9 @@ description: >
 - A ce point vous commencez à accuser plein de gens, la famille, l'employeur, le gouvernement, les professeurs etc. 
  Vous commencez à justifier à votre situation.
  
-> Ce n'est pas moi, c'est les autres. Vous regardez en dehors comme si c'etait les autres. comme si vous étiez une marionnnette et que vous étiez controlé
+> Ce n'est pas moi, c'est les autres. Vous regardez en dehors comme si c'etait les autres. comme si vous étiez une marionnette et que vous étiez contrôlé
  
-- Vous devez prendre la responsabilité et arrêter de penser que les circonstances extérieures controlent votre vie. 
+- Vous devez prendre la responsabilité et arrêter de penser que les circonstances extérieures contrôlent votre vie. 
  
 - Le fait est qu'il y aura toujours des forces extérieures. 
 - Si vous pensez que ces forces vous contrôle et si vous croyez être une marionette nous ne serez jamais heureux. 
@@ -36,7 +36,7 @@ description: >
 
 - Vous devez vous diriger vous-même 
 - Commander vos emotions, vos actions 
-- Prendre le commande ç comment vous répondez à une situation 
+- Prendre le commande c'est comment vous répondez à une situation 
 
 > La plupart des gens réagissent aux situations au lieu de répondre --Zig Ziglar
 
@@ -57,7 +57,7 @@ description: >
 
 - Beaucoup ont été battus, mis à terre et ont perdu tout leur enthusiasme
 - Un véritable homme aime le combat car il sait qu'il va gagner. 
-- Les gagnants sont tactiquement agressif 
+- Les gagnants sont tactiquement agressifs 
 - La vie est un combat. Vous devez aimer le combat 
 
 ### La force de caractère 
@@ -68,11 +68,11 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
 - Demandez vous si vous avez la force de caractère 
 - Regardez en arrière et analyser les moments où vous avez manquer de force de caractère
 - Ayez la force de caractère. 
-- Ayez un objectif et ayez une obsession magnifique pour l'atteindre
+- Ayez un objectif et une obsession magnifique pour l'atteindre
 - On accuse pas les professeurs, les produids, les dirigeants, les circonstances, le gouvernement. 
   On prend la responsabilité 
-- Lorsque l'on prend la responsabilité, on se sent plus comme une victime 
-  On en position de force , d'agir et de prendre des décisions 
+- Lorsque l'on prend la responsabilité, on ne se sent plus comme une victime 
+  On est en position de force , d'agir et de prendre des décisions 
 
 ### L'énergie 
 
@@ -85,7 +85,7 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
 - Un dirigéant dirige à partir de l'avant 
 - Un dirigéant prend des risques 
 - Montre l'exemple 
-- Dominer mais ne soyez jamais autoritaire 
+- Dominew mais ne soyez jamais autoritaire 
 - Un dirigéant prend des décisions 
 - Il ne faut pas que commander, il faut diriger 
 - Dirigez vous avant de diriger les autres. 
@@ -112,8 +112,8 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
 
 > Un commandant qui ne peut pas se décider en moins de 48 heures n'est pas apte à diriger. 
 
-- Les décisions qui impliquent vos valeurs de base doivent être prises instantanément. ça doit être une seconde nature pour vois 
-- Ayez des valeurs de base dans votre vie afin que lorsqu'une décision importante doit être pris vous n'hesitez pas. 
+- Les décisions qui impliquent vos valeurs de base doivent être prises instantanément. ça doit être une seconde nature pour vous 
+- Ayez des valeurs de base dans votre vie afin que lorsqu'une décision importante doit être prise vous n'hesitez pas. 
 
 > ça c'est ce que je fais , ça non 
 
@@ -136,7 +136,7 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
 ### Donnez vous l'ordre 
 
 - Un dirigéant dirige 
-- "Je n'a personne à qui donner d'ordre" 
+- "Je n'ai personne à qui donner d'ordre" 
 > La première personne  que vous devez diriger c'est vous-même. 
 
 - Donnez vous l'ordre d'être content, d'avoir une bonne journée ou encore de vous assurer que les choses soient faites
@@ -164,7 +164,7 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
   Qu'est ce qui s'est passé exactement ? 
   
 - Prenez vos décisions à partir des faits 
-- Avec des faits vous prenez des meilleurs décisions
+- Avec des faits vous prenez des meilleures décisions
  
 ### Le kilométre supplémentaire 
 
@@ -186,18 +186,18 @@ Continuer à suivre une décision longtemps après que l'émotion et l'excitatio
 - Vous ne serez pas équilibré pendant une courte période 
 - Si c'est votre but (votre objectif) vous y pensez régulièrement 
 - Regarder les personnes qui ont reussi comment ils agissaient quand ils étaient entrain de reussir. 
-Ils ne pensaient que à ça, ils n'étaient pas équilirés
-- Le succés est une attitude 
+Ils ne pensaient qu'à ça, ils n'étaient pas équilibrés
+- Le succès est une attitude 
 
 ### Travaillez sur le complexe de superiorité 
 
 > Attaquez toujours, n'abandonnez jamais 
 
 - La plupart d'entre nous ont été élevés à rester humble, pour être modeste, pour ne pas se vanter.
-D'une cetaine façon c'est vrai. Mais c'est une tendance qui va loin, car beaucoup viennent à en penser que les autres sont meilleurs, ont plus de talent, plus de determination, de courage ou même de chance. 
+D'une certaine façon c'est vrai. Mais c'est une tendance qui va loin, car beaucoup viennent à en penser que les autres sont meilleurs, ont plus de talents, plus de détermination, de courage ou même de chance. 
 - Cela provoque un complexe d'infériorité 
 - Le fait de penser que vous n'êtes pas assez bon ne va vous donner aucun résultat. C'est une évidence. 
-- Pourquoi ne pas développer un complexe de superiorité ? 
+- Pourquoi ne pas développer un complexe de supériorité ? 
 - Pourquoi ne pas se dire : 
  Je suis en pleine forme, je suis un gagnant, je suis un dépasseur de problème 
  - Ne pas être condescendant envers les autres. Juste de croire en vous 
@@ -216,32 +216,32 @@ D'une cetaine façon c'est vrai. Mais c'est une tendance qui va loin, car beauco
 
 ### Lisez des livres 
 
-- Lire et relire les campagnes de grand capitaines (des gens dont vous vous inspirez) 
+- Lire et relire les campagnes de grands capitaines (des gens dont vous vous inspirez) 
 - Quand vous lisez, pensez à ce que vous venez de lire 
 - Il n'y a pas de nouvelles batailles. C'est pourquoi il faut lire encore et encore les biographies, autobiographie etc. 
 - L'information qu'il y a dans les livres est ce sur quoi vous devez focaliser. 
-- Vous devez être un étudiant continue
+- Vous devez être un étudiant continu
 - Ce n'est pas quelque chose à faire une fois
-- Assurez vous que votre façon de penser est correcte
+- Assurez-vous que votre façon de penser est correcte
 - Il faut faire les bonnes choses suffisamment longtemps régulièrement. 
 
-> Les personnes qui réussissent sont toujours prêt à faire ce que les autres ne sont pas prêt à faire
+> Les personnes qui réussissent sont toujours prêt à faire ce que les autres ne sont pas prêts à faire
 
 ### La fatigue 
  
 - Les commandants fatigués sont toujours pessimistes. 
 - Vous devez connaitre vos limites 
-- Sachez quand vous êtes emotionnellement et physiquement fatigué
+- Sachez quand vous êtes émotionnellement et physiquement fatigué
 - Si vous êtes fatigué, prenez un pas de recul et reposez vous. 
  
 ### La chance 
  
 > Dans la guerre, rien n'est aussi mauvais que ça en a l'air, ni aussi bon que ça en a l'air 
  
-- Ne réagissez pas jamais trop aux situations
+- Ne réagissez jamais trop aux situations
 - Préparez votre chance
-- La fortune est une femme qui doit être convoité pendant qu'elle est de bonne humeur. 
-- Aucun dirigéant ne laisse la chance venir passivement 
+- La fortune est une femme qui doit être convoitée pendant qu'elle est de bonne humeur. 
+- Aucun dirigeant ne laisse la chance venir passivement 
 - Si vous pensez correctement, vous aurez plus d'opportunités qui auront l'air d'être de la chance. 
 - Est-ce que vous avez de la chance ? 
 - Ce que tu crois que tu es ou n'es pas dans les deux cas tu as raison 
@@ -250,7 +250,7 @@ D'une cetaine façon c'est vrai. Mais c'est une tendance qui va loin, car beauco
 
 ### Lancez vous 
 - Prenez des décisions cohérentes avec vos valeurs 
-- Prenez des décisions maintenant, il n'y a pas de bon moment pour agir. 
+- Prenez des décisions maintenant, il n'y a pas de bons moments pour agir. 
 
 > Un bon plan violemment executé maitenant est meilleur qu'un plan parfait executé la semaine prochaine 
 
@@ -260,31 +260,31 @@ D'une cetaine façon c'est vrai. Mais c'est une tendance qui va loin, car beauco
 - La plupart des gens se plaignent et disent "Je n'ai pas les bons outils, je ne connais pas les bonnes personnes" 
 - C'est l'esprit, la détermination de l'homme qui vous fait gagner une guerre ( de réussir ) 
 - Apprendre la valeur de la loyauté 
-- Un employé loyal esst préférable à un employé intelligent 
+- Un employé loyal est préférable à un employé intelligent 
 - Soyez loyal envers vous-même, envers vos valeurs
 
 > Vous devez d'abord être loyal envers les autres, vos employés , vos amies , vos clients, votre équipe. 
 
 ### La cohérence 
 
-> Assurer vous que vos pensées sont cohérents et alignés
+> Assurer vous que vos pensées sont cohérentes et alignées
 
 - Nos valeurs doivent être unies, cohérentes comme une famille
 - Vous ne devez pas avoir deux pensées, valeurs, contraires 
 
->- Largent ne fait pas le bonheur
+>- L'argent ne fait pas le bonheur
  - Sans argent tu ne peux rien acheter 
  
 - Ces deux valeurs peuvent être potentiellement en opposition, pas alignés. 
  
 >- Je veux être mince 
- - Je deteste faire de l'exercice, j'aime bien manger tard le soir 
+ - Je déteste faire de l'exercice, j'aime bien manger tard le soir 
 
-- Prenez un cheval qui tire une charette d'un certains poids 
+- Prenez un cheval qui tire une charrette d'un certain poids 
   Si vous prenez deux chevaux, ils ne tireront pas 2 fois plus de poids. Ils pourront tirer 3/4 fois plus. 
   
 - Faites en sorte que vos valeurs travaillent ensemble
-- Assuez vous que vos pensées soient alignées, focalisées sur un même objectif. 
+- Assurez vous que vos pensées soient alignées, focalisées sur un même objectif. 
 - Le personnel ne peut pas fonctionner si elle n'est pas une famille unie
 
 ### L'enseignement 
@@ -299,6 +299,6 @@ D'une cetaine façon c'est vrai. Mais c'est une tendance qui va loin, car beauco
 - Vous devez connaitre ces choses assez bien pour les enseigner. Et quelle est la meilleure méthode pour connaitre ces choses ? En les enseignants 
 - Vous devez vous l'enseigner à vous-même d'abord. 
 - Faites les choses 
-- Soyez genereux lorsque vous attribuez une réussite à quelqu'un 
+- Soyez généreux lorsque vous attribuez une réussite à quelqu'un 
 
 #### Vous devenez ce à quoi vous pensez le plus souvent
