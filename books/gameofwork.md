@@ -289,23 +289,23 @@ Do you think any of the player would object ? Of course they would, all of them.
 
 **The following are characteristics of winners 
 
-1. **Winners are prepared**
+**Winners are prepared**
 - Winners are ready to play.
-1. **Winners expect to win**
-1. **Winners are specific and positive**
+**Winners expect to win**
+**Winners are specific and positive**
 - Losers tend to be general and negative. 
 - Negativism is the antithesis of a winning attitude 
 - Winners see their drinking glasses as half full, not half empty 
 - Winners see the opportunity, losers see the problems. 
 - If you have employees who are constantly looking at the empty half of the glass, you may want to focus on changing their performance and correcting their negative attitude. 
-1. **Winners accept personal responsibility for their actions**
+**Winners accept personal responsibility for their actions**
 - Winners say "I", "Me" and "our". Losers say "them", " they", "those guys" 
 - Losers use the language of noncommitment
-1. **Winners don't seek to change the rules**
+**Winners don't seek to change the rules**
 
 - Winners don't change the rules, they seek only to understand them well enough to win 
-1. **Winners pay the price --Willingly -- Because they know it's a bargain**
-1. **Winners set goals**
+**Winners pay the price --Willingly -- Because they know it's a bargain**
+**Winners set goals**
 - Winning and goal setting are synonymous. 
 - You can't win unless you know what victory represents. 
 - There are a lot of losers who work just as hard as the people who win, but they never figure out when to stop and celebrate. 
@@ -314,3 +314,20 @@ Do you think any of the player would object ? Of course they would, all of them.
 - Writing goals allows us to transform our dreams into a specific plan that can be shared with others for achievement. 
 - Written goals are not opinions or whishes. 
 - Writting goals is the key step that turns dreams into reality. It makes the difference between losing and winning. 
+
+## Attitudes of Winners 
+
+> If you are going to be a successful duck hunter, you must go where the ducks are -- Paul "Bear" Bryant
+
+### Winners play the odds
+- Winners understand probabilities 
+- They go where the money is 
+- They understand the Pareto Principle 
+
+## Picking Winners 
+
+- When hiring people, we don't have enough data but you can recognize winners by the following list 
+1. Winners believe in themselves and see a relationship between past accomplishments and the future assignment
+1. Winners have commitment to the team's direction, they see a direct relationship between the company's goals and their own individual goals. 
+1. You're looking for coachability. Winners recognize that good coaches have knowledge and information beyond their own capabilities, and hey are willing to assimilate this through the coach. They are open to the leadership of others. 
+1.
