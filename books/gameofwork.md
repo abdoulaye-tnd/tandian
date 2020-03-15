@@ -289,18 +289,28 @@ Do you think any of the player would object ? Of course they would, all of them.
 
 **The following are characteristics of winners 
 
-1. **Winners are prepared 
+1. **Winners are prepared**
 - Winners are ready to play.
-1. **Winners expect to win 
-1. **Winners are specific and positive 
+1. **Winners expect to win**
+1. **Winners are specific and positive**
 - Losers tend to be general and negative. 
 - Negativism is the antithesis of a winning attitude 
 - Winners see their drinking glasses as half full, not half empty 
 - Winners see the opportunity, losers see the problems. 
 - If you have employees who are constantly looking at the empty half of the glass, you may want to focus on changing their performance and correcting their negative attitude. 
-1. **Winners accept personal responsibility for their actions 
+1. **Winners accept personal responsibility for their actions**
 - Winners say "I", "Me" and "our". Losers say "them", " they", "those guys" 
 - Losers use the language of noncommitment
-1/ **Winners don't seek to change the rules 
+1. **Winners don't seek to change the rules**
 
 - Winners don't change the rules, they seek only to understand them well enough to win 
+1. **Winners pay the price --Willingly -- Because they know it's a bargain**
+1. **Winners set goals**
+- Winning and goal setting are synonymous. 
+- You can't win unless you know what victory represents. 
+- There are a lot of losers who work just as hard as the people who win, but they never figure out when to stop and celebrate. 
+- Winners are goal setters, and more importantly, goal getters
+- Why don't people like to set goals ? Why don't people like to write them down ? Some people don't like to measure performance -- fear of failure, perhaps. Some people are lazy
+- Writing goals allows us to transform our dreams into a specific plan that can be shared with others for achievement. 
+- Written goals are not opinions or whishes. 
+- Writting goals is the key step that turns dreams into reality. It makes the difference between losing and winning. 
