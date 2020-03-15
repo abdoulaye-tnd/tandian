@@ -15,7 +15,8 @@ order: 5
 * [L'Art de diriger]{:.heading.flip-title} --- George Patton
 * [Prendre la responsabilité]{:.heading.flip-title} -- Napoleon Hill Books & Zig Ziglar
 * [Le plus étrange des secrets]{:.heading.flip-title} -- Earl Nightingale
-* [Le jeu du travail]{:.heading.flip-title} -- Charles coonradt{:.related-posts.faded}
+* [Le jeu du travail - The game of work]{:.heading.flip-title} -- Charles coonradt
+{:.related-posts.faded}
 
 
 [Tel un homme pense]: telunhomme.md
@@ -23,7 +24,7 @@ order: 5
 [L'Art de diriger]: artdediriger.md
 [Prendre la responsabilité]: laresponsabilite.md
 [Le plus étrange des secrets]: lpeds.md
-[Le jeu du travail]: lejeudutravail.md
+[Le jeu du travail - The game of work]: gameofwork.md
 
 
 
