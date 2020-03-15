@@ -128,3 +128,179 @@ They are not interessed in the how
 - If we can clearly defined the why, then we will have the king of performance we want and the how will pretty much take care of itself.
 - The why is in sports is apparen. You wouldn't think of going on a basketball court except to win. 
 - The why also needs to be in personal, business and volunteer activities. 
+
+#### A good idea in setting goals is to establish a reward for youself when the goal is accomplished? 
+- There is nothing exciting about going out to buy a new business shoes. But it can be exciting if it's a reward for reaching a goal. 
+- When you have a reward, reaching a goal becomes a "want to" instead of a "have to" experience, and that makes a big difference 
+
+- The good get better when they celebrate their victories 
+- If you have memories of your victories you won't forget them 
+
+### Goals must be realistic and obtainable 
+
+- You goals must be big enough to excite you and small enough that you believe you will get it 
+- Supervisors are told not to interfere with the private goals of individuals, not to get too close. That's bunk. 
+> Individual goals are the foundation of corporate human-resource development and planning 
+
+- Individuals are motivated by needs and wants. 
+- Most of us are trained from early childhood not to want.  but Having goals means having desires, having wants. 
+- Teamwork is based on great individual execution 
+
+
+## Scorekeeping 
+
+> If you can't measure it, you can"t manage it -- George Odiorne
+
+- One reason figure-skating (patinage artistique) crowds are so timid is thaty they don't know for sure what is happening on the ice.  They know that someone is skating, but they don't know the score. They only know the score after the skating is over
+  - This system is bad. The skater doesn't know if he's ahead of behind until it's too late to do anything about it. 
+  
+- Ice hockey is different, Every fan and every player know the score at all times. 
+  - The team that is ahead knows it and takes appropriate action to protect that lead 
+  - The team that's behind knows the score too and can take catch-up action. 
+  - The fans know the score and can cheer their team to victory
+- What is the first thing news reports mention about any sporting event ? THE SCORE, of course ! 
+- Your primary responsibility in your work, is to set the rules and create the scorecards
+- Tracking or scorekeeping must begin on day one. 
+- In some business, people don't think they are winning, so they don't want to know the score. What they don't realize is that they cannot win unless they keep score.
+- There are three kinds of workers or players
+   1. Those who know they are winning 
+   1. Those who know they are losing 
+   1. Those who don't know the score 
+- It is a fact of life that those who keep score, whether they are winning or losing, win more over the long run. 
+- These are the people who accept personal responsibility for their own actions. 
+- They would rather know the score while losing than not know the score. 
+- The people who achieve financial independence do so by knowing the score 
+- They are the people who set specific goals and keep track of progress toward those goals, even when things are not going smoothly
+
+> I have never met a winner who didn't know the score. I have never met a professional golfer who didn't know who else was on the leader board. People play and modify their behavior based on the feedback of their progress against an acceptable standard -- the scorecard. 
+
+#### Scorekeeping basics 
+
+- Scorekeeping must 
+   - be simple and objective. 
+   - be self-administered
+   - offer a comparison between current personal performance, past personal performance and an accepted standard
+   
+   
+   
+## Feedback 
+
+> When performance is measured, performance improves. When performance is measured and reported back, the rate of improvement accelerates -- Thomas S. Monson 
+
+> What do you think would happen if a head coach approached his team in the locker room before an NFL playoff game and handed the quarterback a piece of paper listing one hundred plays in sequence, saying, "These are the plays I want you guys to execute, in the exact order listed on the paper"
+Do you think any of the player would object ? Of course they would, all of them. They would think the coach was insane. Why ? In order for the best possible play to be called in any given situation, it is imperative that the person calling the play have feedback from   the last play, or the last several plays. 
+
+- Increasing the frequency of feedback improves the quality and quantity of performance. 
+- If you having a difficult time managing your labor resource and you're measuring it monthly, then go to a weekly measurement. It will improve
+- When feedback is illustrated on charts and graph, the impact is even greater
+- Graph data are easier to digest
+
+**Feedback can never become too frequent, as long as it is honest and positive 
+
+## Choice 
+
+> Work consists of whatever a body is obliged to do, and play consists of whatever a body is not obliged to do. 
+
+- Our lives are comprised completely of have-tos and want-tos
+- We enjoy the things we want to do; The things we have to do, we are usually not too excited about. 
+
+> Why is it that so many people do not enjoy their jobs ? Because in their work, they are told exactly what to do and how to do it. They don't have very much fun. And they don't perform as well as they do when they are having fun. 
+
+- We can tell how someone feels about us by the way they talk to us. 
+
+> Important people are allowed to make choices. Unimportant people have their choices restricted. 
+
+- Workers need to understand the reasons behind the things you ask them to do. They need to help negotiate the resultats that are expected. They need to be allowed to help determine what the company will become, because when they go home and talk to their neighbors, they are their company, and they need to have a choice about what they are. 
+
+### Behavoir 
+
+- Our choices are our behavior, and we cannot change the result without changing the behavior. That's a frightening lesson for many of us to learn, but a true one. 
+- I cannot get consequence B by behaving in way A.
+  - "I would like to lose weight as long as I don't have to give up the hot fudge" 
+  - "I would like to be a marathon runner, but don't ask me to run in the rain" 
+- There is no way to get around the fact that behavior precedes results. As the behavior of players determines the ream results, so does the behavior of workers and managers determines the success of a business 
+- Too often businesses try to blame outside influences if they don't get desired results 
+**can go one step further : Attitude is the prime cause of behavior
+
+### Attitude 
+
+> They way I think they way i will act, whether it is in a momentary fit of rage or in contemplation in a planning session. 
+
+- It is imperative to understand that the thought precedes the act
+- It is impossible to behave consistently contrary to a basic attitude. 
+- We may behave contrary to our values at times but not consistently. 
+- There are two powerful forces that form attitudes : 
+  - One is significant emotional event (difficult to control)
+  - Conditioning.
+ 
+### Conditioning 
+
+- Your past conditioning influences the way you act. 
+- You may have been reared with these statements: 
+  - "Children should be seen and not heard" 
+  - "Never speak unless spoken to" 
+  - "Never go where you're not wanted" 
+  - "Never talk to strangers" 
+ 
+ > If you don't believe me, walk into the nearest elevator. We all duck in, turn around, and look at the numbers above the door
+ 
+- he next time you get into an elevator, do not turn around. Simply face your fellow passengers. And if you feel bold, say,"Good morning, how are you" ? 
+
+- Conditioning does shape attitudes. 
+
+- What makes conditioning such a powerful force ? Repetition, repetition, repetition. 
+
+- We did not learn to avoid strangers because wi were told once, but because most of us were told every time we left the house to be wary of strangers. 
+
+### Repetition 
+
+- Success is the result of behavior, which is determined by attitudes, which are formed by conditioning, which takes place through repetition. 
+
+- Repetitive learning is the only vehicle to modify conditioning which alters the attitudes that control our behavior, which produce the resultats we want. 
+- One trip, one lecture, one semina, one tape won't do it. 
+
+- Advertisers say it takes eight repetitions before the consumer will even notice your product. 
+
+- Winners understand the importance of conditioning as it relates to attitudes, behavior, and eventually achieving succes or results. 
+
+- Winners are constantly conditioning themselves by reviewing their written goals, reading good books, surrounding themselves with other goal-oriented individuals, and inviting repetition of positive thoughts  while pushing negative thoughts out of their minds. 
+
+- We can directly influence ourselves and our people to make the choices that will bring success. 
+
+
+## Field of play 
+
+> Great managers constantly seek to minimize uncertainty 
+
+- You can't go out and start playing until your field of play is clearly and completely established. The bundaries must be in place before you can set the goals and begin to play the game. 
+- The rules must be known
+- In sports, fields of play, rules, are so well known they are almost taken for granted. If i say " Let's go play football" you correctly assume that we're going to a football court
+- You need to do better in defining the field of play in business.
+- People need to knows the rules, clear work rules, security, guarantees. 
+
+## Winning 
+
+- Can you give me the names of the runner who finished as runners-up to Usain bolt during Olumpics games
+- Give me the five teams Pittsburgh has beaten in the Super Bowl 
+- Only winners are remembered 
+- Don't let anybody tell you that winning is not important
+- Why do we use Super Bowl, soccer champions for all those shoe and drink commercials ? Why don't we pick amateur athletes ? 
+- We pick the familiar because of the recognition value and the fact that everybody likes to do busuness with a winner. 
+
+**The following are characteristics of winners 
+
+1. **Winners are prepared 
+- Winners are ready to play.
+1. **Winners expect to win 
+1. **Winners are specific and positive 
+- Losers tend to be general and negative. 
+- Negativism is the antithesis of a winning attitude 
+- Winners see their drinking glasses as half full, not half empty 
+- Winners see the opportunity, losers see the problems. 
+- If you have employees who are constantly looking at the empty half of the glass, you may want to focus on changing their performance and correcting their negative attitude. 
+1. **Winners accept personal responsibility for their actions 
+- Winners say "I", "Me" and "our". Losers say "them", " they", "those guys" 
+- Losers use the language of noncommitment
+1/ **Winners don't seek to change the rules 
+
+- Winners don't change the rules, they seek only to understand them well enough to win 
