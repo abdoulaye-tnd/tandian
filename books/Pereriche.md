@@ -64,14 +64,14 @@ description: >
 - Cela s'appelle avoir des dispositions pour la finance : Quoi faire avec l'argent une fois que vous l'avez entre les mains, combien de temps réussissez-vous à le conserver, et jusqu'a quel point cet argent travaille-t-il efficaceent à votre service ? 
 - La véritable raison des problèmes financiers réside dans les choix de dépenses que les personnes font avec l'argent dont ils disposent. 
 
-> Si vous vous retrouverez vous-même dans un trou... cessez de creuser 
+> Si vous vous retrouvez vous-même dans un trou... cessez de creuser 
 
 - Bien trop souvent la plupart des gens imitent la foule. Ils font certaines choses parce que tout le monde le fait. Ils se conforment aux façons de vivre des autres au lieu de se questionner. 
 
 - Vous travaillez pour une entreprise 
 - Vous travaillez pour le gourvenement --- Du mois de janvier au mois de mai 
 - Vous travaillez pour la banque
-- Si vous décidez de travailler plus dur, une grande partie de vos éfforts supplémentaires est absorbé par les troi niveaux précédents
+- Si vous décidez de travailler plus dur, une grande partie de vos éfforts supplémentaires est absorbé par les trois niveaux précédents
 - Vous devez apprendre comment faire en sorte que vos efforts supplémentaires puissent profiter directement à votre famille et à vous-même. 
 - Occupez vous de vos affaires, Axez vos efforts à acquérir des actifs. 
 
@@ -80,7 +80,7 @@ description: >
 
 > Commencez donc à vous occuper de vos propres affaires. Conservez votre emploi de jour et mettez-vous à acheter de véritables actifs.
 
-> N'achetez pas des éléments de passif ou des effets personnels qui n'ont pas de réelle valeur dès qe vous les ramenez chez vous. 
+> N'achetez pas des éléments de passif ou des effets personnels qui n'ont pas de réelle valeur dès que vous les ramenez chez vous. 
 
 ### Actifs proposés par Robert Kiyosaki 
 > - Des entreprises qui ne requièrent pas ma présence
@@ -117,7 +117,7 @@ description: >
 
 ## TRAVAILLEZ POUR APPRENDRE, NE TRAVAILLEZ PAS POUR L'ARGENT 
 
-- Le monde est remplie de gens intelligents, talentueux; instruits et très doués. Nous les croisons tous les jours. Ils sont partout autour de nous. 
+- Le monde est rempli de gens intelligents, talentueux; instruits et très doués. Nous les croisons tous les jours. Ils sont partout autour de nous. 
 > Il y a quelques jours, mon auto ne fonctionnait pas bien. J'entrai dans un garage et le jeune mécanicien régla le problème en quelques minutes seulement. Il comprit ce qui n'allait pas en écoutant simplement le bruit du moteur. J'étais confondu
 - La triste vérité est la suivante : posséder un grand talent ne suffit pas
 - Énormement de gens talentueux gagnent de petites sommes.
@@ -170,7 +170,7 @@ description: >
 L'amie de mon épouse est une infirmière. Quand elle voit du sang, elle s'empresse d'agir. Quand je lui parle de d'investissement, elle se défile. Lorsque je vois du sang, je ne me mets pas à courir, je m'évanouis. 
 
 - Le fat de gagner suit habituellement celui de perdre 
-- La plupart des gens ne gagnent poas sur le plan financier car le déchirement qu'entraine la prte d'argent est bien plus grand que la joie d'être riche
+- La plupart des gens ne gagnent poas sur le plan financier car le déchirement qu'entraine la perte d'argent est bien plus grand que la joie d'être riche
 - L'echec inspire les gagnants et met en déroute les perdants. C'est là le plus grand secret des gagnants. Par conséquent, ils n'ont pas peur de perdre
 
 - La plupart des gens ont tellement peur de perdre de l'argent qu'ils en perdent 
