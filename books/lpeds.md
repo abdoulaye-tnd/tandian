@@ -141,13 +141,13 @@ Ne prenez pas cette décision à la légère.
 - Faites de même le soir 
 - Rappelez vous que vous DEVEZ absolument atteindre ce but 
 
-- La partie la plus difficile ( car réquiert l'adoption d'une nouvelle habitude) 
+- La partie la plus difficile ( car réquierant l'adoption d'une nouvelle habitude) 
   - Cessez de penser à ce qui suscite la crainte et la peur en vous. 
-  - SOyez donc à l'écoute de vous-même 
+  - Soyez donc à l'écoute de vous-même 
   - Dès qu'une pensée négative s'insinue dans votre conscience, remplacez-la au plus vite par une image mentale positive et agréable de votre but. 
   - Vu que c'est une habitude que vous essayez d'acquérir, au début, vous ne réussirez problablement pas à amener cette image positive et resterez submergé par vos images négatives. 
   - Ne désespérez pas
-- À la seconde même où vous vous fixez un but, déjà vous avez gagné la partie. Bous appaternez déjà à cette petite catégorie de privilégiés  qui savent où ils se dirigent dans la vie. 
+- À la seconde même où vous vous fixez un but, déjà vous avez gagné la partie. Vous appaternez déjà à cette petite catégorie de privilégiés  qui savent où ils se dirigent dans la vie. 
 - Sur cent personnes, vous vous situez parmi les cinq premiers. 
 - Ne vous préoccupez pas exagérément sur la manière d'atteindre votre but. 
 - Employez-vous uniquement à avoir une claire et précise idée de votre but et les réponses vous arriveront en temps et en lieu voulus. 
@@ -159,7 +159,7 @@ Ne prenez pas cette décision à la légère.
 
 - Si vous voulez réussir votre test sur 30 jours, surtout ne commencez pas sur un coup de tête, mais uniquement après une décision mûrie et réfléchie pour ne pas abandonner au premier obstacle. 
 - Si vous échouez pendant ces 30 jours et j'entends par là que vous réalisez que soudainement que vous êtes accablé de pensées négatives, remettez les compteurs à zéro et recommencez. 
-- Effacez ces mauvaises idées, attendez que les pensées positives reviennent à votre esprit et à partir de là commencez une nouvelle période de 30 jourq. 
+- Effacez ces mauvaises idées, attendez que les pensées positives reviennent à votre esprit et à partir de là commencez une nouvelle période de 30 jours. 
 
 > Un nouveau comportement ne peut pas prendre la force d'une habitude en un ou quelques jours. 
 
@@ -177,7 +177,7 @@ Ne prenez pas cette décision à la légère.
 - Nous devons d'abord fournir un service et uniquement ensuite pouvons-nous espérer une entrée d'argent. 
 - Le soucis premier doit être le service 
 - Vous voulez davantage, offrez davantage; 
-- Vous voulez moins, offre moins. 
+- Vous voulez moins, offrez moins. 
 
 
 ### Liste en six points particulièrement utile pour trouver le succès 
