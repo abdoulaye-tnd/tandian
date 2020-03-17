@@ -8,13 +8,13 @@ description: >
 ---
 
 
-## Cause ou effet
+## I. CAUSE OU EFFET
 
 - A tout moment, vous êtes dans l'un ou l'autre des cas 
 - Vous êtes soit un effet soit une cause. 
 - Etre un effet : 
 > - Etre impuisant 
- - Un bateau a voile sans gouvernail 
+ - Un bateau à voile sans gouvernail 
  - Aucun contrôle sur la direction 
 
 - Un contrôle complet est exercé sur vous 
@@ -34,19 +34,19 @@ description: >
 - Le succes ne tient qu'à une décision. 
 > C'est l'instant où vous prenez la responsabilité. Vous éliminez le fait d'être un effet
 
-## Le mysticisme amène l'excusite 
+## II. LE MYSTICISME AMENE L'EXCUSITE 
 
 > Les gens qui trouvent des excuses pour tout 
 
 - Ils accusent les gens pour leurs problèmes
-- IL y a toujours une raison pour lesquels ils ne réussissent pas. 
+- Il y a toujours une raison pour lesquels ils ne réussissent pas. 
 - Jamais ils ne se font de reproche. 
-> Souvenez vous. Quand vous pointez le doigt vers quelqu'un, trois doigt sont dirigés vers vous 
+> Souvenez vous. Quand vous pointez le doigt vers quelqu'un, trois doigts sont dirigés vers vous 
 
-- Vous êtes la cause,personne d'autre.
+- Vous êtes la cause, personne d'autre.
 - Assumez la résponsabilité 
 
-## Héritage d'information 
+## III. L'HERITAGE DE L'INFORMATION
 
 - Une des manières avec lesquels on vous fait croire que vous êtes un effet remonte à "qui est-ce que vous écoutez ?"
 
