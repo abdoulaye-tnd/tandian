@@ -8,7 +8,7 @@ description: >
 ---
 
 
-## 1. La pensée et le caractère
+## I. La pensée et le caractère
 
 > De même que la plante vient de la graine et n'existerait pas sans elle, chaque acte d'un homme
 vient des graines secrètes de sa pensée et n'aurait pu avoir lieu sans elles. Ceci s'applique autant
