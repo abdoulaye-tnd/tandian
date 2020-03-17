@@ -8,7 +8,7 @@ description: >
 ---
 
 
-## Pourquoi apprendre l'art de diriger ?
+### Pourquoi apprendre l'art de diriger ?
 
 > La personne que vous devez le plus diriger c'est vous-même. 
 
@@ -32,7 +32,7 @@ description: >
 - Quand vous prenez cette décision tout change
 
 
-## L'art de diriger
+### L'art de diriger
 
 - Vous devez vous diriger vous-même 
 - Commander vos emotions, vos actions 
