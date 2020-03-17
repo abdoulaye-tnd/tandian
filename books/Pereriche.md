@@ -8,7 +8,7 @@ description: >
 ---
 
 
-## LES RICHES NE TRAVAILLENT PAS POUR L'ARGENT
+##  I. LES RICHES NE TRAVAILLENT PAS POUR L'ARGENT
 
 - La plupart des gens s'en tiennent aux paroles et au rêve d'être riches mais ne passent jamais à l'action
 > Si vous êtes incapables de prendre des décisions rapides, jamais vous n'apprendrez à gagner de l'argent
@@ -31,7 +31,7 @@ description: >
 
 - Voir ce que les autres ne voient pas; Plus vous oublierez rapidement votre besoin de toucher un salaire, plus votre vie adulte en sera faicilitée
 
-## POURQUOI ENSEIGNER L'ABC du DOMAINE FINANCIER 
+## II. POURQUOI ENSEIGNER L'ABC du DOMAINE FINANCIER 
 
 > Ce qui compte dans la vie ce n'est pas combien d'argent vous faites, mais combien d'argent vous parvenez à conserver 
 
@@ -76,7 +76,7 @@ description: >
 - Occupez vous de vos affaires, Axez vos efforts à acquérir des actifs. 
 
 
-## OCCUPEZ-VOUS DE VOS PROPRES AFFAIRES 
+## III. OCCUPEZ-VOUS DE VOS PROPRES AFFAIRES 
 
 > Commencez donc à vous occuper de vos propres affaires. Conservez votre emploi de jour et mettez-vous à acheter de véritables actifs.
 
@@ -93,7 +93,7 @@ description: >
 - Quand un dollar y entre, ne l'en laissez jamais sortir. Il devient votre employé et travaille 24/7. 
 - Conservez votre emploi de jour, Soyez un employé qui travaille dur, mais continuez d'ériger, de construire cette colonne de l'actif. 
 
-## L'HISTORIQUE DES TAXES ET LE POUVOIR DES ENTREPRISES 
+## IV. L'HISTORIQUE DES TAXES ET LE POUVOIR DES ENTREPRISES 
 
 > Chaque fois que des gens essaient d'infliger au riche une forme de pénalité, ces derniers réagissent. Ils ont le pouvoir et la détermination nécessaires pour changer des choses, minimiser le fardeau. 
 
@@ -101,7 +101,7 @@ description: >
 - Les employés travaillant pour des entreprises : 1. Ont des gains 2. Paient des taxes 3. Dépensent 
 
 
-## LES RICHES ENGENDRENT L'ARGENT 
+## V. LES RICHES ENGENDRENT L'ARGENT 
 
 - La peur excessive et le manque de confiance en soi sont les pires détracteurs du génie personnel. 
 - Il arrive fréquemment dans la réalité que ce ne soit pas les êtres rusés qui prennent de l'avance mais les audacieux. 
@@ -115,7 +115,7 @@ description: >
 - Un esprit bien entrainé peut produire d'énormes richesses. 
 - Un esprit qui n'est pas entrainé peut produire une extrême pauvreté. 
 
-## TRAVAILLEZ POUR APPRENDRE, NE TRAVAILLEZ PAS POUR L'ARGENT 
+## VI. TRAVAILLEZ POUR APPRENDRE, NE TRAVAILLEZ PAS POUR L'ARGENT 
 
 - Le monde est rempli de gens intelligents, talentueux; instruits et très doués. Nous les croisons tous les jours. Ils sont partout autour de nous. 
 > Il y a quelques jours, mon auto ne fonctionnait pas bien. J'entrai dans un garage et le jeune mécanicien régla le problème en quelques minutes seulement. Il comprit ce qui n'allait pas en écoutant simplement le bruit du moteur. J'étais confondu
@@ -150,7 +150,7 @@ description: >
 
 - La loi de l'argent : "Donnez et vous recevrez" au lieu de cela beaucoup croit en "Recevez et vous donnerez ensuite"
 
-## COMMENT SURMONTER LES OBSTACLES 
+## VII. COMMENT SURMONTER LES OBSTACLES 
 
 ### Cinq Raisons pour lesquels les gens qui connaissent l'A B C du domaine financier ne dévélopperont peut-être pas de riches colonnes de l'actif qui pourrait générer d'importantes sommes. 
 1. La peur 
@@ -215,7 +215,7 @@ Cela requiert une grande dose de courage pour ne pas laisser les rumeurs, les pa
 
 - Quand vous savez que vous êtes ignorant sur un sujet précis. Instruisez-vous. 
 
-## Lancez-vous 
+## VIII. LANCEZ-VOUS
 > Il y'a de l'or partout. La plupart des gens ne sont pas entrainés à le voir. 
 
 - Voici les 10 étapes pour développer son génie financier. 
@@ -328,7 +328,7 @@ Comme par magie, il y a tout à coup de plus en plus de gens souriants autour de
 
 - Plus vous enseignez avec sincerité à ceux qui veulent apprendre, plus vous apprenez vous-même.
 
-## Voulez-vous en savoir davantage  -- Choses à faire ? 
+## IX Voulez-vous en savoir davantage ?  -- Choses à faire 
 
 ### Arretez de faire ce que vous faites 
 - Arrêtez-vous un instant et évaluez ce qui marche et ce qui ne marche pas. 
