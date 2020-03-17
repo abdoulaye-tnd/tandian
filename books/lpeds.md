@@ -6,7 +6,7 @@ description: >
 ---
 
 
-## Intro
+## I. INTRO
 
 > Docteur, quel est le principal mal des hommes d'aujourd'hui ? 
 
@@ -28,7 +28,7 @@ description: >
     - 54 ont besoin d'une assistance. 
  - Au total, seuls cinq hommes sur les cent ont réussi ! Pourquoi tous ces échecs ? Pourquoi l'enthousiasme et l'aspiration de leurs 25 ans n'ont-ils pas abouti ? 
 
-## Définition du succès 
+## II. DEFINITION DU SUCCES 
 
 - Sur nos cent hommes, 5% ont réussi 
 - Mais qu'est ce que le succès pour que nous puissions dire qu'untel a réussi et qu'untel n'a pas réussi ? 
@@ -54,7 +54,7 @@ description: >
 - Existe-t-il une recette garatissant le succès à quiconque la connaît et sait très exactement comment l'appliquer ? 
 
 
-## Buts 
+## II. BUTS
 
 - Le gagnant gagne parce qu'il s'est fixé des buts et le perdant perd parce qu'il ne s'est fixé aucun but 
 - Si vous savez où vous allez, vous y arrivez 
@@ -78,7 +78,7 @@ description: >
   - Lui aussi réalisera ses pensées et sa deviendra une vie de frustration, de crainte etc. 
   - Puisqu'il ne pensait à rien, il devient ce rien 
 
-## Vous récoltez ce que vous semez 
+## III. VOUS RECOLTEZ CE QUE VOUS SEMEZ 
 
 - Comment ce principe fondamental fonctionne-t-il ? 
 - Disposant de deux graines, l'une de maîs et l'autre de belladone, une fleur toxique pour l'homme, un fermier décide de les planter toutes les deux. Il soigne régulièrement ses graines comme il faut. 
@@ -103,13 +103,13 @@ Ne prenez pas cette décision à la légère.
 - Pensez à votre but d'une manière détendue et positive. 
 - Imaginez-vous que vous l'avez déjà réalisé
 
-## Nous devenons ce à quoi nous pensons 
+## IV. NOUS DEVENONS CE A QUOI NOUS PENSONS 
 
 - Ce n'est pas du tout un secret
   - Il a été cependant si peu appris et si peu compris qu'il mérite son nom de secret et son qualificatif d'étrange 
 - Ce secret n'a cependant de valeur que pour celui qui le comprend et l'applique 
 
-## Programme de 30 jours pour tester le secret le plus étrange 
+## V. PROGRAMME DE 30 JOURS POUR TESTER LE SECRET LE PLUS ETRANGE
 
 > Comme je ne doute pas que nombre d'entre vous doutent de mes belles, je vous propose de les vérifier par vous-même. Le test dure 30 jours et, je le condède, est loin d'être facile. 
 
