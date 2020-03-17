@@ -8,7 +8,7 @@ description: >
 ---
 
 
-## La pensée et le caractère
+## 1. La pensée et le caractère
 
 > De même que la plante vient de la graine et n'existerait pas sans elle, chaque acte d'un homme
 vient des graines secrètes de sa pensée et n'aurait pu avoir lieu sans elles. Ceci s'applique autant
@@ -17,7 +17,7 @@ aux actes dits spontanés, ou non prémédités, qu'à ceux qu'on exécute déli
 - Un caractère noble et fort n’est pas le résultat de la chance, il est plutôt la conséquence naturelle d’un effort constant de cultiver les bonnes pensées.
 
 
-## L’effet des pensées sur les circonstances
+## II. L’effet des pensées sur les circonstances
 
 > L’esprit de l’homme peut être comparé à un jardin, un jardin que l’on peut cultiver intelligemment
 ou bien laisser à l’état sauvage. Toutefois, qu’il soit cultivé ou négligé, ce jardin produira
@@ -49,7 +49,7 @@ envers les autres, les choses et les gens se transformeront pour lui.
 - Les hommes s’imaginent que l’on peut dissimuler sa pensée, mais c’est impossible ; car elle se
 cristallise rapidement en habitude, et l’habitude se solidifie en circonstance. 
 
-## Les conséquences de la pensée sur la santé et sur le corps
+## III. Les conséquences de la pensée sur la santé et sur le corps
 
 - Si vous voulez parfaire votre corps, veillez sur votre esprit. Si vous voulez renouveler votre corps,
 embellissez votre esprit. 
@@ -57,7 +57,7 @@ embellissez votre esprit.
 >  Le corps est un instrument délicat et malléable qui s’adapte aux pensées qu’on lui imprime ; les habitudes de pensées
 produisent leur effet, bon ou mauvais, sur lui.
 
-## La pensée et les objectifs
+## IV. La pensée et les objectifs
 
 > Tant que la pensée n’est pas coordonnée à un objectif, aucun accomplissement censé n’est
 possible. 
@@ -72,7 +72,7 @@ peuvent fixer leurs pensées sur l’exécution impeccable de leur tâche, quand
 semble insignifiant. Ils rassembleront et unifieront ainsi leurs pensées, acquerront beaucoup
 d'énergie et de fermeté ; après quoi rien ne leur sera impossible
 
-## Le rôle de la pensée dans la réussite
+## V. Le rôle de la pensée dans la réussite
 
 - Les réussites et les échecs d’un homme sont le résultat de ses propres pensées
 > Sans sacrifice, il n’y a ni progrès, ni accomplissement. Le succès terrestre d’un homme sera
@@ -81,7 +81,7 @@ ses projets, du renforcement de ses résolutions et de son autonomie. Plus haut 
 pensées, plus grande sera sa réussite, plus heureuses et durables seront ses réalisations
 
 
-## Les visions, les idéaux
+## VI. Les visions, les idéaux
 - Rêvez des rêves nobles, et au fur et à mesure que vous rêverez, vous deviendrez votre rêve. 
 > Vos circonstances de vie sont peut-être désagréables, mais elles ne perdureront pas si vous
 percevez un idéal et que vous vous efforcez de l’atteindre.
@@ -91,7 +91,7 @@ choses elles-mêmes, évoque la chance, le hasard. Voyant qu’un homme est deve
 commente : « comme il a de la chance ! » S’agissant d’un autre homme, devenu intellectuellement
 brillant, il s’exclame : « Comme il est favorisé ! » 
 
-## La sérénité
+## VII. La sérénité
 
 > Un homme devient calme dans la mesure où il se reconnaît comme un être régi par la pensée, car
 une telle connaissance implique de reconnaître que les autres aussi sont le résultat de leur pensée
