@@ -8,7 +8,7 @@ description: >
 
 ## Introduction 
 - This works because the Game of Work does not require the team to learn some new vernacular and dictionary of terms to be successful/ 
-- Game of work works because it is a process wo do WITH team members not TO team members.
+- Game of work works because it is a process to do WITH team members not TO team members.
 - The five principles of the Motivation 
   - Clearly defined goals 
   - Better scorekeeping and scorecards 
@@ -16,20 +16,20 @@ description: >
   - A higher degree of personal choice of methods 
   - Consistent coaching 
   
-## The game of Work 
+## I. THE GAME OF WORK 
 
 > People will pay for the privilege of working harder than they will work when they are paid 
 
--  But why ? WHy do people put up to ten times as much energy and effort into their avocations as into their vocation ? 
+-  But why ? Why do people put up to ten times as much energy and effort into their avocations as into their vocation ? 
 
-- The are several reasons : 
+- There are several reasons : 
 
-1. In recreation, oals are clearly defined 
+1. In recreation, goals are clearly defined 
   - Shooting a deer, winning a game, beating your previous time. 
   - The desired result is clear and easily measuerd 
 
 1. In recreation the scorekeeping is better because it's more objective, self-administred and dynamic
-  - It allows player to compare current personal performance zith past personal performance as well as with an accepted standard 
+  - It allows player to compare current personal performance with past personal performance as well as with an accepted standard 
   - In recreation, everybody knows how to keep score 
   - In golf you get realistic feedback that you can relate to your own past performance. If you were getting feedback on your golf game comparing you to Tiger Woods, you would never win. 
   But accurate feedback related to your own past performance usually gives you enough positive reinforcement to make you to keep playing, to keep improving, to beat your own past performance standards. 
@@ -39,29 +39,29 @@ description: >
  
  1. In recreation feedback is more frequent. Everyday, everybody needs to know whether they are winning or losing. 
  
- - Fortunately, in most recreationnal activities you don't have ti depend on a boss or supervisor to tell you how you are doing. You knoz what the score is as the game progresses. 
- - The feedback is accurate and frequent -- You know where you stand every time you trhow the ball. And everybody knows how to keep score. 
- - Feedback is the breakfast of champions. People who want to get ahead, who want to win, who want to improve and get the job done -- these people want feedback. 
- - If you don't feedback is important, go count the mirrors in your house. 
- - If you want to improve the quality of performance in any area, you simply improve or increase the frequency of feedback. If you have a problem and you are getting a quarterly report, change it to a monthly report. 
+  - Fortunately, in most recreationnal activities you don't have to depend on a boss or supervisor to tell you how you are doing. You know what the score is as the game progress. 
+  - The feedback is accurate and frequent -- You know where you stand every time you throw the ball. And everybody knows how to keep score. 
+  - Feedback is the breakfast of champions. People who want to get ahead, who want to win, who want to improve and get the job done -- these people want feedback. 
+  - If you don't think feedback is important, go count the mirrors in your house. 
+  - If you want to improve the quality of performance in any area, you simply improve or increase the frequency of feedback. If you have a problem and you are getting a quarterly report, change it to a monthly report. 
  
  1. In recreation, participants feel they have a higher degree of choice. 
  
- - Think about the words that imply a lack of choice -- Words frequently used in business. Words like " have to" "Should" " Muust"
- - How many times have you heard someone say "I have to go play tennis ?" 
+  - Think about the words that imply a lack of choice -- Words frequently used in business. Words like " have to" "Should" " Must"
+  - How many times have you heard someone say "I have to go play tennis ?" 
  
  1. In recreation they don't change the rules in the middle of the game 
  
  - In the workplace, when expectations are clearly defined and uncertainty is minimized, it is easier for people to have the satisfaction of meeting expectations 
  
-## GOALS 
+## II. GOALS 
 
 > In the absence of clearly defined goals, we are forced to concentrate on activity and ultimately become enslaved by it
 
 - If you took the goals out of basketball, you would have ten guys running up and down the floor just dribbling the ball --As we do in business sometimes, but without the ball. 
 - Goals are the motivating force in athetics. And in athetics, goals are more clearly defined than in business. 
 - Goals are the main reason people will payer for the privilege of working harder than they will work when they are paid. 
-- When we walk onto the tennis court, we know the goal is to win. When we go onto a football or soccer field, we know where we have to put ourselves and what our performance has to bo to score. 
+- When we walk onto the tennis court, we know the goal is to win. When we go onto a football or soccer field, we know where we have to put ourselves and what our performance has to be to score. 
 We must have that same challenge, that same opportunity, that same motivation when we walk into the office in the morning
 - Goals in recreation are clearly defined, and as a result, motivation in recreation is at a higher level than is business. 
 - Can we bring the motivation of recreation into the workplace ? Yes 
@@ -69,9 +69,9 @@ We must have that same challenge, that same opportunity, that same motivation wh
 ### Goals must be written 
 
 - People will often avoid writing goals, saying , " I don't need to write anything. I can keep my important goals in my head. I can concentrate on the things that are really meaningful in my life"
-But if the people rings in the middle of that conversation and their spouse is on the other end asking them to pick up five items from the supermaket, they say, " HOld it, let me write this down so I won't forget" 
+But if their phones rings in the middle of that conversation and their spouse is on the other end asking them to pick up five items from the supermaket, they say, " Hold it, let me write this down so I won't forget" 
 - Goals that are not written are merely whishes
-- The is something in the act of writing a goal down that makes it real. 
+- There is something in the act of writing a goal down that makes it real. 
 - Goals that are not written down are easily forgotten or changed. 
 - Written goals that reviewed regularly become reality. 
 - Unwritten goals cannot be read and reviewed 
@@ -101,7 +101,7 @@ But if the people rings in the middle of that conversation and their spouse is o
 - The same principle applies to losing weight
 - In basketball and football they count the points you score, not the ones you miss
 - You must be able to visualize the goal and the only way the goal can be visual is if it is positive. 
-- Instead of a negative goal in pouds, kilogramms that need to be lost, the goal must be to achieve an optimal weight and to maintain that weight once it is achieved 
+- Instead of a negative goal in pounds, kilogramms that need to be lost, the goal must be to achieve an optimal weight and to maintain that weight once it is achieved 
 
 ### Goals must be measurable and specific 
 
@@ -123,16 +123,15 @@ But if the people rings in the middle of that conversation and their spouse is o
 ### Goals must contain an interrelated statement of benefits
 
 - Goals and benefits go together. The accronym WIIFM stands for "What's in it for me". Make sure you've got some WIIFM in your goals program. 
-- WIIFM explains the why to people. Everybody, when asked to do something unusual or out of the ordinary, wants to know why
-They are not interessed in the how 
+- WIIFM explains the why to people. Everybody, when asked to do something unusual or out of the ordinary, wants to know why.
+They are not interested in the how 
 - If we can clearly defined the why, then we will have the king of performance we want and the how will pretty much take care of itself.
 - The why is in sports is apparen. You wouldn't think of going on a basketball court except to win. 
 - The why also needs to be in personal, business and volunteer activities. 
 
-#### A good idea in setting goals is to establish a reward for youself when the goal is accomplished? 
+#### A good idea in setting goals is to establish a reward for youself when the goal is accomplished
 - There is nothing exciting about going out to buy a new business shoes. But it can be exciting if it's a reward for reaching a goal. 
 - When you have a reward, reaching a goal becomes a "want to" instead of a "have to" experience, and that makes a big difference 
-
 - The good get better when they celebrate their victories 
 - If you have memories of your victories you won't forget them 
 
@@ -147,11 +146,11 @@ They are not interessed in the how
 - Teamwork is based on great individual execution 
 
 
-## Scorekeeping 
+## III. SCOREKEEPING 
 
 > If you can't measure it, you can"t manage it -- George Odiorne
 
-- One reason figure-skating (patinage artistique) crowds are so timid is thaty they don't know for sure what is happening on the ice.  They know that someone is skating, but they don't know the score. They only know the score after the skating is over
+- One reason figure-skating (patinage artistique) crowds are so timid is that they don't know for sure what is happening on the ice.  They know that someone is skating, but they don't know the score. They only know the score after the skating is over
   - This system is bad. The skater doesn't know if he's ahead of behind until it's too late to do anything about it. 
   
 - Ice hockey is different, Every fan and every player know the score at all times. 
@@ -183,21 +182,23 @@ They are not interessed in the how
    
    
    
-## Feedback 
+## IV. FEEDBACK 
 
-> When performance is measured, performance improves. When performance is measured and reported back, the rate of improvement accelerates -- Thomas S. Monson 
+> - When performance is measured, performance improves.When performance is measured and reported back, the rate of improvement accelerates -- Thomas S. Monson 
 
-> What do you think would happen if a head coach approached his team in the locker room before an NFL playoff game and handed the quarterback a piece of paper listing one hundred plays in sequence, saying, "These are the plays I want you guys to execute, in the exact order listed on the paper"
+> What do you think would happen if a head coach approached his team in the locker room before an NFL playoff game and handed the quarterback a piece of paper listing one hundred plays in sequence, saying, "These are the plays I want you guys to execute, in the exact order listed on the paper".
 Do you think any of the player would object ? Of course they would, all of them. They would think the coach was insane. Why ? In order for the best possible play to be called in any given situation, it is imperative that the person calling the play have feedback from   the last play, or the last several plays. 
+{:.lead}
+
 
 - Increasing the frequency of feedback improves the quality and quantity of performance. 
 - If you having a difficult time managing your labor resource and you're measuring it monthly, then go to a weekly measurement. It will improve
 - When feedback is illustrated on charts and graph, the impact is even greater
 - Graph data are easier to digest
 
-**Feedback can never become too frequent, as long as it is honest and positive 
+**Feedback can never become too frequent, as long as it is honest and positive**
 
-## Choice 
+## V. CHOICE 
 
 > Work consists of whatever a body is obliged to do, and play consists of whatever a body is not obliged to do. 
 
@@ -220,11 +221,11 @@ Do you think any of the player would object ? Of course they would, all of them.
   - "I would like to be a marathon runner, but don't ask me to run in the rain" 
 - There is no way to get around the fact that behavior precedes results. As the behavior of players determines the ream results, so does the behavior of workers and managers determines the success of a business 
 - Too often businesses try to blame outside influences if they don't get desired results 
-**can go one step further : Attitude is the prime cause of behavior
+**We can go one step further : Attitude is the prime cause of behavior **
 
 ### Attitude 
 
-> They way I think they way i will act, whether it is in a momentary fit of rage or in contemplation in a planning session. 
+> The way I think the way i will act, whether it is in a momentary fit of rage or in contemplation in a planning session. 
 
 - It is imperative to understand that the thought precedes the act
 - It is impossible to behave consistently contrary to a basic attitude. 
@@ -244,20 +245,20 @@ Do you think any of the player would object ? Of course they would, all of them.
  
  > If you don't believe me, walk into the nearest elevator. We all duck in, turn around, and look at the numbers above the door
  
-- he next time you get into an elevator, do not turn around. Simply face your fellow passengers. And if you feel bold, say,"Good morning, how are you" ? 
+- The next time you get into an elevator, do not turn around, simply face your fellow passengers. And if you feel bold, say,"Good morning, how are you" ? 
 
 - Conditioning does shape attitudes. 
 
 - What makes conditioning such a powerful force ? Repetition, repetition, repetition. 
 
-- We did not learn to avoid strangers because wi were told once, but because most of us were told every time we left the house to be wary of strangers. 
+- We did not learn to avoid strangers because we were told once, but because most of us were told every time we left the house to be wary of strangers. 
 
 ### Repetition 
 
 - Success is the result of behavior, which is determined by attitudes, which are formed by conditioning, which takes place through repetition. 
 
 - Repetitive learning is the only vehicle to modify conditioning which alters the attitudes that control our behavior, which produce the resultats we want. 
-- One trip, one lecture, one semina, one tape won't do it. 
+- One trip, one lecture, one seminar, one tape won't do it. 
 
 - Advertisers say it takes eight repetitions before the consumer will even notice your product. 
 
@@ -268,7 +269,7 @@ Do you think any of the player would object ? Of course they would, all of them.
 - We can directly influence ourselves and our people to make the choices that will bring success. 
 
 
-## Field of play 
+## VI. FIELD OF PLAY 
 
 > Great managers constantly seek to minimize uncertainty 
 
@@ -278,7 +279,7 @@ Do you think any of the player would object ? Of course they would, all of them.
 - You need to do better in defining the field of play in business.
 - People need to knows the rules, clear work rules, security, guarantees. 
 
-## Winning 
+## VII. WINNING  
 
 - Can you give me the names of the runner who finished as runners-up to Usain bolt during Olumpics games
 - Give me the five teams Pittsburgh has beaten in the Super Bowl 
@@ -287,20 +288,24 @@ Do you think any of the player would object ? Of course they would, all of them.
 - Why do we use Super Bowl, soccer champions for all those shoe and drink commercials ? Why don't we pick amateur athletes ? 
 - We pick the familiar because of the recognition value and the fact that everybody likes to do busuness with a winner. 
 
-**The following are characteristics of winners 
+**The following are characteristics of winners **
 
 **Winners are prepared**
 - Winners are ready to play.
+
 **Winners expect to win**
+
 **Winners are specific and positive**
 - Losers tend to be general and negative. 
 - Negativism is the antithesis of a winning attitude 
 - Winners see their drinking glasses as half full, not half empty 
 - Winners see the opportunity, losers see the problems. 
 - If you have employees who are constantly looking at the empty half of the glass, you may want to focus on changing their performance and correcting their negative attitude. 
+
 **Winners accept personal responsibility for their actions**
 - Winners say "I", "Me" and "our". Losers say "them", " they", "those guys" 
 - Losers use the language of noncommitment
+
 **Winners don't seek to change the rules**
 
 - Winners don't change the rules, they seek only to understand them well enough to win 
@@ -315,7 +320,7 @@ Do you think any of the player would object ? Of course they would, all of them.
 - Written goals are not opinions or whishes. 
 - Writting goals is the key step that turns dreams into reality. It makes the difference between losing and winning. 
 
-## Attitudes of Winners 
+## VIII. ATTITUDE OF WINNERS
 
 > If you are going to be a successful duck hunter, you must go where the ducks are -- Paul "Bear" Bryant
 
@@ -324,10 +329,11 @@ Do you think any of the player would object ? Of course they would, all of them.
 - They go where the money is 
 - They understand the Pareto Principle 
 
-## Picking Winners 
+## IX. PICKING WINNERS 
 
 - When hiring people, we don't have enough data but you can recognize winners by the following list 
 1. Winners believe in themselves and see a relationship between past accomplishments and the future assignment
 1. Winners have commitment to the team's direction, they see a direct relationship between the company's goals and their own individual goals. 
-1. You're looking for coachability. Winners recognize that good coaches have knowledge and information beyond their own capabilities, and hey are willing to assimilate this through the coach. They are open to the leadership of others. 
-1.
+1. You're looking for coachability. 
+  - Winners recognize that good coaches have knowledge and information beyond their own capabilities, and they are willing to   - assimilate this through the coach. They are open to the leadership of others. 
+
