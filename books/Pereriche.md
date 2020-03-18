@@ -22,7 +22,7 @@ description: >
 
 > La plupart des gens veulent que le reste du monde change, mais pas eux-mêmes. 
 
-- Les pauvres et la classe moyenne travaillent pour l'argent. Les riches font en sorte que l'argent travaille pour eux. 
+- Les pauvres et la classe moyenne travaillent pour l'argent. Les riches font en sorte que l'argent travaillent pour eux. 
 
 - Il serait atroce de passer toute votre vie dans la peur sans jamais explorer vos rêves. Travailler dur pour de l'argent en pensant que ce dernier vous permettre d'acheter des choses qui vous rendront heureux est également cruel.
 - Se reveiller terrifié au milieu de la nuit parce que vous devez payer des factures est aussi une horrible façon de vivre. 
