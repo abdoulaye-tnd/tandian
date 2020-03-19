@@ -84,9 +84,9 @@ accent_color:          '#4fb1ba'
 # See: <https://qwtel.com/hydejack/docs/configuration/>
 
 
-font:         "Lobster, Helvetica, Arial, sans-serif"
-font_heading: "'Roboto Slab', Helvetica, Arial, sans-serif"
-google_fonts: "Roboto+Slab:700|Lobster:400,400i,700,700i"
+font:         "'Roboto Slab', Helvetica, Arial, sans-serif"
+font_heading: "Lobster, Helvetica, Arial, sans-serif"
+google_fonts: "Lobster:700|Roboto+Slab:400,400i,700,700i"
 
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
