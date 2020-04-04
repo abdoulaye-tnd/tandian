@@ -26,7 +26,12 @@ order: 5
   * Indice d’enseignabilité
   * Balance de l’équilibre du travail
   * Les 4 étapes de l'apprentissage
-  * Les 4 étapes de l'apprentissage
+  * Liste des choses à faire 
+  * Rompre des accords 
+  * Se sentir bien maintenant 
+
+
+
 
 [Tel un homme pense]: telunhomme.md
 [Pere riche Pere pauvre]: Pereriche.md
