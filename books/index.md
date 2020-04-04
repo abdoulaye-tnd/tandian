@@ -17,7 +17,11 @@ order: 5
 * [Le plus étrange des secrets]{:.heading.flip-title} -- Earl Nightingale
 * [Le jeu du travail - The game of work]{:.heading.flip-title} -- Charles coonradt
 * [Connaitre le score]{:.heading.flip-title}  -- KT
-
+* Les bases et les fondations -- KT
+  * Qui est-ce que vous ecoutez
+  * Indice d’enseignabilité
+  * Balance de l’équilibre du travail
+  * Les 4 étapes de l'apprentissage
 {:.related-posts.faded}
 
 
