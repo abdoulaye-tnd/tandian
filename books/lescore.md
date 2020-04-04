@@ -2,7 +2,7 @@
 layout: page
 title: Connaitre le score
 description: >
-  Vous trouverez ici mes notes du livre de James Allens: Tel un homme pense.
+  Vous trouverez ici mes notes de la conférence de KT: Connaitre le score
 
 
 ---
