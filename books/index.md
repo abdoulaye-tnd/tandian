@@ -16,7 +16,7 @@ order: 5
 * [Prendre la responsabilité]{:.heading.flip-title} -- Napoleon Hill Books & Zig Ziglar
 * [Le plus étrange des secrets]{:.heading.flip-title} -- Earl Nightingale
 * [Le jeu du travail - The game of work]{:.heading.flip-title} -- Charles coonradt
-* [Connaitre le score]{:.heading.flip-title} 
+* [Connaitre le score]{:.heading.flip-title}  -- KT
 
 {:.related-posts.faded}
 
