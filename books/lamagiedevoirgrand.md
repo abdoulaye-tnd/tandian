@@ -7,7 +7,7 @@ description: >
 ---
 
 
-##  I.POUR RÉUSSIR, IL FAUT Y CROIRE
+##  I. POUR RÉUSSIR, IL FAUT Y CROIRE
 
 - Réussir, c'est gagner 
 - La plupart des gens, des jeunes se lancent dans de nouveaux métiers. 
@@ -69,5 +69,68 @@ description: >
 - La réflexion qui guide votre intelligence importe bien plus que votre quantité de matière grise. 
 - L'application représente 95% d'un talent
 
+> Nous entendons souvent dire que savoir, c'est pouvoir. Cette affirmation est à moitié vraie. La connaissance est un pouvoir potentiel, Elle est un pouvoir réel si on s'en sert de manière constructive. 
 
-## III. OCCUPEZ-VOUS DE VOS PROPRES AFFAIRES 
+#### Il y a trois façons simples de soigner l'"excusite" de l'intelligence : 
+
+- Ne sous-estimez jamais votre intelligence, pas plus que celle des autres.
+- Ne vous dévalorisez pas. 
+- COncentrez-vous sur vos points forts 
+- Répétez-vous: Mon attitude est plus importante que mon intelligence. 
+- Adoptez, au travail comme chez vous, une attitude positive. 
+- Trouvez des raisons d'agir au lieu de renoncer. 
+- Cultivez une attitude de gagnant. Fixez-vous des objectifs de plus en plus grand et atteignez les 
+
+### "Inutile d'essayer. Je suis trop vieux (ou trop jeune"
+
+> L'excusite de l'âge, cette maladie de l'échec qui veut qu'on ne soit jamais du bon âge, se présente sous deux formes aisément repérables: "trop vieux" et "trop jeune"
+
+- Il est surprenant de constater la rareté des gens qui estiment avoir l'âge "parfait"
+
+#### Le traitement contre cet excusite 
+
+- Valorisez votre âge actuel
+- Appliquez votre avenir à accomplir ce que vous désirez vraiment faire. 
+- Cessez de vous dire : " J'aurais dû m'y mettre il y a des années" Cela, c'est penser en perdant. 
+
+### "Oui, mais moi, c'est différent; j'attire la malchance" 
+
+>Imaginez seulement qu'on s'en remette à la chance pour réorganiser General Motors. Supposez un instant que la General Motors soit complètement réorganisée selon le critère de la chance". Le premier d'entre eux tiré au sort deviendrait le président, le deuxième vice-président, et ainsi de suite... Cela paraît absurde, n'est-ce pas ? eh bien, la chance, c'est ça 
+
+#### Surmonter l'excusite de la chance 
+- Acceptez la loi de cause à effet. 
+- Regardez-y deux fois, lorsque quelqu'un semble avoir de la "chance", Vous vous apercevrez que ce n'est pas la chance qui a déterminé sa bonne fortune, mais la préparation. 
+- Ne prenez pas vos désirs pour des réalités. Notre réussite ne dépend pas de la chance. Elle vient de ce que nous faisons. 
+
+
+## III. À BAS VOS PEURS : PLACE À LA CONFIANCE 
+
+> Notez bien cela dans votre livre d'or de la réussite : Le remède contre la peur, c'est l'action
+
+- L'action guérit de la peur
+- Votre apparence vous gêne ? Améliorez-la. 
+- Vous craignez d'échoucher à un examen ? EMployez votre temps à étudier plutôt qu'à vous inquiéter. 
+
+- Renforcez votre confiance en vous 
+- Ne déposez que des pensées positives dans votre mémoire
+
+> Voyons les choises bien en face. Nous devons tous faire face à nombre de situations déplaisantes, embarrassantes et décourageantes Mais les gens qui réussissent et ceux qui échouent font face de manière diamétralement opposée. 
+
+- Lorsque vous avez affaire à autrui. Prèmièrement, autrui est important, très important. Mais n'oubliez pas ceci : Vous êtes important, vous aussi. 
+- Pour mettre de l'assurance dans vos pensées, mettez(en dans vos actions.
+- Assoyez-vous toujours au premier rang 
+  - Avez-vous remarqué que, dans toute assemblée, les places du fond se remplissent en premier ?  parce qu'ils manquent d'assurance. 
+- Regardez les gens dans les yeux 
+- Marchez plus vite
+- Prenez la parole 
+  - Bien des gens douées d'intelligence semblent paralysés et ne participent aux échanges pour une simple question d'assurance. 
+- Souriez 
+  - Le sourire est un excellent remède au manque de confiance en soi. Mais bien des gens ne le croient pas, parce qu'ils n'ont jamais essayé quand ils éprouvaint de la peur. 
+  - Essayez de vous sentir déprimé et de faire un grand sourire en mme temps Impossible.
+  
+## IV. COMMENT VOIR GRAND
+
+- Rehcerchez vos cinq points forts
+- Le cerveau transforme automatiquement les mots en images 
+
+> Supposons que vous disiez à un groupe de gens " J'ai le regret de vous annoncer que nous avons échoué" Que voient vos auditeurs ? Ils voient toute la tristesse, toutes les déceptions associées à ce mot "échoueré
