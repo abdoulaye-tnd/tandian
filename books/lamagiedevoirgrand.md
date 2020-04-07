@@ -131,11 +131,13 @@ description: >
 ## IV. COMMENT VOIR GRAND
 
 - Rehcerchez vos cinq points forts
+- Nous ne pensons ni en mots ni en phrase. 
+- Nous pensons en images, en répresentations. 
 - Le cerveau transforme automatiquement les mots en images 
 
 > Supposons que vous disiez à un groupe de gens " J'ai le regret de vous annoncer que nous avons échoué" Que voient vos auditeurs ? Ils voient toute la tristesse, toutes les déceptions associées à ce mot "échouer"
 
 > Supposons que vous disiez  " Nous avons un problème". Vous créez dans l'esprit des autres l'image de quelque chose de difficile à régler. Si vous dites plutôt : " Nous avons un défi à relever" vous avez créé une image mentale agréable et stimulante. 
 
-
+- Pour voir grand, nous devons employer des mots et des phrases qui produisent des images mentales fortes, positives
 
