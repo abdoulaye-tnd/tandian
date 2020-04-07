@@ -141,3 +141,89 @@ description: >
 
 - Pour voir grand, nous devons employer des mots et des phrases qui produisent des images mentales fortes, positives
 
+- Employez des mots positifs et chalereux 
+- Encouragez les autres par vos paroles.
+- Ne manquez jamais l'occasion de complimenter. Tout le monde aime recevoir des éloges
+- Présentez les choses aux autres en termes positifs
+
+### Voyez plus loin 
+
+> Envisagez les choses telles qu'elles peuvent être, et non telles qu'elles sont. 
+
+- Valorisez les choses qui vous entourent 
+- Valorisez-vous
+- "Que puis-je faire pour augmenter ma valeur aujourd'hui"
+
+### Est-ce vraiment important ? 
+
+> Avant de vous plaindre, de lancer des accusations, de réprimander ou de lancer des contre-attaques pour vous défendre, demandez-vous ceci : Est-ce vraiment important ? Dans la plupart des cas, la réponse sera négative, et vous éviterez un conflit. 
+
+- Est-ce que ça mérite que je me mette dans cet état ? cela permet d'éviter les petites frustrations 
+- Ne vous laissez pas aveugler par les détails 
+- Pensez à ce qui importe vraiment, à ce qui cimpte. 
+- Fixez votre attention sur les choses importantes. 
+
+## V. COMMENT PENSER ET RÊVER AVEC CRÉATIVITÉ
+
+> L'imagintation créatrice consiste tout simplement à découvrir de meilleures méthodes d'action. 
+
+- La première condition : Ayez foi en vos chances de succès 
+- Cette fois nous fait découvrir les moyens de réussir 
+- Ayez un objectif suffisamment gros pour vous exciter et suffisamment petit pour que vous croyez que vous pouvez le réaliser
+
+> Un mode de pensée routinier constitue un obstacle pour la personne qui s'applique de façon creatice à atteindre la réussite 
+
+- Soyez réceptif aux idées nouvelles. 
+- Faites la guerre à ce type de pensées : "Ça ne marchera pas","C'est impossible", "Ça ne sert à rien" 
+- Faites de nouvelles expériences
+- Brisez votre routine
+
+- Les gens d'affaires entreprenants se demandent sans cesse :" Que puis-je faire pour produire davantage ? 
+- Les personnes d'envergure écoutent 
+- Les gens mesquins monopolisent la conversation 
+- Posez des questions pour tester vos idées 
+  - "Qu'est-ce que vous en pensez ?"
+  - "Quel conseil me donneriez-vous ?"
+  - "Quelle est votre impression ?"
+
+> "Pour vendre à la Lafleur ce que Lafleur achète, il faut voir par les yeux de Lafleur" Et pour avoir les yeux de Lafleur, il faut écouter ce qu'il a à dire. 
+
+- Nous n'apprenons rien en parlant. 
+- Encouragez les autres à parler 
+- Intéressez-vous aux dires de votre interlocuteur 
+  - Trop souvent, les gens prétendent écouter, alors qu'ils n'écoutent pas; ils attendent simplement l'occasion de prendre la parole 
+
+
+## VI. VOUS ÊTES À L'IMAGE DE VOS PENSÉES
+
+- Celui qui s'estime à la hauteur de sa tâche l'est assrment 
+- Votre pensée détermine vos actions. 
+- Vos actions déterminent les réactions des autres à votre égard. 
+
+### Prenez l'apparence de quelqu'un d'important, cela vus permettra de vous sentir important 
+
+- Ne sortez jamais de chez vous sans vous être assuré que vous avez l'air de la personne que vous voulez être
+
+> Habillez-vous bien. Pouvez-vous vous permettre d'agir autrement ? 
+
+- Notre apparence conditionne souvent notre humeur 
+
+- C'est à votre apparence que l'on vous juge
+
+- En terme d'achats : Déboursez le double et achetez deux fois moins
+  - Vos vêtements dureront plus de deux fois plus longtemps 
+  - Ce que vous achetez restera à la mode 
+
+### Votre travail est important, croyez-le 
+
+- La façon de voir son travail en dit long sur ses possibilités d'avancement 
+- La personne qui a de l'estime pour son emploi actuel prendra à coeur son emploi suivant également. 
+- La personne qui estime que son travail est important reçoit de son esprit des instructions pour mieux l'accomplir; et un travail mieux fait est synonyme de promotion, d'argent et de bonheur. 
+- La manière dont vous percevez votre travail conditionne la perception des gens autour de vous. 
+- Si vous êtes enthousiaste, les gens qui vous entourent le seront aussi. 
+- Comment le devenir ? En mettant de l'enthousiasme dans vos pensées 
+- Cultivez en vous l'optimisme
+- Pour obtenir de bons résultats au travail, manifestez de l'enthousiasme pour la tâche à accomplir 
+- Adoptez toujours une attitude positive devant votre travail
+-
+
