@@ -133,4 +133,9 @@ description: >
 - Rehcerchez vos cinq points forts
 - Le cerveau transforme automatiquement les mots en images 
 
-> Supposons que vous disiez à un groupe de gens " J'ai le regret de vous annoncer que nous avons échoué" Que voient vos auditeurs ? Ils voient toute la tristesse, toutes les déceptions associées à ce mot "échoueré
+> Supposons que vous disiez à un groupe de gens " J'ai le regret de vous annoncer que nous avons échoué" Que voient vos auditeurs ? Ils voient toute la tristesse, toutes les déceptions associées à ce mot "échouer"
+
+> Supposons que vous disiez  " Nous avons un problème". Vous créez dans l'esprit des autres l'image de quelque chose de difficile à régler. Si vous dites plutôt : " Nous avons un défi à relever" vous avez créé une image mentale agréable et stimulante. 
+
+
+
