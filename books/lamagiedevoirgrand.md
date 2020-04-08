@@ -225,5 +225,53 @@ description: >
 - Cultivez en vous l'optimisme
 - Pour obtenir de bons résultats au travail, manifestez de l'enthousiasme pour la tâche à accomplir 
 - Adoptez toujours une attitude positive devant votre travail
--
+
+## VII. CONTRÔLEZ VOTRE ENVIRONNEMENT
+
+- Votre environnement détermine votre capacité de penser, vos buts, votre personnalité même. 
+
+> Des contacts prolongés avec des personnes négatives nous font penser négativement.
+Par contre, la fréquentation de gens aux idées larges élève le niveau de nôtre pensée. 
+
+- Mettez vote environnement de votre côté 
+- Demandez conseil aux gens qui ont ce que vous voulez. 
+
+## VIII. FAITES DE VOS ATTITUDES VOS ALLIÉES
+ 
+- Pour stimuler les autres, il faut d'abord se stimuler. 
+- Vos résultats sont proportionnels à votre enthousiasme 
+- Développer votre enthousiasme 
+- Pour connaître l'enthousiasme au sujet des autres, des lieux, de toute chose, montrez-vous curieux. 
+- Approndissez et votre inérêt grandira. 
+- Mettez ce principe en action la prochaine fois que vous devrez faire quelque chose que vous ne voulez pas faire
+- Soyez celui qui annonce de bonnes nouvelles. 
+- Donnez de la valeur aux autres 
+
+> Tout être humain veut se sentir important 
+
+> Sur le front de chaque personne, il y a écrit "fais moi me sentir important" -- Dale Carnegie
+
+> Les gens vous rendent plus de services lorsque vous leur donnez le sentiment de leur propre importance 
+
+### L'argent vous intérese ? Alors, mettez-vous au service des autres
+
+- Le germe de l'argent, c'est le service
+- Servez les autres et l'argent viendra de lui-même
+- Donnez toujours aux autres plus qu'ils n'attendent. 
+- Posez-vous chaque jour cette question : 
+  - Comment puis-je offrir davantage que ce qu'on attend de moi ? 
+
+## IX. LA JUSTE ATTITUDE
+
+- Prenez l'initiative de vous faire des amis; c'est ce que font toujours les leaders. 
+- Ayez les meilleures pensées pour ceux qui vous entourent et vous obtiendrez les meileurs résultats en retour 
+
+
+## X. PRENEZ L'HABITUDE D'AGIR
+
+- Les activistes agissent, réalisent, prennent des initiatives, mènent leurs idées et leurs projets à terme. 
+- Les passivistes, quant à eux, n'agissent pas; Ils remettent toujours l'action à plus tard, jusqu'au jour où il est trop tard.
+- Les activistes font des projets de vacances et partent ensuite en vacances. 
+- Les passivistes font aussi des projets de vacances, mais ils les remettent à l'année "suivante"
+  
 
