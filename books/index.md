@@ -16,6 +16,7 @@ order: 5
 * [Prendre la responsabilité]{:.heading.flip-title} -- Napoleon Hill Books & Zig Ziglar
 * [Le plus étrange des secrets]{:.heading.flip-title} -- Earl Nightingale
 * [Le jeu du travail - The game of work]{:.heading.flip-title} -- Charles coonradt
+* [La magie de voir GRAND]{:.heading.flip-title}  -- David J. Schwartz
 * [Connaitre le score]{:.heading.flip-title}  -- KT
 
 
@@ -40,5 +41,4 @@ order: 5
 [Le plus étrange des secrets]: lpeds.md
 [Le jeu du travail - The game of work]: gameofwork.md
 [Connaitre le score]: lescore.md
-
-
+[La magie de voir GRAND]: lamagiedevoirgrand.md
