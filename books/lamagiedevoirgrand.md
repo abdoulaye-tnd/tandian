@@ -273,5 +273,73 @@ Par contre, la fréquentation de gens aux idées larges élève le niveau de nô
 - Les passivistes, quant à eux, n'agissent pas; Ils remettent toujours l'action à plus tard, jusqu'au jour où il est trop tard.
 - Les activistes font des projets de vacances et partent ensuite en vacances. 
 - Les passivistes font aussi des projets de vacances, mais ils les remettent à l'année "suivante"
-  
+- Dites-vous "je suis maintenant en état de commencer. Je n'ai rien à gagner à attendre. Le temps et l'énergie perdus à me mettre dans l'humeur d'agir, je vais les appliquer à agir. 
+- Soyez un activiste 
+- N'attendez pas les conditions parfaites pour agir. Elles ne le seront jamais. 
+- N'oubliez pas que les idées en soi n'assurent pas le succès. 
+- Agissez, vos peurs disparaîtront et vous retrouverez confiance. 
+- Passez à l'action sans hésiter
+- Des mots tels que demain, plus tard et la semaine prochaine sont souvent synonymes de jamais
+- Prenez l'initiative
 
+## X. COMMENT TRANSFORMER L'ÉCHEC EN VICTOIRE
+
+- Il n'est pas mauvais de connaitre l'échec, à la condition d'en tirer une leçon
+- L'échec n'est qu'un était d'esprit, rien de plus
+- Conditionnez-vous pour la réussite de la façon suivante : 
+  - Appliquez-vous à découvrir vos faiblesses ignorées 
+  - Si vous en découvrez, apportez-y un correctif 
+  - Par la force de l'habitude,vous vous ameliorerez
+- Dans la victoire, la plupart des gens sont avides de lauriers, ils désirent que l'univers entier en apprenne la nouvelle. 
+- Ils n'hésitent pas, par contre, à blâmer les autres pour chacun de leurs échecs. 
+- Prenez la responsabilité 
+- S'en prendre aux autres ne sert à rien 
+- Lorsque vous acceptez la responsabilité cela vous aide à vous améliorer
+- Vous savez que vous pouvez changer la situation 
+- Lorsque vous ne prenez pas la responsabilité, vous avez tendance à être une victime, à ne rien faire dans la situation puisque ce n'est pas de votre faute. 
+- Beaucoup de gens s'en prenent fréquemment à la malchance pour excuser leurs échecs. 
+
+> Imaginez un peu que l'Administration de l'aviation civile déclare : "Nous regrettons cet accident mais, que voulez vous , c'est la vie..." 
+
+> Imaginez qu'un médecin vous dise : "Je suis vraiment désolé. Je ne sais pas ce qui s'est passé. Ce sont des choses qui arrivent." 
+
+- Vous changeriez certainement de méédecin
+
+> Tant de gens passent leur vie à expliquer la médiocrité de leur situation par "la malchance", "la poisse", " la déveiné". Ils ratent, sans s'en rendre, l'occasion de devenir plus forts et plus autonomes. 
+
+- S'en prendre à la chance, ne mène nulle part. 
+
+- Ayez le courage de faire une autocritique constructive.
+  - Examinez vos faiblesses pour les corriger
+  - Etudiez vos échecs er recherchez-en la cause. 
+- N'oubliez pas que toute situation a son bon côté. 
+
+## XII. FIXEZ-VOUS DES OBJECTIFS POUR PROGRESSER
+
+- Un but est un objectif à atteindre 
+  - C'est bien plus qu'un rêve 
+  - C'est un rêve mis en oeuvre
+  - Ce n'est pas dire vaguement "Si seulement je pouvais .."
+  - C'est dire clairement " Voilà ce que je poursuis activement"
+- Privés d'objectifs, la plupart des gens se laissent aller à la dérive. 
+- L'important n'est pas d'où vous venez, ni où vous en êtes, mais où vous voulez arriver
+- Détruisez les cinq poisons mortels pour votre réussite : 
+  - L'autodépréciation : Eviter les "Je veux être X mais je ne peux pas " "Je ne suis pas assez intelligent" " Si j'essaie je vais échouer"
+  - L'obsession de la sécurité : La sécurité peut tuer vos rêves 
+  - La concurrence : "Ce domaine est surchargé" "Il y a trop de concurrence dans ce domaine" tuent l'ambition 
+  - L'opinion des parents : "J'aimerais vraiment faire autre chose, mais mes parents ne veulent pas" 
+  - Les responsabilités familiales : "J'aurais pu changer d'emploi, il y a cinq ans, mais maintenant que j'ai une famille, c'est impossible" voilà une remarque qui tue le désir. 
+  
+- Votre énergie est décuplée lorsque vous vous fixez un objectif
+- Se fixer des objectifs est le meilleur remède à l'ennui et un excellent remède pour la santé 
+- Il nous est tous arrivé de nouer lever un samedi matin sans aucun projet pour la journée. Ces jours-là nous n'accomplissons pratiquement rien 
+- Pour obtenir des résultats, fixez-vous des objectifs
+- Concevez des mini objectifs pour atteindre le grand objectif 
+
+> Tout progrès est fait d'une multitude de petits progrès
+
+- Pour évaluer toutes vos actions 
+  - Demandez vous "Est-ce que ça me permet de me rapprocher de mon objectif" 
+  - Si c'est négative, arrêtez; si elle est positive continuez d'agir. 
+  
+   
