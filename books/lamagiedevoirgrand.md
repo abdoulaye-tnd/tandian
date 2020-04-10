@@ -26,7 +26,7 @@ description: >
 - Nous sommes le produit de nos pensées. 
 - Lancez votre offensive vers le succès avec la conviction honnête et sincère d'une réussite éventuelle. 
 - Au travail comme chez vous, remplacez les idées d'echec par des idées de succès
-- Rappelez vous régulièrement que vous valez mieux que vous ne le croyez. Les gens qui réussissent ne sont pas surhommes. 
+- Rappelez vous régulièrement que vous valez mieux que vous ne le croyez. Les gens qui réussissent ne sont pas des surhommes. 
 - Ne dévalorisez jamais, au grand jamais. 
 - Votre dégré de réussite dépend de votre niveau de confiance en vous-même
 - Qu'un homme prend du retard ou progresse dans son domaine dépend de sa seule application personnelle. Personne le peut pour vous 
@@ -75,13 +75,13 @@ description: >
 
 - Ne sous-estimez jamais votre intelligence, pas plus que celle des autres.
 - Ne vous dévalorisez pas. 
-- COncentrez-vous sur vos points forts 
+- Concentrez-vous sur vos points forts 
 - Répétez-vous: Mon attitude est plus importante que mon intelligence. 
 - Adoptez, au travail comme chez vous, une attitude positive. 
 - Trouvez des raisons d'agir au lieu de renoncer. 
 - Cultivez une attitude de gagnant. Fixez-vous des objectifs de plus en plus grand et atteignez les 
 
-### "Inutile d'essayer. Je suis trop vieux (ou trop jeune"
+### "Inutile d'essayer. Je suis trop vieux (ou trop jeune)"
 
 > L'excusite de l'âge, cette maladie de l'échec qui veut qu'on ne soit jamais du bon âge, se présente sous deux formes aisément repérables: "trop vieux" et "trop jeune"
 
@@ -109,15 +109,15 @@ description: >
 
 - L'action guérit de la peur
 - Votre apparence vous gêne ? Améliorez-la. 
-- Vous craignez d'échoucher à un examen ? EMployez votre temps à étudier plutôt qu'à vous inquiéter. 
+- Vous craignez d'échouer à un examen ? Employez votre temps à étudier plutôt qu'à vous inquiéter. 
 
 - Renforcez votre confiance en vous 
 - Ne déposez que des pensées positives dans votre mémoire
 
-> Voyons les choises bien en face. Nous devons tous faire face à nombre de situations déplaisantes, embarrassantes et décourageantes Mais les gens qui réussissent et ceux qui échouent font face de manière diamétralement opposée. 
+> Voyons les choses bien en face. Nous devons tous faire face à nombre de situations déplaisantes, embarrassantes et décourageantes Mais les gens qui réussissent et ceux qui échouent font face de manière diamétralement opposée. 
 
 - Lorsque vous avez affaire à autrui. Prèmièrement, autrui est important, très important. Mais n'oubliez pas ceci : Vous êtes important, vous aussi. 
-- Pour mettre de l'assurance dans vos pensées, mettez(en dans vos actions.
+- Pour mettre de l'assurance dans vos pensées, mettez-en dans vos actions.
 - Assoyez-vous toujours au premier rang 
   - Avez-vous remarqué que, dans toute assemblée, les places du fond se remplissent en premier ?  parce qu'ils manquent d'assurance. 
 - Regardez les gens dans les yeux 
@@ -130,8 +130,8 @@ description: >
   
 ## IV. COMMENT VOIR GRAND
 
-- Rehcerchez vos cinq points forts
-- Nous ne pensons ni en mots ni en phrase. 
+- Recherchez vos cinq points forts
+- Nous ne pensons ni en mots ni en phrases. 
 - Nous pensons en images, en répresentations. 
 - Le cerveau transforme automatiquement les mots en images 
 
@@ -168,10 +168,10 @@ description: >
 > L'imagintation créatrice consiste tout simplement à découvrir de meilleures méthodes d'action. 
 
 - La première condition : Ayez foi en vos chances de succès 
-- Cette fois nous fait découvrir les moyens de réussir 
+- Cette foi nous fait découvrir les moyens de réussir 
 - Ayez un objectif suffisamment gros pour vous exciter et suffisamment petit pour que vous croyez que vous pouvez le réaliser
 
-> Un mode de pensée routinier constitue un obstacle pour la personne qui s'applique de façon creatice à atteindre la réussite 
+> Un mode de pensée routinier constitue un obstacle pour la personne qui s'applique de façon creatrice à atteindre la réussite 
 
 - Soyez réceptif aux idées nouvelles. 
 - Faites la guerre à ce type de pensées : "Ça ne marchera pas","C'est impossible", "Ça ne sert à rien" 
@@ -183,7 +183,7 @@ description: >
 - Les gens mesquins monopolisent la conversation 
 - Posez des questions pour tester vos idées 
   - "Qu'est-ce que vous en pensez ?"
-  - "Quel conseil me donneriez-vous ?"
+  - "Quels conseils me donneriez-vous ?"
   - "Quelle est votre impression ?"
 
 > "Pour vendre à la Lafleur ce que Lafleur achète, il faut voir par les yeux de Lafleur" Et pour avoir les yeux de Lafleur, il faut écouter ce qu'il a à dire. 
@@ -196,7 +196,7 @@ description: >
 
 ## VI. VOUS ÊTES À L'IMAGE DE VOS PENSÉES
 
-- Celui qui s'estime à la hauteur de sa tâche l'est assrment 
+- Celui qui s'estime à la hauteur de sa tâche l'est assurément 
 - Votre pensée détermine vos actions. 
 - Vos actions déterminent les réactions des autres à votre égard. 
 
@@ -303,9 +303,9 @@ Par contre, la fréquentation de gens aux idées larges élève le niveau de nô
 
 > Imaginez qu'un médecin vous dise : "Je suis vraiment désolé. Je ne sais pas ce qui s'est passé. Ce sont des choses qui arrivent." 
 
-- Vous changeriez certainement de méédecin
+- Vous changeriez certainement de médecin
 
-> Tant de gens passent leur vie à expliquer la médiocrité de leur situation par "la malchance", "la poisse", " la déveiné". Ils ratent, sans s'en rendre, l'occasion de devenir plus forts et plus autonomes. 
+> Tant de gens passent leur vie à expliquer la médiocrité de leur situation par "la malchance", "la poisse", " la déveine". Ils ratent, sans s'en rendre, l'occasion de devenir plus forts et plus autonomes. 
 
 - S'en prendre à la chance, ne mène nulle part. 
 
