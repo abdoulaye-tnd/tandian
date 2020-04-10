@@ -282,3 +282,82 @@ Et pourtant, vous auriez fait là le marché de tous les temps. Jamais plus vous
 - Au lieu de belle ou grande maison, vous devriez fixer un objectif établi dans les moindres détails.
 Si les détails vous échappent encore, accumulez les magazines illustrés de photos, de dessins, de plans de maisons qui vous plaisent. 
 - Confiez vos nombreuses idées au papier 
+
+**Pas de "si" dans vos décisions 
+
+- Bien des gens ne prennent, toute leur vie, que des décisions conditionnelles. 
+- Muhammad Ali a perdu seulement que 2 de ses 57 premiers combats 
+- Il est également significatif que ce soit les deux seuls affrontements où il ait employé la conjonction "si". "Si je perds ce combat"
+
+## ATTEINDRE VOS OBJECTIFS
+
+
+**établir un objectif, les principes**
+
+> Perdre 16 kilos me paraissait difficile, peut-être impossible. 
+Jusqu'à ce que je divise le nombre par 10 et me rende compte qu'il s'agissait seulement de perdre un peu plus d'un kilo et demi par mois. 
+
+> Je constaitai que pour perdre 16 kilos en 10 mois, il me suffisait de perdre 50 grammes par jour. 
+
+> Je n'avais pas gagné 16 kilos en une nuit et je n'allais pas m'en débarrasser en une nuit. 
+
+> Chaque réussite, ou dans mon cas chaque parcelle de poids perdue, augmentait ma confiance dans les succès progressif du projet. 
+
+- Le succès engendre le succès. 
+  - Il est important, lorsque vous établissez et poursuivez un objectif d'arranger les choses de telle sorte que vous ayez un petit succès quelconque" 
+  - Cela augmente votre confiance
+- Gardez l'oeil fixé sur l'objectif majeur mais n'oubliez pas qu'en atteignant la prochaine étape vous vous rapprochez un peu plus de votre but. 
+
+
+**Les limites**
+
+> Vous entrainez des puces en les enfermant dans une jarre fermée d'un couvercle. Les puces sautent, elles sauteront donc et frapperont le couvercle constamment. En les regardant sauter, vous noterez une chose intéressante. Les puces continuent de sauter, mais elles n'arrivent plus à frapper le couvercle. Et puis, et c'est un fait constaté, vous pouvez enlever le couvercle et, bien que les puces continuent de sauter, elles ne sauterint pas hors de la jarre. Elles n'en sortiront pas parce qu'elles en sont incapables. La raison est simple. Elles sont conditionnées à ne sauter que jusqu'à une certaine hauteur. 
+
+- La plupart des limites ne le sont que dans l'esprit 
+- Souvent, on se crée nous même des limites telles les puces. 
+-  Vous découvrirez que le fait d'établir vos objectifs et d'ouvrir votre esprit vous ouvrira la porte de ses trésors. 
+
+**Rouille et herbes épineuses**
+
+- Donnez-vous donc une cible au loin sur la voie et marchait vers cet endroit. Au moment de l'atteindre, il s'en trouvait une autre 
+- Avancez aussi loin que vous pouvez voir et, quand vous y arrivez, vous voyez toujours plus loin 
+
+
+**Il vous faut un "réajustement"
+
+- Si vous êtes mère et que vous vouliez être une meilleure mère, réajustez-vous et voyez la route. 
+- Voye-vous effectuant ces gestes qui font de vous une meilleure mère? 
+
+## LA "BONNE" ATTITUDE MENTALE EST-ELLE IMPORTANTE ?
+
+- Tous s'accordent sur le fait que votre attitude, au moment d'entreprendre un projet, est le facteur dominant de son succès. 
+- Votre attitude compte plus que vos aptitudes.
+
+**Un optimiste est...**
+
+- Le pessimiste dit: "Je le croirai quand je le verrai"
+- L'optimiste dit :" je le verrai quand je le croirai" 
+- L'optimiste agit - Le pessimiste s'asseoit
+
+**Presque n'est pas drôle** 
+
+> Dans votre course vers la réussite, la différence entre le succès et l'échec se mesure fréquemment en quantités minimes. 
+
+- Vous n'obtenez 
+  - pas de commission pour une vente manquée,
+  - aucun plaisir d'un voyage que vous avez presque fait 
+  - nulle sécurité d'une promotion presque obtenue
+- Il n'y a rien d'excitant à "presque" faire quelque chose dans la vie. 
+- Le plaisir vient de la réussite 
+- L'attitude revêt bien des aspects
+- Si vous êtes un étudiant et que vous travaillez dans le bur d'obtenir vos diplômes, vous les obtiendrez, Mais si vous travaillez pour vous instruire, vous obtiendrez de bien meilleures notes et beaucoup plus de connaissances. 
+
+
+**Les avait-il vus ?**
+- Une attitude positive produira des résultats positifs parce que les attitudes sont contagieuses. 
+- Une telle attitude est l'enthousiasme 
+- "On n'a jamais rien accompli de grand sans enthousiasme" 
+- L'enthousiasme est souvent la différence qui distingue le bon orateur du grand orateur 
+  - le bon vendeur du grand vendeur
+  
+
