@@ -10,13 +10,13 @@ description: >
 
 ## I. Jouez le jeu
 
+> Un caractère noble et fort n’est pas le résultat de la chance, il est plutôt la conséquence naturelle d’un effort constant de cultiver les bonnes pensées.
+
 > Ayez un but, un rêve mais focaliser sur la prochaine étape logique
 
 - Votre prochaine étape logique doit être assez petit pour que vous croyez que vous pouvez le réaliser et assez gros pour vous exciter
 
 - Si votre rêve est de devenir millionnaire, la prochaine étape logique peut être par exemple 2000 par mois. 
-
-- Un caractère noble et fort n’est pas le résultat de la chance, il est plutôt la conséquence naturelle d’un effort constant de cultiver les bonnes pensées.
 
 - C'est sur cette étape que vous devez focaliser, c'est le point idéal, là vous vous sentez bien car vous y croyez que vous pouvez l'avoir. 
 
@@ -38,13 +38,16 @@ description: >
 
 ## II. Quel jeu ?
 
->  Considérer vos affaires personnelles comme un jeu 
+>  Considérez vos affaires personnelles comme un jeu 
 
 - Allez aussi loin que vous pouvez voir quand vous y serez vous verrez plus loin 
 - Vous n'avez pas à connaitre toute la vue d'ensemble, le chemin exact pour y arriver. 
-- Vous devenez ce à quoi vous pensez le plus souvent 
-- Ce pourquoi vous avez un désir ardent, vous l'obtenez car vous y pensez tout le temps 
-- Vous ne pouvez, devez, pas agir à partir de la peur parce que la peur amène des pensées, objectifs, négatifs. 
+
+>  Vous devenez ce à quoi vous pensez le plus souvent -- Earl Nightingale
+
+> Ce pourquoi vous avez un désir ardent, vous l'obtenez car vous y pensez tout le temps -- Napoleon Hill
+
+> Vous ne pouvez, devez, pas agir à partir de la peur parce que la peur amène des pensées, objectifs, négatifs. -- Napoleon Hill
 
 - Dans votre job en particulier, votre poste etc. 
   - A quoi est-ce que vous devriez penser ? 
@@ -53,21 +56,21 @@ description: >
 - La meilleure chose à laquelle penser 
   - Les affaires de la même façon que plusieurs domaines de votre vie peuvent vraiment être considérer comme un jeu 
   - C'est un jeu que nous jouons et apprécions 
-- Dans les jeux, si vous voulez vraiment vous amuser en jouant ou en regardant il faut que vous connaissiez **LE SCORE ET LES REGLES DU JEU**
+- Dans les jeux, si vous voulez vraiment vous amuser en jouant ou en regardant, il faut que vous connaissiez **LE SCORE ET LES REGLES DU JEU**
 - Quelles sont les régles du jeu ? 
 - Quelle est le score ? 
 
 ## III. Fixez les régles 
 
-- Dans la vie et dans les affaires la plupart des gens ne savent pas ça **MAIS C'EST VOUS QUI FAITES LES RÉGLES **
-- La plupart des gens préseument que les régles sont écrites, conjecturent. 
+- Dans la vie et dans les affaires la plupart des gens ne savent pas ça **MAIS C'EST VOUS QUI FAITES LES RÉGLES**
+- La plupart des gens présument que les régles sont écrites, conjecturent. 
 - Ils suivent ce qu'ils présument être les régles et les limites
 - C'est vous qui fixez les régles 
 - Vous créez les régles et vous pouvez les changer à tout moment  
 - Quand vous créez les régles, tout est plus facile 
-- Si vous pouvez changer, fixer, les régles ça ne devrait pas être facile pour vous de gagner ? 
+- Si vous pouvez fixer, changer les régles ça ne devrait pas être facile pour vous de gagner ? 
 - Prenez la résponsabilité, écrivez vos régles
-- La plupart des gens pensent, se plaignent, et accusent le gouvernement,le temps, leurs familles, leurs employeurs.
+- La plupart des gens pensent, se plaignent, et accusent le gouvernement, le temps, leurs familles, leurs employeurs.
   - Ces choses peuvent avoir un petit impact sur les décisions que vous prenez mais n'affecte pas le résultat si vous choisissez
 - Beaucoup se disent "Là où les vagues me conduisent, c'est là que je vais" 
   - C'est comme ça que la plupart des gens vivent leur vie et dans les affaires
@@ -91,15 +94,15 @@ description: >
 - Le score final determine qui a gagné la partie
 - Vous devez toujours connaitre le score 
 - Est-ce que vous menez ou pas ? 
-- Dans les affaires quelle est le score final ? 
+- Dans les affaires quel est le score final ? 
 - Vous pouvez definir cela sur la base du fait que c'est vous qui **écrivez les régles**
 - Vous devez venir avec une façon de suivre le score dans l'entreprise, dans vos tâches, dans votre mission. 
 - Chacun d'entre vous à un nombre différent que vous soyez PDG, vendeur, ingénieur, quoi que vous soyez. 
-- La plupart des gens ne savent pas le score parce que vous n'avez pas un tableau de score
+- La plupart des gens ne savent pas le score parce qu'ils n'ont pas un tableau de score
 - vous n'avez pas écrit la moindre régles. 
 - Vous n'avez aucun nombre que vous suivez 
-- Quand vous ne connaissez pas le score et n'êtes pas entrain de focaliser dessus. Vous n'êtes pas entrain de penser aux bonnes choses. 
-- Vous devenez ce à quoi vous pensez le pllus souvent 
+- Quand vous ne connaissez pas le score et n'êtes pas entrain de focaliser dessus, vous n'êtes pas entrain de penser aux bonnes choses. 
+- Vous devenez ce à quoi vous pensez le plus souvent 
 - Si vous avez défini le score, 
   - Vous avez une image dans la tête de l'endroit, du score que vous voulez atteindre 
   - Vous avez une image à laquelle penser
@@ -107,10 +110,10 @@ description: >
   
 ### Ne confondez pas activité et accomplissement 
 
-> " Est-ce que vous savez combien d'éffort, j'ai mis là dédans, combien de temps j'ai passé sur ce projet " ça c'est la partie activité mais quels sont les résultats 
+> "Est-ce que vous savez combien d'effort, j'ai mis là dédans, combien de temps j'ai passé sur ce projet" ça c'est la partie activité mais quels sont les résultats 
 
 - Peu importe combien d'éffort, de temps vous avez passé  ce qui compte c'est le résultat 
-- Vous n'êtes pas payer pour vos efforts, la quantité de temps 
+- Vous n'êtes pas payer pour vos efforts, sur la quantité de temps 
 - Chacun de vous doit déterminer quelle score vous devriez regarder et auquel vous devez penser dans votre domaine particulier 
 - Chacun d'entre vous à sa propre responsabilité personnelle pour rendre des scores importants 
 - Dans un match le score sur le tableau de bord est le plus important, cependant d'autres scores sont aussi importants 
@@ -128,10 +131,10 @@ description: >
 ## V. Le cycle d'accéleration  
 
 - Quand vous créez les régles et que vous gagnez cela entame le cycle d'accéleration
-  - La réussite créée la confiance en soi 
-  - La confiance en soi crée l'activité 
+  - La réussite crée la confiance en soi 
+  - La confiance en soi créée l'activité 
   - L'activité crée des habitudes de réussite (l'activité qui est faite avec confiance en soi) 
-  - Les habitudes de réussite créent la réussite qui à construit plus de confiance en soi 
+  - Les habitudes de réussite créent la réussite qui à son tour construit plus de confiance en soi 
 - Comment définissez vous le succés, la réussite ? 
   - Vous fixez les régles 
   - Vous définissez le succés, la réussite 
@@ -152,7 +155,7 @@ description: >
 - Vous êtes soit entrain de regarder le résultat quantifiable( la perte de poids, les ventes , quelque chose de précis ), soit l'activité mais il ne faut pas confondre activité et accomplissement 
 - Tout ce qu'on fait dans l'activité ce n'est pas dans le but de le faire maid 'augmenter, d'atteindre le résultat
 
-** Écrivez les régles pour que ça soit facile pour vous de gagner **
+**Écrivez les régles pour que ça soit facile pour vous de gagner**
 
 - Si vous gagner trop facilement vous perdez votre excitation et votre motivation 
 - Si c'est trop dur de gagner vous perdez également votre excitation et votre motivation 
