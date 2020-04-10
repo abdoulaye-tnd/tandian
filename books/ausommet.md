@@ -201,5 +201,84 @@ Et pourtant, vous auriez fait là le marché de tous les temps. Jamais plus vous
 
 > Le professeur croyait que les écoliers moyens étaient des génies, il les traitait en génies, il atteidait d'eux qu'ils se conduisent en génies et c'est ce qui arriva. On leur avait fixé un but élevé et non un standard peu exigeant.  
 
+- La façon dont vous voyez les situations et les gens est de la plus haute importance, car vous traitez les gens et les situations comme vous les voyez. 
 
-- Ceux qu
+- C'est la manière donnt vous vous acquittez d'une tâche qui confère sa dignité à tout travail honnête
+
+**L'autre personne la plus importante** 
+
+> La vie est pleine de mystères, mais la plus énigmatique de tous peut-être est la façon dont les personnes traitent leur conjoint. 
+
+- La majorité des gens traitent leurs conjoints sans égard ni courtoisie
+
+> Un homme d'affaires permettra et peut-être encouragera un inconnu à lui faire perdre la moitié de sa matinée. Et quand sa femme l'appelle, au bout de deux minutes, il lui coupe brusquement la parole prétextant qu'il "est très occupé. L'inconnu aura pourtant fort peu d'influence sur le bonheur ou le succès de l'homme d'affaires. 
+> Trop souvent, il se dit qu'elle comprendra, qu'il compensera plus tard par quelque geste.
+
+> N'est-il pas surprenant de constater comme nous sommes aimable avec une secrétaire, courtois envers un commis, gentil avec le facteur et raide et dur avec l'époux ou l'epouse. 
+
+## LES OBJECTIFS SONT-ILS VRAIMENT NECESSAIRES ?
+
+> Howard hill est le plus grand archer qui tendit jamais la corde d'un arc. Pourtant, moi Zig Ziglar, pourrais battre durant sa meilleure journée. j'exigérais qu'on impose un léger handicap à Howard. Je voudrais qu'on lui bande les yeux. 
+
+> Vous trouvez cette analogie ridicule et vous dites "Vous le pourriez. Comment un homme peut-il frapper une cible qu'il ne voit pas ? 
+
+- Si vous ne pouvez frapper une cible invisible, comment pouvez-vous atteindre un but inexistant. 
+
+- A moins d'avoir des objectifs définis, précis et nets, vous ne réaliserez pas le potentiel qui est en vous. Vous ne réussirez pas dans le rôle de nomade à tout faire. 
+
+**La voie vers l'échec** 
+
+- La plupart des gens ont-ils des objectifs ? 
+  - Apparemment pas. 
+- Un homme ou une femme sans objectifs est un bateau sans gouvernail. 
+  - Il (ou elle) dérivera et n'avancera pas. 
+  
+**La vie est précieuse**
+
+- Dans les maisons de retraite 
+  - Le taux de mortalisé baisse de façon spectaculaire avant les jours de congé, les jours spéciaux,les anniversaires de naissance et mariage. 
+  - Bien des gens se donnent pour objectif de vivre encore un Noel, encore un anniversaire, encore une fête nationale etc. 
+  - Immédiatemment après l'événement, la volonté de vivre ddiminue et le taux de mortalité remonte en flèche. **
+
+**Developper le pouvoir** 
+- Concevez des buts et focaliser sur la prochaine étape logique. 
+- On se rend aussi loin que l'on peut voir et qu'une fois là on voit toujours plus loin. 
+- Il n'est pas nécessaire de connaitre tout le chemin vers l'objectif. 
+- Pensez seulement à la prochaine étape logique et quand vous y serez vous verrez plus loin. 
+
+## CARACTERISTIQUES DES OBJECTIFS 
+
+**Les objectifs doivent être grands** 
+
+- Pour être efficaces, des objectifs doivent être grands, car seul un objectif exigeant engendre l'excitation nécessaire à la reussite. 
+- C'est un fait bien connu dans le monde du sport qu'un athlète donnera une meilleure performance contre un compétiteur doué que contre un compétiteur médiocre. 
+- Vos buts, objectifs doivent être assez petit pour que vous arrivez à croire que vous pouvez les realiser et assez gros pour vous exciter
+
+**Ne blâmez pas votre emploi**
+
+- Peu importe votre emploi. Que vous soyez médecin, homme d'affaires, vendeur, plombier, des gens riches vivent du même métier que vous. 
+
+> Je connais des hommes riches qui gèrent des stations-service et je connais des propriètaires de stations-service qui sont fauchés. 
+
+- Il y a des riches et des pauvres vendeurs. La liste est infinie
+- L'occasion relève de l'individu et non de l'occupation
+- Quelle que soit votre occupation, il y a bien des gens qui,avec cette même profession, apportent beaucoup à cette occupation et qui gagnent beaucoup d'argent en conséquence. 
+- Vous ne devez pas votre succès ou votre échec à votre occupation, mais à la façon dont vous vous voyez et dont vous voyez votre occupation
+
+
+**Les objectifs doivent être à long terme** 
+
+> Sans objectif à longue échéance, vous risquez d'échouer sur des frustations immédiates. 
+
+- Vous definissez un objectif long terme mais focalisez sur la prochaine étape
+- Vous avancez aussi loin que vous pouvez voir et quand vous atteignez l'endroit, vous voyez encore plus loin
+- Si vous attendez à la maison que tous les feux soient "verts", vous n'entreprendrez jamais votre trajet
+- La prochaine étape logique est votre objectif quotidien. C'est ce sur quoi vous focalisez.
+
+**Les objectifs doivent être précis** 
+
+> Tout l'art de se choisir un but consiste à viser un objectif précis et détaillé. "Beaucoup" d'argent, une "belle" maison, un emploi "bien remuneré", "vendre davantage", "aider davantage la communauté" , être un meilleur étudiant, mari, épouse. Voila des objectifs trop vagues.
+
+- Au lieu de belle ou grande maison, vous devriez fixer un objectif établi dans les moindres détails.
+Si les détails vous échappent encore, accumulez les magazines illustrés de photos, de dessins, de plans de maisons qui vous plaisent. 
+- Confiez vos nombreuses idées au papier 
