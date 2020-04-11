@@ -455,5 +455,66 @@ Et le répète, pour s'assurer qu'on l'a bien compris.
 
 
 
+**C'est une illusion** 
+
+- Bien des gens croient à tord qu'ils n'ont pas d'écouter des CD ou de lire des livres de motivation sauf lorsqu'ils se sentent découragés et déprimés. 
+  - Que le "besoin" soit plus évident
+- Les avantages à long terme seront plus grands si vous écoutez et si vous lisez dans des moments d'euphorie. 
+  - Quand vous êtes déprimé, vous tentez davantage de vous accrocher à de faux espoirs ou à prendre l'attitude opposée et à rejeter sommairement beaucoup d'idées utiles. Vous tendez davantage à vous concentrer sur le problème que sur la solution 
+  - Quand vous êtes en état d'euphorie, votre optimisme et votre ambition travaillent en temps supplémentaire.
+  - Vous êtes orienté vers la solution et non vers le problème; vous réagissez mieux aux bonnes idées. Vys essaierez bien davantage de les réaliser. 
+- La personne qui relit ou écoute de nouveau le même message y **entendra** ou y **verra** des choses qui lui avaient complètement échappé 
+  - Car vous êtes une nouvelle personne
+  - Vous n'êtes plus la personne que vous étiez la semaine dernière, le mois passé 
+  - Votre expérience vous change, le fait d'agir vous change. 
+
+## Habitudes et attitudes 
+
+> Quand vous adoptez une habitude, vous acceptez également les attitudes qui en résultent. Il est difficile d'acquérir de bonne habitude, mas l est facile de vivre avec. 
+
+**Il n'en avait pas l'intention** 
+
+> Bien que le fait de sacrer et d'employer toutes sortes de mots vulgaires est largement répandu dans la société (bien des gens les utilisent pour déclencher les rires), j'estime quant à moi que blasphémer est une autre mauvaise haitude.
+
+> Je ne crois pas que personne ait jamais favorablement influencé un autre en jurant. Mais je connais bien des cas où l'usage du mauvais langage a fait perdre bien des ventes, démoli des amitiés, fait manquer des chances et mis fin à des amours. Le mauvais langage est une autre de ces mauvaises habitudes qui s'insinuent si graduellement que vous ne vous rendez pas compte de les avoir acquises. 
+
+## ELIMINEZ LES MAUVAISES HABITUDES ET ADOPTEZ LES BONNES 
+
+- Nous nous illusionnons si nous croyons que nous pouvons impunément nous mêler à certaines personnes sans être influencé. 
+
+
+> Si vous vous trouvez assez longtemps au sein d'une situation négative, mauvaise ou destructive, vous passerez de l'objection à la tolérance, de la tolérance à l'acceptation, de l'acceptation à la participation et même au plaisir. La faiblesse du début n'y changera rien, l'habitude croîtra. 
+
+- Utiliser la substitution pour vous éliminer les mauvaises habitudes 
+- La courtoisie, l'enthousiasme sont tous d'excellentes habitudes. 
+  - Vous pouvez littéralement vous forcer d'être courtois, aimeble, enthousiaste avec tous ceux que vous rencontrerez. 
+  - Après vous y être forcé pendant une courte période de temps, l'habitude vient spontanément. 
+
+> Vous voulez être enthousiaste, faites semblant -- Dale Carnegie 
+
+## LES TRAVAILLEURS SORTENT GAGNANTS
+
+**Par ici, pour une augmentation** 
+
+> Dans votre situation présente, quand vous arrivez à temps au travail, que vous fournissez une honnête journée d'efforts, que vous êtes loyal envers votre employeur et que vous acceptez en échange une somme d'argent convenue, vous et votre employeur êtes quittes. 
+
+> Vous travaillez suffisamment pour conserver votre emploi, mais pas assez pour mériter l'augmentation que voptre employeur désire vous donner. 
+
+> Selon mes observations, votre employeur voudrait bien vous payer plus cher, mais il dirige une affaire, pas une institution charitable. Pour qu'il vous paie davantage, il faut que vous ayez une plus grande valeur à ses yeux. Vous la lui fournissez par un effort supplémentaire, une plus grande loyauté, plus d'enthousiasme, des heures plus longues, et en assumant des responsabilités supplémentaires. 
+
+**Petite "capitulation", grande perte**
+
+- Quand vous faites dépendre un animal de l'homme pour sa nourritude, vous le privez de sa débrouillardise et il est en grave difficulté. 
+- Il en est ainsi de l'homme. Si vous voulez créer un infirme, donnez une paire de béquilles à un homme pendant quelques mois - ou donnez-lui un repas gratuit assez souvent pour lui donner l'habitude d'obtenir quelque chose pour rien 
+- Ne faites pas pour quelqu'un ce qu'il peut et devrait faire pour lui-même 
+
+> Bien des fois, j'ai entendu des gens dire: "Si quelqu'un pouvait m'avancer un capital qui me rendrait solvable, ça me permettrait de payer mes factures et de disposer 1000e en banque, je ferais bien tout seul le reste du chemin" Par malheur, bien des gens se leurrent ainsi. Ils attendent la venue de quelqu'un qui leur donnera ce coup de pouce. 
+
+**Au travail, et faites de votre mieux**
+
+- Les travailleurs perdent la fierté de leur travail et leur performance diminue. 
+- Quand la performance diminue, on produit de la camelote
+- La philosophie de faire peu et de gagner beaucoup doit être rejeter. 
+
 
  
