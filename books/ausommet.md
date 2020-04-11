@@ -7,7 +7,7 @@ description: >
 ---
 
 
-###  I. VIVRE DAVANTAGE
+## VIVRE DAVANTAGE
 
 - Une image vaut-elle 10 000 mots ? 
   > Un homme a dit qu'une image valait 10 000 mots. Des milliers de gens ont répeté ces paroles et des millions y ont cru. Je crois que que l'homme ou la femme qui accepte cet aphorisme n'a jamais lu le discours d'Abraham Lincoln à Gettysburg ou la déclaration des droits. Ces oeuvres contiennent seulement des mots mais ces mots ont changé la destinée des nations et la vie de millions de gens. 
@@ -294,6 +294,13 @@ Si les détails vous échappent encore, accumulez les magazines illustrés de ph
 
 **établir un objectif, les principes**
 
+- Vous vous rendrez compte, il est plus facile d'atteindre des objectifs que de les établir. 
+- Votre objectif doit être suffisamment gros pour vous exciter et suffisamment petit pour que vous croyez que vous pouvez le faire. 
+- Souvenez-vous; il vaut mieux hausser un objectif au bout d'un mois que d'avoir à la réduire de façon spectaculaire. 
+- Examinez vos objectifs. 
+  - Inscrivez donc les priorités
+  - Demandez-vous pour chacun d'eux votre croyance que vous allez l'obtenir
+  
 > Perdre 16 kilos me paraissait difficile, peut-être impossible. 
 Jusqu'à ce que je divise le nombre par 10 et me rende compte qu'il s'agissait seulement de perdre un peu plus d'un kilo et demi par mois. 
 
@@ -303,11 +310,26 @@ Jusqu'à ce que je divise le nombre par 10 et me rende compte qu'il s'agissait s
 
 > Chaque réussite, ou dans mon cas chaque parcelle de poids perdue, augmentait ma confiance dans les succès progressif du projet. 
 
+
+- Vous vous rendrez compte, il est plus facile d'atteindre des objectifs que de les établir. 
+- Votre objectif doit être suffisamment gros pour vous exciter et suffisamment petit pour que vous croyez que vous pouvez le faire. 
+- Souvenez-vous; il vaut mieux hausser un objectif au bout d'un mois que d'avoir à la réduire de façon spectaculaire. 
+- Examinez vos objectifs. 
+  - Inscrivez donc les priorités
+  - Demandez-vous pour chacun d'eux votre croyance que vous allez l'obtenir
 - Le succès engendre le succès. 
   - Il est important, lorsque vous établissez et poursuivez un objectif d'arranger les choses de telle sorte que vous ayez un petit succès quelconque" 
   - Cela augmente votre confiance
 - Gardez l'oeil fixé sur l'objectif majeur mais n'oubliez pas qu'en atteignant la prochaine étape vous vous rapprochez un peu plus de votre but. 
 
+**Des objectifs peuvent-ils être négatifs ?**
+  
+- Des objectifs peuvent être négatifs 
+- L'objectif trop ambitieux, trop gros, irréel est un objectif négatif 
+  - Votre objectif doit être suffisamment gros pour vous exciter et suffisamment petit pour que vous croyez que vous pouvez le faire. 
+- L'objectif qui dépendent de la chance est un objectif négatif. ( si l'objectif comporte un élément de chanceà 
+  - Ceux qui réussissent ont créés leurs "chances" grâce aux efforts, à l'engagement 
+- L'objectif qui n'entre pas dans votre champ d'intérêt est un objectif négatif
 
 **Les limites**
 
@@ -355,9 +377,83 @@ Jusqu'à ce que je divise le nombre par 10 et me rende compte qu'il s'agissait s
 
 **Les avait-il vus ?**
 - Une attitude positive produira des résultats positifs parce que les attitudes sont contagieuses. 
-- Une telle attitude est l'enthousiasme 
-- "On n'a jamais rien accompli de grand sans enthousiasme" 
+  - Une telle attitude est l'enthousiasme 
+
+> "On n'a jamais rien accompli de grand sans enthousiasme" -- Elbert Hubbard
+
 - L'enthousiasme est souvent la différence qui distingue le bon orateur du grand orateur 
   - le bon vendeur du grand vendeur
-  
+- La plupart des gens laissent les circonstances contrôler leur attitude au lieu d'utiliser leur attitude pour contrôler les circonstances. Si les "choses" vont bien, leur attitude est bonne. Si les "choses" vont mal, leur attitude est moche
 
+> Il faut appuyer son attitude sur une solide fondation de sorte que quand les "choses" vont mal votre attitude est toujours bonne, ce qui signifie que les "choses" iront bien. 
+
+
+**Pas de situations désespérées** 
+
+- L'attitude s'attrape. Comme l'influenza
+- Si vous désirez "attraper quelque chose", allez où l'attitude domine? 
+- Si vous désirez attraper une bonne attitude mentale, allez où elle prévaut. 
+- Commencez par vous rapprocer des gens qui ont la bonne attitude mentale. 
+  - Si vous n'en trouvez pas, consultez un bon livre ou un audio d'un orateur dynamique
+  
+## ASSUREZ VOTRE ATTITUDE
+
+**Comment fonctionne votre cerveau**
+
+> Le cerveau fonctionne comme un jardin. Tout le monde sait que si vous plantez des haricots, vous n'obtiendrez pas des pommes de terre. 
+Evidemment, vous ne plantez pas un haricot pour obtenir un haricot mais pour en produire beaucoup. 
+
+- Ce que vous plantez dans votre cerveau en ressort multiplié. 
+
+> A cause de notre environnement négatif, la plupart des gens s'attendent au pire et sont rarement déçus. 
+
+> example, Demain matin, en arrivant au travail, imaginez que vous aperceviez un mot du patron "Venez me voir dès votre arrivée" Voici que s'amorce le processus : " Je me demande ce qu'il me veut. M'a-t-il vu partir tôt hier ? ou est-ce ... ? et Ainsi de suite 
+
+- Nous plantons une semence négative et trop souvent nous récoltons une moisson négative. 
+
+## ALIMENTEZ VOTRE ESPRIT 
+
+**Si vous avez faim, mangez**
+
+- Avez-vous mangé le mois dernier ? la semaine dernière ? Hier ? 
+
+> J'ai remarqué que si un homme saute un repas, car trop pressé par ses affaire, il ne manque pas de le proclamer à tout venant. 
+Et le répète, pour s'assurer qu'on l'a bien compris.
+
+> Supposons maintenant qu'on interroge le même indivu sur son appétit mental " Quand avez-vous de propos délibéré, et selon un programme prédéterminé, nourri votre esprit ?"
+
+- Quelle sera sa réponse ? Quelle sera la vôtre ? 
+- Vous avez un appétit mental autant qu'un besoin organique. 
+
+**Appétit mental, que faites-vous** 
+
+> Les gens sont drôles. Je n'ai jamais rencontré un individu qui ait faim et qui dise : "Je meurs de faim. Je me demande ce que je devrais faire. Avez-vous une suggestion ? Pouvez-vous m'aider à résoudre ce problème " Je ne vivrai sans doute jamais cette situation. L'homme affamé sait qu'il a faim. Il résout le problème en mangeant. 
+
+
+> Dans quelle proportion nourrissons-nous notre esprit, cette partie de nous dont la valeur est illimitée, qui contient notre potentiel de gain et de bonheur ? En majorité, nous le sustentons accidentellement, au hasard, quand cela nous convient, lorsque nous n'avons rien d'autre à faire? Nous prétextons souvent le manque de temps. C'est ridicule. 
+
+> Si vous avez le temps de nourrir chaque jour la partie de vous quui vaut 60 euros, n'est-il pas raisonnable de prendre le temps d'alimenter la partie dont le potentiel est illimité ? 
+
+> Bien des fois, j'ai rencontré des gens qui étaient découragés, négatifs, vaincus, honteux d'eux-mêmes, fauchés, malheureux.... Si c'est négatif ça leur ira. Le plus étrange chez ces gens-là, c'est qu'ils sont de eux qui résistent à tout effort pour nourrir leur esprit ou leurs attitudes. Ils ont un besoin urgent d'inspiration et d'information, mais ils refusent obstinément d'assister à des séminaires ou de lire de bons livres ou d'écouter des enregistrements qui les motiveraient. C'est vraiment comique de les entendre - peut-être devrais-je plutôt dire "Tragique" ? 
+
+> Presque tout ce que nous apprenons, nous l'apprenons consciemment que nous le faisons bien. Vous avez appris à conduire une voiture consciemment. Peut de temps après, vous pouviez embrayer, abaisser la fenêtre, ouvrir un paquet de gomme et causer en même temps avec votre passager. Vous pouviez faire tout cela en toute sécurité parce que vos aviez transféré toute l'opération de l'esprit conscient au subconscient. 
+
+
+> Une grande université américaine a decouvert que si vous êtes exposé une fois à une matière nouvelle, vous n'en aurez retenu que 2% deux semaines plus tard. Si vous y êtes exposé 6 fois de suite, vous en aurez retenu 62%, deux semaines plus tard. Et, ce qui importe davantage, vous serez bien plus porté à agir dans le sens de ce que vous aurez appris. Oh ! Je sais fort bien que pour beaucoup d'entre vous, une bonne partie de tout ceci n'a rien de neuf! Mais je sais aussi que, même si vous l'avez déjà **vu** ou **entendu**, nous ne l'avez pas **vraiment** vu ou **vraiment** entendu, parce que vous n'en tirez pas le maximum
+
+- Si vous n'adaptez pas vos connaissances à vos actes, vous auriez tout aussi bien fait de ne pas les acquérir. 
+- Il y a une différence entre lire et apprendre.
+  - Apprendre si bien que vous ne savez pas seulement consciemment, mais que vous savez et sentez inconsciemment. 
+  
+**Le contrôle de l'attitude** 
+
+> Un bébé se trouve constamment auprès d'adultes qui parlent, le premier pas est donc le **le contact**. Le bébé essaie lui aussi de parler, c'est **l'imitation**. Les amis et les parents vantent ou admirent les progrès de l'enfant, c'est de **l'encouragement**. Ce qui pousse le bébé à essayer de nouveau, c'est la **répétition**. Enfin, le bébé commence à rélier des mots. Il obtient des phrases. C'est le dernier stade, celui du **raffinement**. A l'âge de trois ou quatre ans, l'enfant possède un vocabulaire respectable et il ne peut pas encore un mot. 
+
+> La société International Paper possède la preuve statistique que le chiffre du revenu d'une personne est diretement proportionnel à l'étendue de son vocabulaire. 
+
+> Je suis persuadé que vous pouvez augmenter votre revenu, votre plaisir en changeant votre vocabulaire. Optez pour des mots positifs
+
+
+
+
+ 
