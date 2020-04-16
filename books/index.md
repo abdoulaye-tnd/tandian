@@ -17,6 +17,7 @@ order: 1
 * [Le plus étrange des secrets]{:.heading.flip-title} -- Earl Nightingale
 * [Le jeu du travail - The game of work]{:.heading.flip-title} -- Charles coonradt
 * [La magie de voir GRAND]{:.heading.flip-title}  -- David J. Schwartz
+* [Rendez-vous au sommet]{:.heading.flip-title}  -- Zig Ziglar
 * [Connaitre le score]{:.heading.flip-title}  -- KT
 
 
@@ -42,3 +43,4 @@ order: 1
 [Le jeu du travail - The game of work]: gameofwork.md
 [Connaitre le score]: lescore.md
 [La magie de voir GRAND]: lamagiedevoirgrand.md
+[Rendez-vous au sommet]: ausommet.md
