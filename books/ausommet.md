@@ -387,6 +387,17 @@ Jusqu'à ce que je divise le nombre par 10 et me rende compte qu'il s'agissait s
 
 > Il faut appuyer son attitude sur une solide fondation de sorte que quand les "choses" vont mal votre attitude est toujours bonne, ce qui signifie que les "choses" iront bien. 
 
+**Vous voilà par terre - relevez-vous**
+
+- Comment réagissez-vous à la grossièreté, à la colère, au sarcasme, au rejet, à une serveuse lente et impolie ? 
+- Comment vous affecte un retard de circulation ou un jour froid et triste ? 
+- Quand quelqu'un vous engueule injustement, répondez-vous sur le même ton ? 
+- Laissez-vous les autres vous abaisser à leur niveau ? 
+- Votre réaction à toutes ces situations négatives influencera sérieusement votre syccès ou votre bonheur dans la vie. 
+
+> Regardons maintenant positivement certaines façons de penser négatives. 
+Cavett Robert : " Personne ne manque sa vie à la suite d'une chute ou d'un instant de découragement. Cela se produit quand on est négatif, qu'on ne se relève pas " 
+
 
 **Pas de situations désespérées** 
 
@@ -518,3 +529,23 @@ Et le répète, pour s'assurer qu'on l'a bien compris.
 
 
  
+## Amorcer, pomper, produire 
+
+> Dans la vie, il faut mettre quelque chose *dedans* avant d'en retirer. Malheuresement, il y a bien des gens qui se tiennent devant le poèle de la vie et disent: "Poèle, donne-moi de la chaleur et je te donnerai du bois"
+
+> Bien souvent la secrétaire se présente au patron et lui dit " Augmentez mon salaire et je travaillerai mieux et plus consciencieusement pour vous" Le vendeur s'adresse souvent au patron en ces termes : " Nommez-moi directeur commercial et je vous montrerai vraiment ce que je peux faire, mais il faut que je dirige pour fournir mon meilleur travail" 
+
+- *Vous devez d'abord investir dans la vie avant d'esperer pouvoir en retirer quelque chose* 
+- Si vous pouvez appliquer cette leçon au reste de votre vie, vous pourrez résoudre beaucoup de vos problèmes. 
+
+> Le cultivateur doit planter la graine au printemps ou à l'été s'il récolter à l'automne. Il "investit" beaucoup de travail dans sa récolte avant qu'elle ne mûrisse. 
+
+> L'étudiant investit des centaines d'heures de traval avant d'acquérir ses connaissances et le diplome qui en fait foi.
+
+> L'athlète d'aujourd'hui qui sera le champion de demain "investit" une grande part de lui-même, sous forme de sueur et d'effort, avant de mériter la récompense du champion. 
+
+- Quand vous mettez quelque chose "dedans", la loi des compensations veut que vous en "retiriez" quelque chose. 
+
+
+
+
